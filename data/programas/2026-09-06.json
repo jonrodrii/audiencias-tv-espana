@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-06",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1270000,
+      "share": 17.7,
+      "rating": 2.7
+    },
+    {
+      "programa": "Multicine: Una rosa para su tumba",
+      "cadena": "Antena 3",
+      "espectadores": 1089000,
+      "share": 12.1,
+      "rating": 2.3
+    },
+    {
+      "programa": "El secreto",
+      "cadena": "Antena 3",
+      "espectadores": 1081000,
+      "share": 12.5,
+      "rating": 2.3
+    },
+    {
+      "programa": "Película de la semana: Black adam",
+      "cadena": "La 1",
+      "espectadores": 967000,
+      "share": 10.3,
+      "rating": 2.0
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 821000,
+      "share": 9.9,
+      "rating": 1.7
+    },
+    {
+      "programa": "Erase 1 vez: Blancanieves ( mirror, mirror )",
+      "cadena": "La 1",
+      "espectadores": 790000,
+      "share": 8.7,
+      "rating": 1.7
+    },
+    {
+      "programa": "Multicine 2: Juicio a la verdad",
+      "cadena": "Antena 3",
+      "espectadores": 779000,
+      "share": 9.5,
+      "rating": 1.6
+    },
+    {
+      "programa": "Una nueva vida",
+      "cadena": "Antena 3",
+      "espectadores": 754000,
+      "share": 16.2,
+      "rating": 1.6
+    },
+    {
+      "programa": "Futbol: Liga española: Valencia-Barcelona",
+      "cadena": "Icono Movistar",
+      "espectadores": 728000,
+      "share": 8.1,
+      "rating": 1.5
+    },
+    {
+      "programa": "La vuelta: Programa: Palma del Rio-Cordoba",
+      "cadena": "La 2",
+      "espectadores": 719000,
+      "share": 7.9,
+      "rating": 1.5
+    }
+  ]
+}
