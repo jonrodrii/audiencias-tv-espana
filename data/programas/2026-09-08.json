@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-08",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1583000,
+      "share": 20.9,
+      "rating": 3.3
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1523000,
+      "share": 13.8,
+      "rating": 3.2
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1364000,
+      "share": 16.1,
+      "rating": 2.9
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1122000,
+      "share": 12.6,
+      "rating": 2.4
+    },
+    {
+      "programa": "La Revuelta: Borja Iglesias-Carmen Lomana",
+      "cadena": "La 1",
+      "espectadores": 1107000,
+      "share": 9.7,
+      "rating": 2.3
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1075000,
+      "share": 12.3,
+      "rating": 2.3
+    },
+    {
+      "programa": "El secreto",
+      "cadena": "Antena 3",
+      "espectadores": 999000,
+      "share": 12.9,
+      "rating": 2.1
+    },
+    {
+      "programa": "Horizonte",
+      "cadena": "Cuatro",
+      "espectadores": 961000,
+      "share": 8.6,
+      "rating": 2.0
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 944000,
+      "share": 11.6,
+      "rating": 2.0
+    },
+    {
+      "programa": "La Promesa",
+      "cadena": "La 1",
+      "espectadores": 928000,
+      "share": 12.8,
+      "rating": 2.0
+    }
+  ]
+}
