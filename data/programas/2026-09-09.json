@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-09",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1563000,
+      "share": 21.7,
+      "rating": 3.3
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1483000,
+      "share": 17.0,
+      "rating": 3.1
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1399000,
+      "share": 12.6,
+      "rating": 2.9
+    },
+    {
+      "programa": "La Revuelta: Michelle Jenner-Tanxugueiras",
+      "cadena": "La 1",
+      "espectadores": 1340000,
+      "share": 11.8,
+      "rating": 2.8
+    },
+    {
+      "programa": "Horizonte: Avance",
+      "cadena": "Cuatro",
+      "espectadores": 1166000,
+      "share": 10.2,
+      "rating": 2.5
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1137000,
+      "share": 13.2,
+      "rating": 2.4
+    },
+    {
+      "programa": "First dates",
+      "cadena": "Telecinco icono",
+      "espectadores": 1075000,
+      "share": 9.5,
+      "rating": 2.3
+    },
+    {
+      "programa": "Horizonte",
+      "cadena": "Cuatro",
+      "espectadores": 1059000,
+      "share": 11.6,
+      "rating": 2.2
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1000000,
+      "share": 11.2,
+      "rating": 2.1
+    },
+    {
+      "programa": "El tunel: Avanza y gana",
+      "cadena": "La 1",
+      "espectadores": 949000,
+      "share": 12.2,
+      "rating": 2.0
+    }
+  ]
+}
