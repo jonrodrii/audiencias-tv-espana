@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-11",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1331000,
+      "share": 20.0,
+      "rating": 2.8
+    },
+    {
+      "programa": "La vuelta: Velez-malaga-Peñas Blancas.estepona",
+      "cadena": "La 1",
+      "espectadores": 1228000,
+      "share": 14.0,
+      "rating": 2.6
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1227000,
+      "share": 13.9,
+      "rating": 2.6
+    },
+    {
+      "programa": "La vuelta: Programa: Velez-malaga-Peñas Blancas.estepona",
+      "cadena": "La 1",
+      "espectadores": 1223000,
+      "share": 14.0,
+      "rating": 2.6
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1222000,
+      "share": 17.0,
+      "rating": 2.6
+    },
+    {
+      "programa": "El Peliculón: Sin instrucciones",
+      "cadena": "Antena 3",
+      "espectadores": 1067000,
+      "share": 12.7,
+      "rating": 2.2
+    },
+    {
+      "programa": "Los archivos secretos del nodo",
+      "cadena": "La 1",
+      "espectadores": 972000,
+      "share": 10.4,
+      "rating": 2.0
+    },
+    {
+      "programa": "Directo al grano",
+      "cadena": "La 1",
+      "espectadores": 857000,
+      "share": 11.4,
+      "rating": 1.8
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 849000,
+      "share": 11.7,
+      "rating": 1.8
+    },
+    {
+      "programa": "La Promesa",
+      "cadena": "La 1",
+      "espectadores": 838000,
+      "share": 12.2,
+      "rating": 1.8
+    }
+  ]
+}
