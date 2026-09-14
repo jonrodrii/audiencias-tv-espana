@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-13",
+  "programas": [
+    {
+      "programa": "Formula 1: G.P.españa",
+      "cadena": "Telecinco icono",
+      "espectadores": 1551000,
+      "share": 16.9,
+      "rating": 3.3
+    },
+    {
+      "programa": "Película de la semana: Jurado n°2",
+      "cadena": "La 1",
+      "espectadores": 1175000,
+      "share": 12.1,
+      "rating": 2.5
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1160000,
+      "share": 16.3,
+      "rating": 2.4
+    },
+    {
+      "programa": "El secreto",
+      "cadena": "Antena 3",
+      "espectadores": 1044000,
+      "share": 11.5,
+      "rating": 2.2
+    },
+    {
+      "programa": "Post formula 1: G.P.españa",
+      "cadena": "Telecinco icono",
+      "espectadores": 976000,
+      "share": 10.8,
+      "rating": 2.1
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 878000,
+      "share": 10.3,
+      "rating": 1.8
+    },
+    {
+      "programa": "Multicine: La hija secreta de mi madre",
+      "cadena": "Antena 3",
+      "espectadores": 820000,
+      "share": 9.1,
+      "rating": 1.7
+    },
+    {
+      "programa": "Me caso en la 1 2: El día de la boda ( the wedding date )",
+      "cadena": "La 1",
+      "espectadores": 744000,
+      "share": 8.7,
+      "rating": 1.6
+    },
+    {
+      "programa": "Futbol: Liga española: Levante-Barcelona",
+      "cadena": "Icono Movistar",
+      "espectadores": 741000,
+      "share": 8.3,
+      "rating": 1.6
+    },
+    {
+      "programa": "Una nueva vida",
+      "cadena": "Antena 3",
+      "espectadores": 732000,
+      "share": 15.8,
+      "rating": 1.5
+    }
+  ]
+}
