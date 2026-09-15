@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-14",
+  "programas": [
+    {
+      "programa": "Entrevista: Juan Vivas",
+      "cadena": "Antena 3",
+      "espectadores": 2094000,
+      "share": 17.0,
+      "rating": 4.4
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1940000,
+      "share": 16.7,
+      "rating": 4.1
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1587000,
+      "share": 22.3,
+      "rating": 3.3
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1531000,
+      "share": 19.0,
+      "rating": 3.2
+    },
+    {
+      "programa": "Entrevista: Pedro Sanchez",
+      "cadena": "laSexta",
+      "espectadores": 1469000,
+      "share": 12.0,
+      "rating": 3.1
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1297000,
+      "share": 15.0,
+      "rating": 2.7
+    },
+    {
+      "programa": "La Revuelta: La Mala & Flo",
+      "cadena": "La 1",
+      "espectadores": 1219000,
+      "share": 10.3,
+      "rating": 2.6
+    },
+    {
+      "programa": "El Intermedio",
+      "cadena": "laSexta",
+      "espectadores": 1103000,
+      "share": 9.3,
+      "rating": 2.3
+    },
+    {
+      "programa": "Horizonte",
+      "cadena": "Cuatro",
+      "espectadores": 1076000,
+      "share": 9.2,
+      "rating": 2.3
+    },
+    {
+      "programa": "First dates",
+      "cadena": "Telecinco icono",
+      "espectadores": 1005000,
+      "share": 8.6,
+      "rating": 2.1
+    }
+  ]
+}
