@@ -5773,5 +5773,80 @@
         "rating": 1.9
       }
     ]
+  },
+  {
+    "fecha": "2026-09-18",
+    "programas": [
+      {
+        "programa": "La ruleta de la suerte",
+        "cadena": "Antena 3",
+        "espectadores": 1572000,
+        "share": 22.7,
+        "rating": 3.3
+      },
+      {
+        "programa": "Pasapalabra",
+        "cadena": "Antena 3",
+        "espectadores": 1353000,
+        "share": 18.1,
+        "rating": 2.8
+      },
+      {
+        "programa": "Sueños de libertad",
+        "cadena": "Antena 3",
+        "espectadores": 1289000,
+        "share": 14.7,
+        "rating": 2.7
+      },
+      {
+        "programa": "Los archivos secretos del nodo",
+        "cadena": "La 1",
+        "espectadores": 1116000,
+        "share": 11.0,
+        "rating": 2.3
+      },
+      {
+        "programa": "La Voz: Audiciones",
+        "cadena": "Antena 3",
+        "espectadores": 1076000,
+        "share": 13.8,
+        "rating": 2.3
+      },
+      {
+        "programa": "Lorca, las horas perdidas",
+        "cadena": "La 1",
+        "espectadores": 973000,
+        "share": 11.4,
+        "rating": 2.0
+      },
+      {
+        "programa": "La Voz: A punto de empezar",
+        "cadena": "Antena 3",
+        "espectadores": 967000,
+        "share": 9.5,
+        "rating": 2.0
+      },
+      {
+        "programa": "First dates",
+        "cadena": "Telecinco icono",
+        "espectadores": 930000,
+        "share": 9.2,
+        "rating": 2.0
+      },
+      {
+        "programa": "Directo al grano",
+        "cadena": "La 1",
+        "espectadores": 908000,
+        "share": 10.9,
+        "rating": 1.9
+      },
+      {
+        "programa": "La Promesa",
+        "cadena": "La 1",
+        "espectadores": 880000,
+        "share": 13.0,
+        "rating": 1.9
+      }
+    ]
   }
 ]
