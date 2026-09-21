@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-05-30",
+  "programas": [
+    {
+      "programa": "Penaltis futbol: Champions league: Paris st.germain-arsenal",
+      "cadena": "La 1",
+      "espectadores": 3601000,
+      "share": 39.7,
+      "rating": 7.6
+    },
+    {
+      "programa": "Prorroga futbol: Champions league: Paris st.germain-arsenal",
+      "cadena": "La 1",
+      "espectadores": 3188000,
+      "share": 35.5,
+      "rating": 6.7
+    },
+    {
+      "programa": "Futbol: Champions league: Paris st.germain-arsenal",
+      "cadena": "La 1",
+      "espectadores": 2640000,
+      "share": 29.5,
+      "rating": 5.6
+    },
+    {
+      "programa": "Post futbol: Champions league: Paris st.germain-arsenal",
+      "cadena": "La 1",
+      "espectadores": 2192000,
+      "share": 25.2,
+      "rating": 4.6
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1270000,
+      "share": 18.2,
+      "rating": 2.7
+    },
+    {
+      "programa": "Previo futbol: Champions league: Paris st.germain-arsenal",
+      "cadena": "La 1",
+      "espectadores": 1260000,
+      "share": 14.9,
+      "rating": 2.6
+    },
+    {
+      "programa": "Multicine: Intocable de eric toledano y olivier nakache",
+      "cadena": "Antena 3",
+      "espectadores": 1099000,
+      "share": 13.2,
+      "rating": 2.3
+    },
+    {
+      "programa": "La voz kids: Audiciones",
+      "cadena": "Antena 3",
+      "espectadores": 1076000,
+      "share": 13.5,
+      "rating": 2.3
+    },
+    {
+      "programa": "Informe semanal",
+      "cadena": "La 1",
+      "espectadores": 1000000,
+      "share": 11.6,
+      "rating": 2.1
+    },
+    {
+      "programa": "Sesión de tarde: #chef",
+      "cadena": "La 1",
+      "espectadores": 993000,
+      "share": 12.0,
+      "rating": 2.1
+    }
+  ]
+}

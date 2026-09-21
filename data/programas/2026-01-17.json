@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-01-17",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1376000,
+      "share": 17.7,
+      "rating": 2.9
+    },
+    {
+      "programa": "La novia de america: Larry crowne, nunca es tarde",
+      "cadena": "La 1",
+      "espectadores": 1358000,
+      "share": 13.8,
+      "rating": 2.9
+    },
+    {
+      "programa": "Cine de barrio: La graduada",
+      "cadena": "La 1",
+      "espectadores": 1175000,
+      "share": 12.1,
+      "rating": 2.5
+    },
+    {
+      "programa": "La ruleta de la suerte noche",
+      "cadena": "Antena 3",
+      "espectadores": 1172000,
+      "share": 11.0,
+      "rating": 2.5
+    },
+    {
+      "programa": "Multicine: Engañada por mi marido",
+      "cadena": "Antena 3",
+      "espectadores": 1166000,
+      "share": 11.9,
+      "rating": 2.5
+    },
+    {
+      "programa": "Cine de barrio presentación: La graduada",
+      "cadena": "La 1",
+      "espectadores": 1140000,
+      "share": 11.8,
+      "rating": 2.4
+    },
+    {
+      "programa": "La novia de america 2: La boda de mi mejor amigo",
+      "cadena": "La 1",
+      "espectadores": 1114000,
+      "share": 11.9,
+      "rating": 2.3
+    },
+    {
+      "programa": "La novia de america: Erin brockovich",
+      "cadena": "La 1",
+      "espectadores": 1073000,
+      "share": 10.5,
+      "rating": 2.3
+    },
+    {
+      "programa": "Informe semanal",
+      "cadena": "La 1",
+      "espectadores": 1056000,
+      "share": 9.3,
+      "rating": 2.2
+    },
+    {
+      "programa": "Got Talent España",
+      "cadena": "Telecinco icono",
+      "espectadores": 850000,
+      "share": 9.2,
+      "rating": 1.8
+    }
+  ]
+}

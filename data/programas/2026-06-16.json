@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-06-16",
+  "programas": [
+    {
+      "programa": "Futbol: Copa mundial: Francia-senegal: Previa",
+      "cadena": "La 1",
+      "espectadores": 3322000,
+      "share": 27.6,
+      "rating": 7.0
+    },
+    {
+      "programa": "Fifa world cup 2026",
+      "cadena": "La 1",
+      "espectadores": 2965000,
+      "share": 25.8,
+      "rating": 6.2
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1579000,
+      "share": 20.7,
+      "rating": 3.3
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1533000,
+      "share": 12.3,
+      "rating": 3.2
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1478000,
+      "share": 18.7,
+      "rating": 3.1
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1287000,
+      "share": 14.7,
+      "rating": 2.7
+    },
+    {
+      "programa": "Teledeporte: Directo al mundial",
+      "cadena": "La 1",
+      "espectadores": 1169000,
+      "share": 12.4,
+      "rating": 2.5
+    },
+    {
+      "programa": "La Revuelta: Kubalita & Quilla-maria Jose Llergo",
+      "cadena": "La 1",
+      "espectadores": 985000,
+      "share": 11.8,
+      "rating": 2.1
+    },
+    {
+      "programa": "Horizonte",
+      "cadena": "Cuatro",
+      "espectadores": 978000,
+      "share": 7.8,
+      "rating": 2.1
+    },
+    {
+      "programa": "La Promesa",
+      "cadena": "La 1",
+      "espectadores": 948000,
+      "share": 13.6,
+      "rating": 2.0
+    }
+  ]
+}

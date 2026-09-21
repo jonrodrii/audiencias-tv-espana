@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-05-11",
+  "programas": [
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1756000,
+      "share": 13.9,
+      "rating": 3.7
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1724000,
+      "share": 19.0,
+      "rating": 3.6
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1594000,
+      "share": 21.5,
+      "rating": 3.4
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1308000,
+      "share": 14.9,
+      "rating": 2.8
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1199000,
+      "share": 12.8,
+      "rating": 2.5
+    },
+    {
+      "programa": "First dates",
+      "cadena": "Telecinco icono",
+      "espectadores": 1188000,
+      "share": 9.4,
+      "rating": 2.5
+    },
+    {
+      "programa": "La Revuelta: Mariano Peña-sara Correia",
+      "cadena": "La 1",
+      "espectadores": 1135000,
+      "share": 8.9,
+      "rating": 2.4
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 1028000,
+      "share": 12.4,
+      "rating": 2.2
+    },
+    {
+      "programa": "El Intermedio",
+      "cadena": "laSexta",
+      "espectadores": 1010000,
+      "share": 7.9,
+      "rating": 2.1
+    },
+    {
+      "programa": "Horizonte",
+      "cadena": "Cuatro",
+      "espectadores": 995000,
+      "share": 7.9,
+      "rating": 2.1
+    }
+  ]
+}

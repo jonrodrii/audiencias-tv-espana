@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-03-03",
+  "programas": [
+    {
+      "programa": "Futbol: Copa del rey: Barcelona-at.madrid",
+      "cadena": "La 1",
+      "espectadores": 4028000,
+      "share": 26.9,
+      "rating": 8.5
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 2054000,
+      "share": 18.6,
+      "rating": 4.3
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1599000,
+      "share": 20.5,
+      "rating": 3.4
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1541000,
+      "share": 10.3,
+      "rating": 3.2
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1255000,
+      "share": 14.0,
+      "rating": 2.6
+    },
+    {
+      "programa": "La Revuelta: Marta Hazas-ricardo Fernandez Del Moral",
+      "cadena": "La 1",
+      "espectadores": 1183000,
+      "share": 12.8,
+      "rating": 2.5
+    },
+    {
+      "programa": "First dates",
+      "cadena": "Telecinco icono",
+      "espectadores": 1027000,
+      "share": 6.9,
+      "rating": 2.2
+    },
+    {
+      "programa": "Futbol: Clasificacion mundial femenino: España-islandia",
+      "cadena": "La 1",
+      "espectadores": 1018000,
+      "share": 11.1,
+      "rating": 2.1
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 1017000,
+      "share": 12.0,
+      "rating": 2.1
+    },
+    {
+      "programa": "Valle Salvaje",
+      "cadena": "La 1",
+      "espectadores": 959000,
+      "share": 12.8,
+      "rating": 2.0
+    }
+  ]
+}

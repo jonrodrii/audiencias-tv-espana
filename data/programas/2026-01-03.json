@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-01-03",
+  "programas": [
+    {
+      "programa": "Comparecencia: Donald trump",
+      "cadena": "La 1",
+      "espectadores": 1633000,
+      "share": 16.8,
+      "rating": 3.5
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1445000,
+      "share": 18.4,
+      "rating": 3.1
+    },
+    {
+      "programa": "Especial informativo: Ee.uu.ataca venezuela",
+      "cadena": "La 1",
+      "espectadores": 1414000,
+      "share": 14.5,
+      "rating": 3.0
+    },
+    {
+      "programa": "Avance informativo: Ee.uu.ataca venezuela",
+      "cadena": "La 1",
+      "espectadores": 1320000,
+      "share": 20.1,
+      "rating": 2.8
+    },
+    {
+      "programa": "Especial informativo: Ee.uu.captura a maduro",
+      "cadena": "La 1",
+      "espectadores": 1128000,
+      "share": 10.2,
+      "rating": 2.4
+    },
+    {
+      "programa": "La ruleta de la suerte noche",
+      "cadena": "Antena 3",
+      "espectadores": 1097000,
+      "share": 9.9,
+      "rating": 2.3
+    },
+    {
+      "programa": "Especial noticias: Ataque venezuela",
+      "cadena": "Antena 3",
+      "espectadores": 1096000,
+      "share": 11.2,
+      "rating": 2.3
+    },
+    {
+      "programa": "Multicine: El hombre al que condene",
+      "cadena": "Antena 3",
+      "espectadores": 993000,
+      "share": 10.1,
+      "rating": 2.1
+    },
+    {
+      "programa": "laSexta Xplica",
+      "cadena": "laSexta",
+      "espectadores": 875000,
+      "share": 9.5,
+      "rating": 1.9
+    },
+    {
+      "programa": "Avance informativo: Estados unidos ataca venezuela",
+      "cadena": "Telecinco icono",
+      "espectadores": 873000,
+      "share": 9.0,
+      "rating": 1.9
+    }
+  ]
+}

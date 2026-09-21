@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-02-28",
+  "programas": [
+    {
+      "programa": "40 premios goya: Barcelona",
+      "cadena": "La 1",
+      "espectadores": 2396000,
+      "share": 26.0,
+      "rating": 5.0
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1266000,
+      "share": 17.7,
+      "rating": 2.7
+    },
+    {
+      "programa": "La alfombra de los goya",
+      "cadena": "La 1",
+      "espectadores": 1048000,
+      "share": 12.1,
+      "rating": 2.2
+    },
+    {
+      "programa": "Multicine: Unidos por el pasado",
+      "cadena": "Antena 3",
+      "espectadores": 922000,
+      "share": 10.8,
+      "rating": 1.9
+    },
+    {
+      "programa": "Sesión de tarde: Campeonex",
+      "cadena": "La 1",
+      "espectadores": 815000,
+      "share": 9.6,
+      "rating": 1.7
+    },
+    {
+      "programa": "Atrapa un millón",
+      "cadena": "Antena 3",
+      "espectadores": 796000,
+      "share": 7.5,
+      "rating": 1.7
+    },
+    {
+      "programa": "Sesión de tarde 2: Thi mai,rumbo a vietnam",
+      "cadena": "La 1",
+      "espectadores": 771000,
+      "share": 9.8,
+      "rating": 1.6
+    },
+    {
+      "programa": "Home cinema: Salt",
+      "cadena": "Cuatro",
+      "espectadores": 755000,
+      "share": 8.8,
+      "rating": 1.6
+    },
+    {
+      "programa": "Multicine 3: Mejores amigas para siempre",
+      "cadena": "Antena 3",
+      "espectadores": 673000,
+      "share": 7.7,
+      "rating": 1.4
+    },
+    {
+      "programa": "¡Allá tú!",
+      "cadena": "Telecinco icono",
+      "espectadores": 648000,
+      "share": 7.2,
+      "rating": 1.4
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-01-12",
+  "programas": [
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 2142000,
+      "share": 20.4,
+      "rating": 4.5
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1660000,
+      "share": 21.4,
+      "rating": 3.5
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1648000,
+      "share": 12.8,
+      "rating": 3.5
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1545000,
+      "share": 14.4,
+      "rating": 3.2
+    },
+    {
+      "programa": "La isla de las tentaciones: Express",
+      "cadena": "Telecinco icono",
+      "espectadores": 1532000,
+      "share": 11.8,
+      "rating": 3.2
+    },
+    {
+      "programa": "La Revuelta: Sara Garcia",
+      "cadena": "La 1",
+      "espectadores": 1527000,
+      "share": 11.7,
+      "rating": 3.2
+    },
+    {
+      "programa": "La isla de las tentaciones",
+      "cadena": "Telecinco icono",
+      "espectadores": 1381000,
+      "share": 17.5,
+      "rating": 2.9
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1340000,
+      "share": 14.6,
+      "rating": 2.8
+    },
+    {
+      "programa": "Malas lenguas",
+      "cadena": "La 1",
+      "espectadores": 1110000,
+      "share": 12.1,
+      "rating": 2.3
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 1050000,
+      "share": 12.3,
+      "rating": 2.2
+    }
+  ]
+}

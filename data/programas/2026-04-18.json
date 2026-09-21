@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-04-18",
+  "programas": [
+    {
+      "programa": "Prorroga futbol: C.rey: At.madrid-r.sociedad",
+      "cadena": "La 1",
+      "espectadores": 4705000,
+      "share": 39.6,
+      "rating": 9.9
+    },
+    {
+      "programa": "Futbol: Copa del rey: At.madrid-r.sociedad",
+      "cadena": "La 1",
+      "espectadores": 4286000,
+      "share": 37.3,
+      "rating": 9.0
+    },
+    {
+      "programa": "Post futbol: Copa del rey: At.madrid-r.sociedad",
+      "cadena": "La 1",
+      "espectadores": 2565000,
+      "share": 29.6,
+      "rating": 5.4
+    },
+    {
+      "programa": "Previo futbol: Copa del rey: At.madrid-r.sociedad",
+      "cadena": "La 1",
+      "espectadores": 1366000,
+      "share": 17.4,
+      "rating": 2.9
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1278000,
+      "share": 19.4,
+      "rating": 2.7
+    },
+    {
+      "programa": "Multicine: La fuga de elizabeth thomas",
+      "cadena": "Antena 3",
+      "espectadores": 1159000,
+      "share": 13.6,
+      "rating": 2.4
+    },
+    {
+      "programa": "Multicine 2: Casas de cristal",
+      "cadena": "Antena 3",
+      "espectadores": 890000,
+      "share": 12.1,
+      "rating": 1.9
+    },
+    {
+      "programa": "Futbol: Clasificacion mundial femenino: España-ucrania",
+      "cadena": "La 1",
+      "espectadores": 768000,
+      "share": 9.0,
+      "rating": 1.6
+    },
+    {
+      "programa": "Atrapa un millón",
+      "cadena": "Antena 3",
+      "espectadores": 728000,
+      "share": 6.1,
+      "rating": 1.5
+    },
+    {
+      "programa": "Multicine 3: Testigo silencioso ( 2019 )",
+      "cadena": "Antena 3",
+      "espectadores": 727000,
+      "share": 9.9,
+      "rating": 1.5
+    }
+  ]
+}

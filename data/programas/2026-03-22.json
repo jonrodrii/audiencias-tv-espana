@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-03-22",
+  "programas": [
+    {
+      "programa": "Película de la semana: Indiana jones y el dial del destino",
+      "cadena": "La 1",
+      "espectadores": 1331000,
+      "share": 12.9,
+      "rating": 2.8
+    },
+    {
+      "programa": "Lo de Évole",
+      "cadena": "laSexta",
+      "espectadores": 1251000,
+      "share": 9.6,
+      "rating": 2.6
+    },
+    {
+      "programa": "Lo de Évole",
+      "cadena": "laSexta",
+      "espectadores": 1240000,
+      "share": 10.7,
+      "rating": 2.6
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1184000,
+      "share": 16.7,
+      "rating": 2.5
+    },
+    {
+      "programa": "Aventura jones: En busca del arca perdida",
+      "cadena": "La 1",
+      "espectadores": 1060000,
+      "share": 12.1,
+      "rating": 2.2
+    },
+    {
+      "programa": "Sesión de tarde: Viaje al centro de la tierra 2:la isla misteriosa",
+      "cadena": "La 1",
+      "espectadores": 1012000,
+      "share": 10.0,
+      "rating": 2.1
+    },
+    {
+      "programa": "Multicine: Llega una extraña ( 2023 )",
+      "cadena": "Antena 3",
+      "espectadores": 998000,
+      "share": 11.4,
+      "rating": 2.1
+    },
+    {
+      "programa": "¡Allá tú!",
+      "cadena": "Telecinco icono",
+      "espectadores": 995000,
+      "share": 9.5,
+      "rating": 2.1
+    },
+    {
+      "programa": "Supervivientes: Conexión Honduras",
+      "cadena": "Telecinco icono",
+      "espectadores": 967000,
+      "share": 12.4,
+      "rating": 2.0
+    },
+    {
+      "programa": "Aventura jones 2: Indiana jones y el templo maldito",
+      "cadena": "La 1",
+      "espectadores": 951000,
+      "share": 10.8,
+      "rating": 2.0
+    }
+  ]
+}

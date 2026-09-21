@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-06-09",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1539000,
+      "share": 20.0,
+      "rating": 3.2
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1529000,
+      "share": 18.6,
+      "rating": 3.2
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1462000,
+      "share": 12.6,
+      "rating": 3.1
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1358000,
+      "share": 15.4,
+      "rating": 2.9
+    },
+    {
+      "programa": "La Revuelta: Silvia & Mafalda",
+      "cadena": "La 1",
+      "espectadores": 1172000,
+      "share": 10.3,
+      "rating": 2.5
+    },
+    {
+      "programa": "Horizonte",
+      "cadena": "Cuatro",
+      "espectadores": 1150000,
+      "share": 10.1,
+      "rating": 2.4
+    },
+    {
+      "programa": "First dates",
+      "cadena": "Telecinco icono",
+      "espectadores": 1046000,
+      "share": 9.1,
+      "rating": 2.2
+    },
+    {
+      "programa": "Directo al grano",
+      "cadena": "La 1",
+      "espectadores": 949000,
+      "share": 11.3,
+      "rating": 2.0
+    },
+    {
+      "programa": "Supervivientes: Semifinal",
+      "cadena": "Telecinco icono",
+      "espectadores": 907000,
+      "share": 15.6,
+      "rating": 1.9
+    },
+    {
+      "programa": "En tierra lejana",
+      "cadena": "Antena 3",
+      "espectadores": 879000,
+      "share": 12.4,
+      "rating": 1.8
+    }
+  ]
+}

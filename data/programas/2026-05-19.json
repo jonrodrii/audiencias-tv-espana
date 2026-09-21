@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-05-19",
+  "programas": [
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1707000,
+      "share": 13.9,
+      "rating": 3.6
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1595000,
+      "share": 21.5,
+      "rating": 3.4
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1536000,
+      "share": 18.8,
+      "rating": 3.2
+    },
+    {
+      "programa": "La Revuelta: Mercedes Mila",
+      "cadena": "La 1",
+      "espectadores": 1535000,
+      "share": 12.6,
+      "rating": 3.2
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1184000,
+      "share": 13.7,
+      "rating": 2.5
+    },
+    {
+      "programa": "Horizonte",
+      "cadena": "Cuatro",
+      "espectadores": 1183000,
+      "share": 9.7,
+      "rating": 2.5
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1056000,
+      "share": 12.5,
+      "rating": 2.2
+    },
+    {
+      "programa": "First dates",
+      "cadena": "Telecinco icono",
+      "espectadores": 992000,
+      "share": 8.0,
+      "rating": 2.1
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 858000,
+      "share": 10.4,
+      "rating": 1.8
+    },
+    {
+      "programa": "En tierra lejana",
+      "cadena": "Antena 3",
+      "espectadores": 833000,
+      "share": 11.5,
+      "rating": 1.8
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-03-17",
+  "programas": [
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1722000,
+      "share": 17.5,
+      "rating": 3.6
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1576000,
+      "share": 21.6,
+      "rating": 3.3
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1518000,
+      "share": 11.9,
+      "rating": 3.2
+    },
+    {
+      "programa": "La Revuelta: Rosana",
+      "cadena": "La 1",
+      "espectadores": 1379000,
+      "share": 10.9,
+      "rating": 2.9
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1312000,
+      "share": 15.2,
+      "rating": 2.8
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1236000,
+      "share": 12.2,
+      "rating": 2.6
+    },
+    {
+      "programa": "First dates",
+      "cadena": "Telecinco icono",
+      "espectadores": 1078000,
+      "share": 8.5,
+      "rating": 2.3
+    },
+    {
+      "programa": "¡Allá tú!",
+      "cadena": "Telecinco icono",
+      "espectadores": 977000,
+      "share": 10.0,
+      "rating": 2.1
+    },
+    {
+      "programa": "Malas lenguas",
+      "cadena": "La 1",
+      "espectadores": 933000,
+      "share": 11.1,
+      "rating": 2.0
+    },
+    {
+      "programa": "En tierra lejana",
+      "cadena": "Antena 3",
+      "espectadores": 898000,
+      "share": 12.3,
+      "rating": 1.9
+    }
+  ]
+}

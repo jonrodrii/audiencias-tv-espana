@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-06-04",
+  "programas": [
+    {
+      "programa": "Futbol: Amistoso: España-irak",
+      "cadena": "La 1",
+      "espectadores": 2830000,
+      "share": 24.3,
+      "rating": 5.9
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1517000,
+      "share": 18.4,
+      "rating": 3.2
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1486000,
+      "share": 19.9,
+      "rating": 3.1
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1456000,
+      "share": 11.9,
+      "rating": 3.1
+    },
+    {
+      "programa": "Previo futbol: Amistoso: España-irak",
+      "cadena": "La 1",
+      "espectadores": 1220000,
+      "share": 13.5,
+      "rating": 2.6
+    },
+    {
+      "programa": "Horizonte: Avance",
+      "cadena": "Cuatro",
+      "espectadores": 1198000,
+      "share": 9.8,
+      "rating": 2.5
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1197000,
+      "share": 13.8,
+      "rating": 2.5
+    },
+    {
+      "programa": "Supervivientes",
+      "cadena": "Telecinco icono",
+      "espectadores": 1060000,
+      "share": 17.5,
+      "rating": 2.2
+    },
+    {
+      "programa": "Horizonte",
+      "cadena": "Cuatro",
+      "espectadores": 1027000,
+      "share": 12.5,
+      "rating": 2.2
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1026000,
+      "share": 12.6,
+      "rating": 2.2
+    }
+  ]
+}

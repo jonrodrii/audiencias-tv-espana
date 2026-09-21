@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-04-02",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1315000,
+      "share": 19.3,
+      "rating": 2.8
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1252000,
+      "share": 15.6,
+      "rating": 2.6
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1146000,
+      "share": 13.4,
+      "rating": 2.4
+    },
+    {
+      "programa": "Supervivientes",
+      "cadena": "Telecinco icono",
+      "espectadores": 955000,
+      "share": 15.2,
+      "rating": 2.0
+    },
+    {
+      "programa": "Supervivientes exprés",
+      "cadena": "Telecinco icono",
+      "espectadores": 938000,
+      "share": 9.8,
+      "rating": 2.0
+    },
+    {
+      "programa": "Sesión de tarde: Los diez mandamientos",
+      "cadena": "La 1",
+      "espectadores": 934000,
+      "share": 11.9,
+      "rating": 2.0
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 861000,
+      "share": 10.6,
+      "rating": 1.8
+    },
+    {
+      "programa": "Viaje al centro de la tele",
+      "cadena": "La 1",
+      "espectadores": 852000,
+      "share": 8.9,
+      "rating": 1.8
+    },
+    {
+      "programa": "Viaje al centro de la tele",
+      "cadena": "La 1",
+      "espectadores": 817000,
+      "share": 8.5,
+      "rating": 1.7
+    },
+    {
+      "programa": "Malas lenguas",
+      "cadena": "La 1",
+      "espectadores": 736000,
+      "share": 10.2,
+      "rating": 1.5
+    }
+  ]
+}

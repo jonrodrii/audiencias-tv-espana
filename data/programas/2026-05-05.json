@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-05-05",
+  "programas": [
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1607000,
+      "share": 18.0,
+      "rating": 3.4
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1576000,
+      "share": 21.5,
+      "rating": 3.3
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1517000,
+      "share": 12.3,
+      "rating": 3.2
+    },
+    {
+      "programa": "La isla de las tentaciones",
+      "cadena": "Telecinco icono",
+      "espectadores": 1309000,
+      "share": 10.5,
+      "rating": 2.8
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1194000,
+      "share": 13.8,
+      "rating": 2.5
+    },
+    {
+      "programa": "La Revuelta: Luis Garcia Montero-yomif Kejelcha",
+      "cadena": "La 1",
+      "espectadores": 1134000,
+      "share": 9.2,
+      "rating": 2.4
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1120000,
+      "share": 12.1,
+      "rating": 2.4
+    },
+    {
+      "programa": "Supervivientes: Tierra de nadie",
+      "cadena": "Telecinco icono",
+      "espectadores": 1011000,
+      "share": 16.5,
+      "rating": 2.1
+    },
+    {
+      "programa": "¡Allá tú!",
+      "cadena": "Telecinco icono",
+      "espectadores": 938000,
+      "share": 10.7,
+      "rating": 2.0
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 929000,
+      "share": 11.4,
+      "rating": 2.0
+    }
+  ]
+}

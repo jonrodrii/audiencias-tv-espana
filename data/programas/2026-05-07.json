@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-05-07",
+  "programas": [
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1768000,
+      "share": 14.4,
+      "rating": 3.7
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1735000,
+      "share": 19.4,
+      "rating": 3.6
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1536000,
+      "share": 21.8,
+      "rating": 3.2
+    },
+    {
+      "programa": "La Revuelta: Cristina Castaño-la Plazuela",
+      "cadena": "La 1",
+      "espectadores": 1219000,
+      "share": 10.1,
+      "rating": 2.6
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1199000,
+      "share": 13.7,
+      "rating": 2.5
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1147000,
+      "share": 12.6,
+      "rating": 2.4
+    },
+    {
+      "programa": "Supervivientes exprés",
+      "cadena": "Telecinco icono",
+      "espectadores": 1079000,
+      "share": 8.8,
+      "rating": 2.3
+    },
+    {
+      "programa": "Horizonte: Avance",
+      "cadena": "Cuatro",
+      "espectadores": 1006000,
+      "share": 8.2,
+      "rating": 2.1
+    },
+    {
+      "programa": "Supervivientes",
+      "cadena": "Telecinco icono",
+      "espectadores": 966000,
+      "share": 16.8,
+      "rating": 2.0
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 934000,
+      "share": 11.8,
+      "rating": 2.0
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-01-25",
+  "programas": [
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1411000,
+      "share": 11.9,
+      "rating": 3.0
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1297000,
+      "share": 16.1,
+      "rating": 2.7
+    },
+    {
+      "programa": "Superestrellas: Sandra bullock: Amor con preaviso",
+      "cadena": "La 1",
+      "espectadores": 1244000,
+      "share": 11.6,
+      "rating": 2.6
+    },
+    {
+      "programa": "Multicine: Sin rastro de sarah",
+      "cadena": "Antena 3",
+      "espectadores": 1141000,
+      "share": 10.7,
+      "rating": 2.4
+    },
+    {
+      "programa": "Película de la semana: Proyecto rampage",
+      "cadena": "La 1",
+      "espectadores": 1100000,
+      "share": 9.5,
+      "rating": 2.3
+    },
+    {
+      "programa": "Lo de Évole",
+      "cadena": "laSexta",
+      "espectadores": 1070000,
+      "share": 8.1,
+      "rating": 2.2
+    },
+    {
+      "programa": "Superestrellas: Sandra bullock 2: Miss agente especial 2: Armada y fabulosa",
+      "cadena": "La 1",
+      "espectadores": 1006000,
+      "share": 9.7,
+      "rating": 2.1
+    },
+    {
+      "programa": "Sesión de tarde: Mios,tuyos y nuestros",
+      "cadena": "La 1",
+      "espectadores": 988000,
+      "share": 9.2,
+      "rating": 2.1
+    },
+    {
+      "programa": "Multicine 2: Mentiras mortales",
+      "cadena": "Antena 3",
+      "espectadores": 892000,
+      "share": 8.6,
+      "rating": 1.9
+    },
+    {
+      "programa": "Una nueva vida",
+      "cadena": "Antena 3",
+      "espectadores": 863000,
+      "share": 10.3,
+      "rating": 1.8
+    }
+  ]
+}

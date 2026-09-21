@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-01-11",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1415000,
+      "share": 19.1,
+      "rating": 3.0
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1225000,
+      "share": 9.9,
+      "rating": 2.6
+    },
+    {
+      "programa": "Película de la semana: Bad boys: Ride or die",
+      "cadena": "La 1",
+      "espectadores": 1207000,
+      "share": 10.7,
+      "rating": 2.6
+    },
+    {
+      "programa": "Multicine: Perfume de sangre",
+      "cadena": "Antena 3",
+      "espectadores": 1131000,
+      "share": 11.9,
+      "rating": 2.4
+    },
+    {
+      "programa": "Superestrellas: Michelle pfeiffer 2: Heredaras la tierra",
+      "cadena": "La 1",
+      "espectadores": 962000,
+      "share": 10.2,
+      "rating": 2.0
+    },
+    {
+      "programa": "Superestrellas: Michelle pfeiffer: El novio de mi madre",
+      "cadena": "La 1",
+      "espectadores": 944000,
+      "share": 9.8,
+      "rating": 2.0
+    },
+    {
+      "programa": "Una nueva vida",
+      "cadena": "Antena 3",
+      "espectadores": 929000,
+      "share": 10.9,
+      "rating": 2.0
+    },
+    {
+      "programa": "Sesión de tarde: Amor en viena",
+      "cadena": "La 1",
+      "espectadores": 837000,
+      "share": 7.6,
+      "rating": 1.8
+    },
+    {
+      "programa": "Home cinema: Amanecer rojo ( 2012 )",
+      "cadena": "Cuatro",
+      "espectadores": 825000,
+      "share": 8.5,
+      "rating": 1.8
+    },
+    {
+      "programa": "Fiesta",
+      "cadena": "Telecinco icono",
+      "espectadores": 818000,
+      "share": 8.1,
+      "rating": 1.7
+    }
+  ]
+}

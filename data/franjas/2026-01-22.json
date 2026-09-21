@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-01-22",
+  "franjas": [
+    {
+      "franja": "Madrugada",
+      "cuotas": {
+        "La 1": 10.1,
+        "La 2": 1.9,
+        "Antena 3": 6.7,
+        "Telecinco": 4.2,
+        "Cuatro": 2.3,
+        "laSexta": 3.5,
+        "Autonómicas públicas": 3.5,
+        "Autonómicas privadas": 0.7,
+        "Temáticas TDT": 49.4,
+        "Temáticas de pago": 13.4
+      }
+    },
+    {
+      "franja": "Mañana",
+      "cuotas": {
+        "La 1": 15.7,
+        "La 2": 2.0,
+        "Antena 3": 15.2,
+        "Telecinco": 10.7,
+        "Cuatro": 4.9,
+        "laSexta": 9.2,
+        "Autonómicas públicas": 9.1,
+        "Autonómicas privadas": 0.2,
+        "Temáticas TDT": 22.4,
+        "Temáticas de pago": 7.6
+      }
+    },
+    {
+      "franja": "Sobremesa",
+      "cuotas": {
+        "La 1": 12.3,
+        "La 2": 3.9,
+        "Antena 3": 19.9,
+        "Telecinco": 8.3,
+        "Cuatro": 7.6,
+        "laSexta": 6.0,
+        "Autonómicas públicas": 11.1,
+        "Autonómicas privadas": 0.4,
+        "Temáticas TDT": 20.6,
+        "Temáticas de pago": 7.4
+      }
+    },
+    {
+      "franja": "Tarde",
+      "cuotas": {
+        "La 1": 10.9,
+        "La 2": 5.2,
+        "Antena 3": 11.4,
+        "Telecinco": 8.7,
+        "Cuatro": 6.0,
+        "laSexta": 5.5,
+        "Autonómicas públicas": 9.1,
+        "Autonómicas privadas": 0.4,
+        "Temáticas TDT": 29.5,
+        "Temáticas de pago": 11.0
+      }
+    },
+    {
+      "franja": "Prime Time",
+      "cuotas": {
+        "La 1": 12.0,
+        "La 2": 3.6,
+        "Antena 3": 16.8,
+        "Telecinco": 7.3,
+        "Cuatro": 8.0,
+        "laSexta": 6.3,
+        "Autonómicas públicas": 8.9,
+        "Autonómicas privadas": 0.3,
+        "Temáticas TDT": 22.9,
+        "Temáticas de pago": 11.2
+      }
+    },
+    {
+      "franja": "Late Night",
+      "cuotas": {
+        "La 1": 8.8,
+        "La 2": 1.1,
+        "Antena 3": 10.8,
+        "Telecinco": 13.6,
+        "Cuatro": 11.7,
+        "laSexta": 5.8,
+        "Autonómicas públicas": 3.2,
+        "Autonómicas privadas": 0.2,
+        "Temáticas TDT": 31.8,
+        "Temáticas de pago": 10.2
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-04-03",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1109000,
+      "share": 17.5,
+      "rating": 2.3
+    },
+    {
+      "programa": "Sesión de tarde: Ben-hur",
+      "cadena": "La 1",
+      "espectadores": 1052000,
+      "share": 13.9,
+      "rating": 2.2
+    },
+    {
+      "programa": "Multicine: Los proximos tres días",
+      "cadena": "Antena 3",
+      "espectadores": 940000,
+      "share": 12.0,
+      "rating": 2.0
+    },
+    {
+      "programa": "Plan de c1ne: Django desencadenado",
+      "cadena": "La 1",
+      "espectadores": 934000,
+      "share": 11.3,
+      "rating": 2.0
+    },
+    {
+      "programa": "¡Allá tú!",
+      "cadena": "Telecinco icono",
+      "espectadores": 820000,
+      "share": 11.3,
+      "rating": 1.7
+    },
+    {
+      "programa": "Sesión de tarde 2: Pompeya(2014)",
+      "cadena": "La 1",
+      "espectadores": 792000,
+      "share": 11.2,
+      "rating": 1.7
+    },
+    {
+      "programa": "¡De viernes!",
+      "cadena": "Telecinco icono",
+      "espectadores": 776000,
+      "share": 11.2,
+      "rating": 1.6
+    },
+    {
+      "programa": "Fiesta",
+      "cadena": "Telecinco icono",
+      "espectadores": 704000,
+      "share": 9.5,
+      "rating": 1.5
+    },
+    {
+      "programa": "El Peliculón: A todo tren 2",
+      "cadena": "Antena 3",
+      "espectadores": 701000,
+      "share": 7.9,
+      "rating": 1.5
+    },
+    {
+      "programa": "Multicine 2: Cuestion de justicia",
+      "cadena": "Antena 3",
+      "espectadores": 611000,
+      "share": 8.7,
+      "rating": 1.3
+    }
+  ]
+}

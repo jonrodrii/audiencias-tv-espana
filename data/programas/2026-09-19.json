@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-19",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1223000,
+      "share": 19.0,
+      "rating": 2.6
+    },
+    {
+      "programa": "La ruleta de la suerte noche",
+      "cadena": "Antena 3",
+      "espectadores": 931000,
+      "share": 10.6,
+      "rating": 2.0
+    },
+    {
+      "programa": "Multicine: Doble seduccion",
+      "cadena": "Antena 3",
+      "espectadores": 875000,
+      "share": 11.3,
+      "rating": 1.8
+    },
+    {
+      "programa": "Futbol: Liga española: Sevilla-Barcelona",
+      "cadena": "Icono Movistar",
+      "espectadores": 868000,
+      "share": 9.8,
+      "rating": 1.8
+    },
+    {
+      "programa": "25 años enamorados de bridget jones: El diario de bridget jones",
+      "cadena": "La 1",
+      "espectadores": 796000,
+      "share": 10.2,
+      "rating": 1.7
+    },
+    {
+      "programa": "El Blockbuster: Objetivo: Washington d.c.",
+      "cadena": "Cuatro",
+      "espectadores": 729000,
+      "share": 9.0,
+      "rating": 1.5
+    },
+    {
+      "programa": "Home cinema: Barry seal: El traficante",
+      "cadena": "Cuatro",
+      "espectadores": 709000,
+      "share": 9.1,
+      "rating": 1.5
+    },
+    {
+      "programa": "25 años enamorados de bridget jones 2: Bridget jones: Sobrevivire",
+      "cadena": "La 1",
+      "espectadores": 700000,
+      "share": 9.9,
+      "rating": 1.5
+    },
+    {
+      "programa": "Informe semanal",
+      "cadena": "La 1",
+      "espectadores": 699000,
+      "share": 7.9,
+      "rating": 1.5
+    },
+    {
+      "programa": "Cine 5 estrellas: Wolfgang",
+      "cadena": "Telecinco icono",
+      "espectadores": 684000,
+      "share": 8.0,
+      "rating": 1.4
+    }
+  ]
+}

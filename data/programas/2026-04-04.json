@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-04-04",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1142000,
+      "share": 19.8,
+      "rating": 2.4
+    },
+    {
+      "programa": "Multicine: Sombras en el bosque",
+      "cadena": "Antena 3",
+      "espectadores": 920000,
+      "share": 12.3,
+      "rating": 1.9
+    },
+    {
+      "programa": "Got Talent España",
+      "cadena": "Telecinco icono",
+      "espectadores": 812000,
+      "share": 9.6,
+      "rating": 1.7
+    },
+    {
+      "programa": "Plan de c1ne: No es tan facil",
+      "cadena": "La 1",
+      "espectadores": 800000,
+      "share": 8.5,
+      "rating": 1.7
+    },
+    {
+      "programa": "Atrapa un millón",
+      "cadena": "Antena 3",
+      "espectadores": 785000,
+      "share": 8.3,
+      "rating": 1.7
+    },
+    {
+      "programa": "Informe semanal",
+      "cadena": "La 1",
+      "espectadores": 707000,
+      "share": 7.6,
+      "rating": 1.5
+    },
+    {
+      "programa": "Sesión de tarde: Los milagros del cielo",
+      "cadena": "La 1",
+      "espectadores": 698000,
+      "share": 8.8,
+      "rating": 1.5
+    },
+    {
+      "programa": "Fiesta",
+      "cadena": "Telecinco icono",
+      "espectadores": 667000,
+      "share": 8.9,
+      "rating": 1.4
+    },
+    {
+      "programa": "El Blockbuster: La momia ( 2017 )",
+      "cadena": "Cuatro",
+      "espectadores": 612000,
+      "share": 6.6,
+      "rating": 1.3
+    },
+    {
+      "programa": "Cine de barrio: La tonta del bote",
+      "cadena": "La 1",
+      "espectadores": 593000,
+      "share": 8.2,
+      "rating": 1.2
+    }
+  ]
+}

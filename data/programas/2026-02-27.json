@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-02-27",
+  "programas": [
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1798000,
+      "share": 19.4,
+      "rating": 3.8
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1488000,
+      "share": 21.5,
+      "rating": 3.1
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1145000,
+      "share": 12.2,
+      "rating": 2.4
+    },
+    {
+      "programa": "El Desafío",
+      "cadena": "Antena 3",
+      "espectadores": 1125000,
+      "share": 13.8,
+      "rating": 2.4
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1087000,
+      "share": 13.1,
+      "rating": 2.3
+    },
+    {
+      "programa": "El Desafío",
+      "cadena": "Antena 3",
+      "espectadores": 1038000,
+      "share": 9.5,
+      "rating": 2.2
+    },
+    {
+      "programa": "La Promesa",
+      "cadena": "La 1",
+      "espectadores": 957000,
+      "share": 13.3,
+      "rating": 2.0
+    },
+    {
+      "programa": "Malas lenguas",
+      "cadena": "La 1",
+      "espectadores": 946000,
+      "share": 11.9,
+      "rating": 2.0
+    },
+    {
+      "programa": "Valle Salvaje",
+      "cadena": "La 1",
+      "espectadores": 936000,
+      "share": 13.1,
+      "rating": 2.0
+    },
+    {
+      "programa": "Cocina abierta de Karlos Arguiñano",
+      "cadena": "Antena 3",
+      "espectadores": 911000,
+      "share": 19.1,
+      "rating": 1.9
+    }
+  ]
+}

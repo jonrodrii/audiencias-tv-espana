@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-06-21",
+  "programas": [
+    {
+      "programa": "Futbol: Copa mundial: España-arabia saudi: Previa",
+      "cadena": "La 1",
+      "espectadores": 7909000,
+      "share": 55.9,
+      "rating": 16.6
+    },
+    {
+      "programa": "Fifa world cup 2026",
+      "cadena": "La 1",
+      "espectadores": 7451000,
+      "share": 53.9,
+      "rating": 15.7
+    },
+    {
+      "programa": "Camino a ny",
+      "cadena": "La 1",
+      "espectadores": 3414000,
+      "share": 31.3,
+      "rating": 7.2
+    },
+    {
+      "programa": "Película de la semana: Amenaza en el aire",
+      "cadena": "La 1",
+      "espectadores": 1627000,
+      "share": 15.2,
+      "rating": 3.4
+    },
+    {
+      "programa": "Teledeporte: Directo al mundial",
+      "cadena": "La 1",
+      "espectadores": 1284000,
+      "share": 13.7,
+      "rating": 2.7
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1220000,
+      "share": 15.9,
+      "rating": 2.6
+    },
+    {
+      "programa": "El precio justo: La casa por la ventana",
+      "cadena": "Telecinco icono",
+      "espectadores": 883000,
+      "share": 9.1,
+      "rating": 1.9
+    },
+    {
+      "programa": "Multicine: El hombre al que condene",
+      "cadena": "Antena 3",
+      "espectadores": 839000,
+      "share": 7.2,
+      "rating": 1.8
+    },
+    {
+      "programa": "Una nueva vida",
+      "cadena": "Antena 3",
+      "espectadores": 789000,
+      "share": 10.1,
+      "rating": 1.7
+    },
+    {
+      "programa": "Home cinema: Camino de la venganza ( 2023 )",
+      "cadena": "Cuatro",
+      "espectadores": 788000,
+      "share": 8.4,
+      "rating": 1.7
+    }
+  ]
+}

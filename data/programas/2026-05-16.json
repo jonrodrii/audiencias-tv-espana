@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-05-16",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1323000,
+      "share": 20.1,
+      "rating": 2.8
+    },
+    {
+      "programa": "Multicine: Alguien me vigila",
+      "cadena": "Antena 3",
+      "espectadores": 1202000,
+      "share": 14.2,
+      "rating": 2.5
+    },
+    {
+      "programa": "La voz kids: Audiciones",
+      "cadena": "Antena 3",
+      "espectadores": 1130000,
+      "share": 12.6,
+      "rating": 2.4
+    },
+    {
+      "programa": "Informe semanal",
+      "cadena": "La 1",
+      "espectadores": 966000,
+      "share": 10.1,
+      "rating": 2.0
+    },
+    {
+      "programa": "Star wars que la 1 te acompañe: La guerra de las galaxias",
+      "cadena": "La 1",
+      "espectadores": 945000,
+      "share": 11.2,
+      "rating": 2.0
+    },
+    {
+      "programa": "Multicine 2: Una boda para morir",
+      "cadena": "Antena 3",
+      "espectadores": 941000,
+      "share": 12.4,
+      "rating": 2.0
+    },
+    {
+      "programa": "El Blockbuster: Jungle cruise",
+      "cadena": "Cuatro",
+      "espectadores": 931000,
+      "share": 10.0,
+      "rating": 2.0
+    },
+    {
+      "programa": "Star wars que la 1 te acompañe 2: El imperio contraataca",
+      "cadena": "La 1",
+      "espectadores": 863000,
+      "share": 11.6,
+      "rating": 1.8
+    },
+    {
+      "programa": "La casa de la musica",
+      "cadena": "La 1",
+      "espectadores": 861000,
+      "share": 9.2,
+      "rating": 1.8
+    },
+    {
+      "programa": "La voz kids: A punto de empezar",
+      "cadena": "Antena 3",
+      "espectadores": 802000,
+      "share": 7.9,
+      "rating": 1.7
+    }
+  ]
+}

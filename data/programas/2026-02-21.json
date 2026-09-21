@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-02-21",
+  "programas": [
+    {
+      "programa": "Somos cine rtve: El 47",
+      "cadena": "La 1",
+      "espectadores": 1457000,
+      "share": 14.8,
+      "rating": 3.1
+    },
+    {
+      "programa": "Informe semanal",
+      "cadena": "La 1",
+      "espectadores": 1243000,
+      "share": 12.1,
+      "rating": 2.6
+    },
+    {
+      "programa": "Sesion de tarde: El verano de sus vidas",
+      "cadena": "La 1",
+      "espectadores": 1235000,
+      "share": 14.9,
+      "rating": 2.6
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1231000,
+      "share": 18.5,
+      "rating": 2.6
+    },
+    {
+      "programa": "Atrapa un millón",
+      "cadena": "Antena 3",
+      "espectadores": 1017000,
+      "share": 10.5,
+      "rating": 2.1
+    },
+    {
+      "programa": "Cine de barrio: Estoy hecho un chaval",
+      "cadena": "La 1",
+      "espectadores": 979000,
+      "share": 11.3,
+      "rating": 2.1
+    },
+    {
+      "programa": "Multicine: Despiadada",
+      "cadena": "Antena 3",
+      "espectadores": 942000,
+      "share": 11.4,
+      "rating": 2.0
+    },
+    {
+      "programa": "Cine de barrio presentación: Estoy hecho un chaval",
+      "cadena": "La 1",
+      "espectadores": 939000,
+      "share": 11.0,
+      "rating": 2.0
+    },
+    {
+      "programa": "Sesión de tarde 2: Ooh la la!",
+      "cadena": "La 1",
+      "espectadores": 916000,
+      "share": 12.1,
+      "rating": 1.9
+    },
+    {
+      "programa": "Got Talent España",
+      "cadena": "Telecinco icono",
+      "espectadores": 717000,
+      "share": 8.6,
+      "rating": 1.5
+    }
+  ]
+}

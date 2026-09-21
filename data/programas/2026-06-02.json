@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-06-02",
+  "programas": [
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1549000,
+      "share": 13.4,
+      "rating": 3.3
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1532000,
+      "share": 20.4,
+      "rating": 3.2
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1507000,
+      "share": 18.3,
+      "rating": 3.2
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1181000,
+      "share": 13.4,
+      "rating": 2.5
+    },
+    {
+      "programa": "La Revuelta: Trueno",
+      "cadena": "La 1",
+      "espectadores": 1157000,
+      "share": 10.2,
+      "rating": 2.4
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1056000,
+      "share": 12.6,
+      "rating": 2.2
+    },
+    {
+      "programa": "Horizonte",
+      "cadena": "Cuatro",
+      "espectadores": 1052000,
+      "share": 9.3,
+      "rating": 2.2
+    },
+    {
+      "programa": "First dates",
+      "cadena": "Telecinco icono",
+      "espectadores": 1021000,
+      "share": 8.9,
+      "rating": 2.1
+    },
+    {
+      "programa": "Supervivientes: Tierra de nadie",
+      "cadena": "Telecinco icono",
+      "espectadores": 913000,
+      "share": 15.5,
+      "rating": 1.9
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 902000,
+      "share": 10.9,
+      "rating": 1.9
+    }
+  ]
+}

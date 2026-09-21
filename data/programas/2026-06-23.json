@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-06-23",
+  "programas": [
+    {
+      "programa": "Futbol: Copa mundial: Inglaterra-ghana: Previa",
+      "cadena": "La 1",
+      "espectadores": 2128000,
+      "share": 22.0,
+      "rating": 4.5
+    },
+    {
+      "programa": "Fifa world cup 2026",
+      "cadena": "La 1",
+      "espectadores": 2035000,
+      "share": 21.2,
+      "rating": 4.3
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1578000,
+      "share": 20.6,
+      "rating": 3.3
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1419000,
+      "share": 17.9,
+      "rating": 3.0
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1250000,
+      "share": 13.6,
+      "rating": 2.6
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1228000,
+      "share": 12.1,
+      "rating": 2.6
+    },
+    {
+      "programa": "Teledeporte directo al mundial",
+      "cadena": "La 1",
+      "espectadores": 1108000,
+      "share": 11.6,
+      "rating": 2.3
+    },
+    {
+      "programa": "La Promesa",
+      "cadena": "La 1",
+      "espectadores": 1003000,
+      "share": 13.1,
+      "rating": 2.1
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 913000,
+      "share": 11.5,
+      "rating": 1.9
+    },
+    {
+      "programa": "Cocina abierta de Karlos Arguiñano",
+      "cadena": "Antena 3",
+      "espectadores": 904000,
+      "share": 16.7,
+      "rating": 1.9
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-04-26",
+  "programas": [
+    {
+      "programa": "Película de la semana: Geostorm",
+      "cadena": "La 1",
+      "espectadores": 1335000,
+      "share": 11.9,
+      "rating": 2.8
+    },
+    {
+      "programa": "Ellas pisan fuerte: El diablo viste de prada",
+      "cadena": "La 1",
+      "espectadores": 1124000,
+      "share": 12.3,
+      "rating": 2.4
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1057000,
+      "share": 14.5,
+      "rating": 2.2
+    },
+    {
+      "programa": "Motociclismo: Mundial: Motogp: G.p.españa",
+      "cadena": "Telecinco icono",
+      "espectadores": 999000,
+      "share": 13.9,
+      "rating": 2.1
+    },
+    {
+      "programa": "Supervivientes: Conexión Honduras",
+      "cadena": "Telecinco icono",
+      "espectadores": 969000,
+      "share": 12.4,
+      "rating": 2.0
+    },
+    {
+      "programa": "Ellas pisan fuerte 2: One day ( siempre el mismo día )",
+      "cadena": "La 1",
+      "espectadores": 926000,
+      "share": 11.1,
+      "rating": 1.9
+    },
+    {
+      "programa": "Multicine: Cita con el engaño",
+      "cadena": "Antena 3",
+      "espectadores": 909000,
+      "share": 10.0,
+      "rating": 1.9
+    },
+    {
+      "programa": "Una nueva vida",
+      "cadena": "Antena 3",
+      "espectadores": 896000,
+      "share": 10.1,
+      "rating": 1.9
+    },
+    {
+      "programa": "Post motociclismo: Mundial: Motogp: G.p.españa",
+      "cadena": "Telecinco icono",
+      "espectadores": 881000,
+      "share": 10.3,
+      "rating": 1.9
+    },
+    {
+      "programa": "Lo de Évole",
+      "cadena": "laSexta",
+      "espectadores": 808000,
+      "share": 7.4,
+      "rating": 1.7
+    }
+  ]
+}

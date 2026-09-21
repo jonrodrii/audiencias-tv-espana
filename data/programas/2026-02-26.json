@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-02-26",
+  "programas": [
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1852000,
+      "share": 18.9,
+      "rating": 3.9
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1731000,
+      "share": 14.3,
+      "rating": 3.6
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1560000,
+      "share": 21.6,
+      "rating": 3.3
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1468000,
+      "share": 14.7,
+      "rating": 3.1
+    },
+    {
+      "programa": "La Revuelta: Oriol Cardona-ana Alonso-bala",
+      "cadena": "La 1",
+      "espectadores": 1337000,
+      "share": 11.2,
+      "rating": 2.8
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1194000,
+      "share": 14.2,
+      "rating": 2.5
+    },
+    {
+      "programa": "Malas lenguas",
+      "cadena": "La 1",
+      "espectadores": 1015000,
+      "share": 12.2,
+      "rating": 2.1
+    },
+    {
+      "programa": "GH Dúo",
+      "cadena": "Telecinco icono",
+      "espectadores": 1008000,
+      "share": 8.3,
+      "rating": 2.1
+    },
+    {
+      "programa": "Horizonte: Avance",
+      "cadena": "Cuatro",
+      "espectadores": 993000,
+      "share": 8.1,
+      "rating": 2.1
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 965000,
+      "share": 12.1,
+      "rating": 2.0
+    }
+  ]
+}

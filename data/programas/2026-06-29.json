@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-06-29",
+  "programas": [
+    {
+      "programa": "Futbol: Copa mundial: Brasil-Japon: 1: 16",
+      "cadena": "La 1",
+      "espectadores": 3075000,
+      "share": 33.7,
+      "rating": 6.5
+    },
+    {
+      "programa": "Camino a ny",
+      "cadena": "La 1",
+      "espectadores": 2685000,
+      "share": 30.2,
+      "rating": 5.6
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1579000,
+      "share": 14.2,
+      "rating": 3.3
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1512000,
+      "share": 20.3,
+      "rating": 3.2
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1262000,
+      "share": 14.2,
+      "rating": 2.7
+    },
+    {
+      "programa": "La Revuelta: Maria,luis & Lorenzo",
+      "cadena": "La 1",
+      "espectadores": 1207000,
+      "share": 10.8,
+      "rating": 2.5
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1147000,
+      "share": 11.8,
+      "rating": 2.4
+    },
+    {
+      "programa": "Teledeporte: Directo al mundial",
+      "cadena": "La 1",
+      "espectadores": 1130000,
+      "share": 12.3,
+      "rating": 2.4
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 1022000,
+      "share": 12.8,
+      "rating": 2.1
+    },
+    {
+      "programa": "Horizonte",
+      "cadena": "Cuatro",
+      "espectadores": 943000,
+      "share": 8.6,
+      "rating": 2.0
+    }
+  ]
+}

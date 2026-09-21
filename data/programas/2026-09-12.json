@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-12",
+  "programas": [
+    {
+      "programa": "La vuelta: Programa: La Calahorra-Collado del Alguacil",
+      "cadena": "La 1",
+      "espectadores": 1514000,
+      "share": 17.4,
+      "rating": 3.2
+    },
+    {
+      "programa": "La vuelta: La Calahorra-Collado del Alguacil",
+      "cadena": "La 1",
+      "espectadores": 1496000,
+      "share": 17.2,
+      "rating": 3.1
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1178000,
+      "share": 17.8,
+      "rating": 2.5
+    },
+    {
+      "programa": "Multicine: Llamada para un asesinato ( 2023 )",
+      "cadena": "Antena 3",
+      "espectadores": 1062000,
+      "share": 12.3,
+      "rating": 2.2
+    },
+    {
+      "programa": "La ruleta de la suerte noche",
+      "cadena": "Antena 3",
+      "espectadores": 955000,
+      "share": 11.0,
+      "rating": 2.0
+    },
+    {
+      "programa": "Multicine 2: Extorsion",
+      "cadena": "Antena 3",
+      "espectadores": 872000,
+      "share": 12.1,
+      "rating": 1.8
+    },
+    {
+      "programa": "Futbol: Liga española: R.Madrid-Rayo Vallecano",
+      "cadena": "Otros (deporte u otros)",
+      "espectadores": 737000,
+      "share": 8.2,
+      "rating": 1.5
+    },
+    {
+      "programa": "Cine 5 estrellas: Menudas piezas",
+      "cadena": "Telecinco icono",
+      "espectadores": 693000,
+      "share": 8.0,
+      "rating": 1.5
+    },
+    {
+      "programa": "Informe semanal",
+      "cadena": "La 1",
+      "espectadores": 662000,
+      "share": 7.3,
+      "rating": 1.4
+    },
+    {
+      "programa": "Sesión de tarde: Unico testigo",
+      "cadena": "La 1",
+      "espectadores": 642000,
+      "share": 8.9,
+      "rating": 1.4
+    }
+  ]
+}

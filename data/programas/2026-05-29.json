@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-05-29",
+  "programas": [
+    {
+      "programa": "Tu cara me suena",
+      "cadena": "Antena 3",
+      "espectadores": 1393000,
+      "share": 19.8,
+      "rating": 2.9
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1392000,
+      "share": 19.9,
+      "rating": 2.9
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1390000,
+      "share": 20.1,
+      "rating": 2.9
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1078000,
+      "share": 13.0,
+      "rating": 2.3
+    },
+    {
+      "programa": "Tu cara me suena: Calentando motores",
+      "cadena": "Antena 3",
+      "espectadores": 1048000,
+      "share": 11.5,
+      "rating": 2.2
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 862000,
+      "share": 11.3,
+      "rating": 1.8
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 824000,
+      "share": 11.7,
+      "rating": 1.7
+    },
+    {
+      "programa": "Directo al grano",
+      "cadena": "La 1",
+      "espectadores": 776000,
+      "share": 9.7,
+      "rating": 1.6
+    },
+    {
+      "programa": "La Promesa",
+      "cadena": "La 1",
+      "espectadores": 753000,
+      "share": 11.6,
+      "rating": 1.6
+    },
+    {
+      "programa": "¡De viernes!",
+      "cadena": "Telecinco icono",
+      "espectadores": 739000,
+      "share": 10.7,
+      "rating": 1.6
+    }
+  ]
+}

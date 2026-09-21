@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-06-26",
+  "programas": [
+    {
+      "programa": "Futbol: Copa mundial: Uruguay-España: Previa",
+      "cadena": "La 1",
+      "espectadores": 3531000,
+      "share": 58.0,
+      "rating": 7.4
+    },
+    {
+      "programa": "Fifa world cup 2026",
+      "cadena": "La 1",
+      "espectadores": 2983000,
+      "share": 50.5,
+      "rating": 6.3
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1464000,
+      "share": 20.9,
+      "rating": 3.1
+    },
+    {
+      "programa": "Teledeporte directo al mundial",
+      "cadena": "La 1",
+      "espectadores": 1264000,
+      "share": 13.5,
+      "rating": 2.7
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1246000,
+      "share": 17.7,
+      "rating": 2.6
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1231000,
+      "share": 13.9,
+      "rating": 2.6
+    },
+    {
+      "programa": "Tu cara me suena: Calentando motores",
+      "cadena": "Antena 3",
+      "espectadores": 1167000,
+      "share": 12.7,
+      "rating": 2.5
+    },
+    {
+      "programa": "Tu cara me suena",
+      "cadena": "Antena 3",
+      "espectadores": 1149000,
+      "share": 15.9,
+      "rating": 2.4
+    },
+    {
+      "programa": "La Promesa",
+      "cadena": "La 1",
+      "espectadores": 954000,
+      "share": 13.4,
+      "rating": 2.0
+    },
+    {
+      "programa": "Directo al grano",
+      "cadena": "La 1",
+      "espectadores": 909000,
+      "share": 10.7,
+      "rating": 1.9
+    }
+  ]
+}

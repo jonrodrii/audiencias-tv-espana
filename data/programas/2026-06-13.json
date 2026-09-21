@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-06-13",
+  "programas": [
+    {
+      "programa": "Futbol: Copa mundial: Brasil-marruecos: Previa",
+      "cadena": "La 1",
+      "espectadores": 2160000,
+      "share": 34.4,
+      "rating": 4.5
+    },
+    {
+      "programa": "Fifa world cup 2026",
+      "cadena": "La 1",
+      "espectadores": 2039000,
+      "share": 31.7,
+      "rating": 4.3
+    },
+    {
+      "programa": "Teledeporte 1",
+      "cadena": "La 1",
+      "espectadores": 1294000,
+      "share": 14.6,
+      "rating": 2.7
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1177000,
+      "share": 17.1,
+      "rating": 2.5
+    },
+    {
+      "programa": "Multicine: En tu contra",
+      "cadena": "Antena 3",
+      "espectadores": 1155000,
+      "share": 14.2,
+      "rating": 2.4
+    },
+    {
+      "programa": "La voz kids: Audiciones",
+      "cadena": "Antena 3",
+      "espectadores": 1032000,
+      "share": 12.2,
+      "rating": 2.2
+    },
+    {
+      "programa": "Hasta la 1 y mas alla: Toy story 4",
+      "cadena": "La 1",
+      "espectadores": 832000,
+      "share": 9.4,
+      "rating": 1.7
+    },
+    {
+      "programa": "La voz kids: A punto de empezar",
+      "cadena": "Antena 3",
+      "espectadores": 791000,
+      "share": 9.2,
+      "rating": 1.7
+    },
+    {
+      "programa": "Informe semanal",
+      "cadena": "La 1",
+      "espectadores": 785000,
+      "share": 9.6,
+      "rating": 1.6
+    },
+    {
+      "programa": "Hasta la 1 y mas alla: Toy story ( juguetes )",
+      "cadena": "La 1",
+      "espectadores": 763000,
+      "share": 8.6,
+      "rating": 1.6
+    }
+  ]
+}

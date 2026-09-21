@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-06-01",
+  "programas": [
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1676000,
+      "share": 13.9,
+      "rating": 3.5
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1649000,
+      "share": 21.8,
+      "rating": 3.5
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1615000,
+      "share": 20.1,
+      "rating": 3.4
+    },
+    {
+      "programa": "La Revuelta: Margarida & Maxi",
+      "cadena": "La 1",
+      "espectadores": 1458000,
+      "share": 12.1,
+      "rating": 3.1
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1175000,
+      "share": 13.7,
+      "rating": 2.5
+    },
+    {
+      "programa": "Horizonte",
+      "cadena": "Cuatro",
+      "espectadores": 1082000,
+      "share": 9.1,
+      "rating": 2.3
+    },
+    {
+      "programa": "First dates",
+      "cadena": "Telecinco icono",
+      "espectadores": 1063000,
+      "share": 8.9,
+      "rating": 2.2
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 999000,
+      "share": 12.0,
+      "rating": 2.1
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 949000,
+      "share": 11.8,
+      "rating": 2.0
+    },
+    {
+      "programa": "La Promesa",
+      "cadena": "La 1",
+      "espectadores": 919000,
+      "share": 13.5,
+      "rating": 1.9
+    }
+  ]
+}

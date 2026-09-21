@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-01-05",
+  "programas": [
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1745000,
+      "share": 17.5,
+      "rating": 3.7
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1602000,
+      "share": 21.3,
+      "rating": 3.4
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1391000,
+      "share": 12.4,
+      "rating": 3.0
+    },
+    {
+      "programa": "Directo al grano",
+      "cadena": "La 1",
+      "espectadores": 1247000,
+      "share": 13.6,
+      "rating": 2.7
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1244000,
+      "share": 12.8,
+      "rating": 2.6
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 1034000,
+      "share": 12.4,
+      "rating": 2.2
+    },
+    {
+      "programa": "Aria: Locos por la opera",
+      "cadena": "La 1",
+      "espectadores": 983000,
+      "share": 8.8,
+      "rating": 2.1
+    },
+    {
+      "programa": "First dates",
+      "cadena": "Cuatro",
+      "espectadores": 910000,
+      "share": 8.2,
+      "rating": 1.9
+    },
+    {
+      "programa": "Y ahora Sonsoles",
+      "cadena": "Antena 3",
+      "espectadores": 841000,
+      "share": 9.7,
+      "rating": 1.8
+    },
+    {
+      "programa": "Cabalgata 2026",
+      "cadena": "La 1",
+      "espectadores": 804000,
+      "share": 9.0,
+      "rating": 1.7
+    }
+  ]
+}

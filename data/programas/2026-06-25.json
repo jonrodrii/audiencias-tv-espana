@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-06-25",
+  "programas": [
+    {
+      "programa": "Futbol: Copa mundial: Ecuador-Alemania: Previa",
+      "cadena": "La 1",
+      "espectadores": 2665000,
+      "share": 24.7,
+      "rating": 5.6
+    },
+    {
+      "programa": "Fifa world cup 2026",
+      "cadena": "La 1",
+      "espectadores": 2507000,
+      "share": 23.6,
+      "rating": 5.3
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1468000,
+      "share": 20.2,
+      "rating": 3.1
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1384000,
+      "share": 12.3,
+      "rating": 2.9
+    },
+    {
+      "programa": "Teledeporte: Directo al mundial",
+      "cadena": "La 1",
+      "espectadores": 1379000,
+      "share": 14.8,
+      "rating": 2.9
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1378000,
+      "share": 18.1,
+      "rating": 2.9
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1091000,
+      "share": 12.6,
+      "rating": 2.3
+    },
+    {
+      "programa": "Directo al grano",
+      "cadena": "La 1",
+      "espectadores": 986000,
+      "share": 11.8,
+      "rating": 2.1
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 968000,
+      "share": 12.3,
+      "rating": 2.0
+    },
+    {
+      "programa": "La Promesa",
+      "cadena": "La 1",
+      "espectadores": 966000,
+      "share": 13.5,
+      "rating": 2.0
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-02-24",
+  "programas": [
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1838000,
+      "share": 18.1,
+      "rating": 3.9
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1618000,
+      "share": 13.3,
+      "rating": 3.4
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1538000,
+      "share": 21.0,
+      "rating": 3.2
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1514000,
+      "share": 14.6,
+      "rating": 3.2
+    },
+    {
+      "programa": "La Revuelta: Bad Gyal-rigoberta Bandini-luis Tobar",
+      "cadena": "La 1",
+      "espectadores": 1357000,
+      "share": 11.1,
+      "rating": 2.9
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1176000,
+      "share": 14.5,
+      "rating": 2.5
+    },
+    {
+      "programa": "First dates",
+      "cadena": "Telecinco icono",
+      "espectadores": 1141000,
+      "share": 9.3,
+      "rating": 2.4
+    },
+    {
+      "programa": "Malas lenguas",
+      "cadena": "La 1",
+      "espectadores": 1065000,
+      "share": 11.9,
+      "rating": 2.2
+    },
+    {
+      "programa": "Horizonte",
+      "cadena": "Cuatro",
+      "espectadores": 1008000,
+      "share": 8.2,
+      "rating": 2.1
+    },
+    {
+      "programa": "En tierra lejana",
+      "cadena": "Antena 3",
+      "espectadores": 956000,
+      "share": 13.6,
+      "rating": 2.0
+    }
+  ]
+}

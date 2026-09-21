@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-03-14",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1325000,
+      "share": 17.9,
+      "rating": 2.8
+    },
+    {
+      "programa": "Atrapa un millón",
+      "cadena": "Antena 3",
+      "espectadores": 1134000,
+      "share": 11.4,
+      "rating": 2.4
+    },
+    {
+      "programa": "Multicine: Instinto maternal ( 2018 )",
+      "cadena": "Antena 3",
+      "espectadores": 1086000,
+      "share": 11.9,
+      "rating": 2.3
+    },
+    {
+      "programa": "Sesión de tarde: Grace de monaco",
+      "cadena": "La 1",
+      "espectadores": 1024000,
+      "share": 11.1,
+      "rating": 2.2
+    },
+    {
+      "programa": "Informe semanal",
+      "cadena": "La 1",
+      "espectadores": 990000,
+      "share": 9.0,
+      "rating": 2.1
+    },
+    {
+      "programa": "Sesión de tarde 2: Alta costura(2021)",
+      "cadena": "La 1",
+      "espectadores": 886000,
+      "share": 10.4,
+      "rating": 1.9
+    },
+    {
+      "programa": "Got Talent España",
+      "cadena": "Telecinco icono",
+      "espectadores": 854000,
+      "share": 9.5,
+      "rating": 1.8
+    },
+    {
+      "programa": "Multicine 2: Lazos que unen ( 2019 )",
+      "cadena": "Antena 3",
+      "espectadores": 840000,
+      "share": 10.0,
+      "rating": 1.8
+    },
+    {
+      "programa": "¡Allá tú!",
+      "cadena": "Telecinco icono",
+      "espectadores": 835000,
+      "share": 9.1,
+      "rating": 1.8
+    },
+    {
+      "programa": "Cine de barrio: Las cosas del querer",
+      "cadena": "La 1",
+      "espectadores": 832000,
+      "share": 9.5,
+      "rating": 1.7
+    }
+  ]
+}

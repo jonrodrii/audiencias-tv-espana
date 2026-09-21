@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-01-18",
+  "programas": [
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1554000,
+      "share": 12.9,
+      "rating": 3.3
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1353000,
+      "share": 17.0,
+      "rating": 2.8
+    },
+    {
+      "programa": "Operacion decomasters: Un lugar para soñar",
+      "cadena": "La 1",
+      "espectadores": 1206000,
+      "share": 11.8,
+      "rating": 2.5
+    },
+    {
+      "programa": "Rueda de prensa: Antonio sanz",
+      "cadena": "La 1",
+      "espectadores": 1150000,
+      "share": 13.8,
+      "rating": 2.4
+    },
+    {
+      "programa": "Multicine: Mi hermana desaparecida",
+      "cadena": "Antena 3",
+      "espectadores": 1034000,
+      "share": 10.2,
+      "rating": 2.2
+    },
+    {
+      "programa": "Sesión de tarde: Un plan perfecto(gambit)",
+      "cadena": "La 1",
+      "espectadores": 1019000,
+      "share": 9.5,
+      "rating": 2.1
+    },
+    {
+      "programa": "Operacion decomasters 2: Esta casa es una ruina",
+      "cadena": "La 1",
+      "espectadores": 981000,
+      "share": 9.8,
+      "rating": 2.1
+    },
+    {
+      "programa": "Avance informativo: Cinco fallecidos en un accidente de tren en adamuz",
+      "cadena": "La 1",
+      "espectadores": 974000,
+      "share": 11.9,
+      "rating": 2.0
+    },
+    {
+      "programa": "GH Dúo",
+      "cadena": "Telecinco icono",
+      "espectadores": 965000,
+      "share": 9.1,
+      "rating": 2.0
+    },
+    {
+      "programa": "Una nueva vida",
+      "cadena": "Antena 3",
+      "espectadores": 940000,
+      "share": 10.1,
+      "rating": 2.0
+    }
+  ]
+}

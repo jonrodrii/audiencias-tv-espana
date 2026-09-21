@@ -1,0 +1,1185 @@
+[
+  {
+    "fecha": "2026-01-12",
+    "espectadores_totales": 27526000,
+    "alcance_pct": 4.2,
+    "consumo_minutos": 165,
+    "pct_no_visto_mes_acumulado": null
+  },
+  {
+    "fecha": "2026-02-02",
+    "espectadores_totales": 28326000,
+    "alcance_pct": 4.0,
+    "consumo_minutos": 173,
+    "pct_no_visto_mes_acumulado": null
+  },
+  {
+    "fecha": "2026-02-03",
+    "espectadores_totales": 28269000,
+    "alcance_pct": 3.8,
+    "consumo_minutos": 182,
+    "pct_no_visto_mes_acumulado": null
+  },
+  {
+    "fecha": "2026-02-04",
+    "espectadores_totales": 28863000,
+    "alcance_pct": 3.8,
+    "consumo_minutos": 186,
+    "pct_no_visto_mes_acumulado": null
+  },
+  {
+    "fecha": "2026-02-07",
+    "espectadores_totales": 28770000,
+    "alcance_pct": 4.8,
+    "consumo_minutos": 189,
+    "pct_no_visto_mes_acumulado": null
+  },
+  {
+    "fecha": "2026-02-08",
+    "espectadores_totales": 28060000,
+    "alcance_pct": 59.0,
+    "consumo_minutos": 172,
+    "pct_no_visto_mes_acumulado": null
+  },
+  {
+    "fecha": "2026-02-09",
+    "espectadores_totales": 27811000,
+    "alcance_pct": 58.5,
+    "consumo_minutos": 167,
+    "pct_no_visto_mes_acumulado": 16
+  },
+  {
+    "fecha": "2026-02-11",
+    "espectadores_totales": 28243000,
+    "alcance_pct": 59.4,
+    "consumo_minutos": 171,
+    "pct_no_visto_mes_acumulado": 14
+  },
+  {
+    "fecha": "2026-02-14",
+    "espectadores_totales": 27862000,
+    "alcance_pct": 58.6,
+    "consumo_minutos": 179,
+    "pct_no_visto_mes_acumulado": 12
+  },
+  {
+    "fecha": "2026-02-15",
+    "espectadores_totales": 27840000,
+    "alcance_pct": 58.5,
+    "consumo_minutos": 172,
+    "pct_no_visto_mes_acumulado": 12
+  },
+  {
+    "fecha": "2026-02-16",
+    "espectadores_totales": 27846000,
+    "alcance_pct": 58.5,
+    "consumo_minutos": 168,
+    "pct_no_visto_mes_acumulado": 12
+  },
+  {
+    "fecha": "2026-02-17",
+    "espectadores_totales": 27411000,
+    "alcance_pct": 57.6,
+    "consumo_minutos": 166,
+    "pct_no_visto_mes_acumulado": 11
+  },
+  {
+    "fecha": "2026-02-18",
+    "espectadores_totales": 27408000,
+    "alcance_pct": 57.6,
+    "consumo_minutos": 166,
+    "pct_no_visto_mes_acumulado": 11
+  },
+  {
+    "fecha": "2026-02-21",
+    "espectadores_totales": 27410000,
+    "alcance_pct": 57.6,
+    "consumo_minutos": 171,
+    "pct_no_visto_mes_acumulado": 10
+  },
+  {
+    "fecha": "2026-02-23",
+    "espectadores_totales": 27519000,
+    "alcance_pct": 57.9,
+    "consumo_minutos": 159,
+    "pct_no_visto_mes_acumulado": 10
+  },
+  {
+    "fecha": "2026-02-24",
+    "espectadores_totales": 27747000,
+    "alcance_pct": 58.3,
+    "consumo_minutos": 161,
+    "pct_no_visto_mes_acumulado": 10
+  },
+  {
+    "fecha": "2026-02-25",
+    "espectadores_totales": 27410000,
+    "alcance_pct": 57.6,
+    "consumo_minutos": 157,
+    "pct_no_visto_mes_acumulado": 10
+  },
+  {
+    "fecha": "2026-02-28",
+    "espectadores_totales": 27659000,
+    "alcance_pct": 58.2,
+    "consumo_minutos": 176,
+    "pct_no_visto_mes_acumulado": null
+  },
+  {
+    "fecha": "2026-03-01",
+    "espectadores_totales": 27828000,
+    "alcance_pct": 58.5,
+    "consumo_minutos": 169,
+    "pct_no_visto_mes_acumulado": 32
+  },
+  {
+    "fecha": "2026-03-02",
+    "espectadores_totales": 28956000,
+    "alcance_pct": 60.9,
+    "consumo_minutos": 175,
+    "pct_no_visto_mes_acumulado": 27
+  },
+  {
+    "fecha": "2026-03-03",
+    "espectadores_totales": 28080000,
+    "alcance_pct": 59.0,
+    "consumo_minutos": 169,
+    "pct_no_visto_mes_acumulado": 24
+  },
+  {
+    "fecha": "2026-03-04",
+    "espectadores_totales": 28073000,
+    "alcance_pct": 59.0,
+    "consumo_minutos": 170,
+    "pct_no_visto_mes_acumulado": 22
+  },
+  {
+    "fecha": "2026-03-07",
+    "espectadores_totales": 28514000,
+    "alcance_pct": 59.9,
+    "consumo_minutos": 183,
+    "pct_no_visto_mes_acumulado": 17
+  },
+  {
+    "fecha": "2026-03-08",
+    "espectadores_totales": 27771000,
+    "alcance_pct": 58.4,
+    "consumo_minutos": 168,
+    "pct_no_visto_mes_acumulado": 16
+  },
+  {
+    "fecha": "2026-03-09",
+    "espectadores_totales": 28192000,
+    "alcance_pct": 59.3,
+    "consumo_minutos": 169,
+    "pct_no_visto_mes_acumulado": 16
+  },
+  {
+    "fecha": "2026-03-10",
+    "espectadores_totales": 27962000,
+    "alcance_pct": 58.8,
+    "consumo_minutos": 164,
+    "pct_no_visto_mes_acumulado": 15
+  },
+  {
+    "fecha": "2026-03-11",
+    "espectadores_totales": 27507000,
+    "alcance_pct": 57.8,
+    "consumo_minutos": 159,
+    "pct_no_visto_mes_acumulado": 15
+  },
+  {
+    "fecha": "2026-03-13",
+    "espectadores_totales": 26851000,
+    "alcance_pct": 56.5,
+    "consumo_minutos": 168,
+    "pct_no_visto_mes_acumulado": 14
+  },
+  {
+    "fecha": "2026-03-14",
+    "espectadores_totales": 28066000,
+    "alcance_pct": 59.0,
+    "consumo_minutos": 176,
+    "pct_no_visto_mes_acumulado": 13
+  },
+  {
+    "fecha": "2026-03-15",
+    "espectadores_totales": 27967000,
+    "alcance_pct": 58.8,
+    "consumo_minutos": 163,
+    "pct_no_visto_mes_acumulado": 12
+  },
+  {
+    "fecha": "2026-03-16",
+    "espectadores_totales": 27703000,
+    "alcance_pct": 58.2,
+    "consumo_minutos": 161,
+    "pct_no_visto_mes_acumulado": 12
+  },
+  {
+    "fecha": "2026-03-17",
+    "espectadores_totales": 27570000,
+    "alcance_pct": 58.0,
+    "consumo_minutos": 162,
+    "pct_no_visto_mes_acumulado": 12
+  },
+  {
+    "fecha": "2026-03-18",
+    "espectadores_totales": 27048000,
+    "alcance_pct": 56.9,
+    "consumo_minutos": 160,
+    "pct_no_visto_mes_acumulado": 12
+  },
+  {
+    "fecha": "2026-03-21",
+    "espectadores_totales": 27774000,
+    "alcance_pct": 58.4,
+    "consumo_minutos": 173,
+    "pct_no_visto_mes_acumulado": 10
+  },
+  {
+    "fecha": "2026-03-22",
+    "espectadores_totales": 27488000,
+    "alcance_pct": 57.8,
+    "consumo_minutos": 162,
+    "pct_no_visto_mes_acumulado": 10
+  },
+  {
+    "fecha": "2026-03-23",
+    "espectadores_totales": 27420000,
+    "alcance_pct": 5.0,
+    "consumo_minutos": 159,
+    "pct_no_visto_mes_acumulado": null
+  },
+  {
+    "fecha": "2026-03-25",
+    "espectadores_totales": 27206000,
+    "alcance_pct": 57.2,
+    "consumo_minutos": 158,
+    "pct_no_visto_mes_acumulado": 10
+  },
+  {
+    "fecha": "2026-03-27",
+    "espectadores_totales": 25712000,
+    "alcance_pct": 54.1,
+    "consumo_minutos": 155,
+    "pct_no_visto_mes_acumulado": 9
+  },
+  {
+    "fecha": "2026-03-28",
+    "espectadores_totales": 26538000,
+    "alcance_pct": 55.8,
+    "consumo_minutos": 169,
+    "pct_no_visto_mes_acumulado": 9
+  },
+  {
+    "fecha": "2026-03-29",
+    "espectadores_totales": 26526000,
+    "alcance_pct": 55.8,
+    "consumo_minutos": 158,
+    "pct_no_visto_mes_acumulado": 9
+  },
+  {
+    "fecha": "2026-04-04",
+    "espectadores_totales": 25389000,
+    "alcance_pct": 53.4,
+    "consumo_minutos": 156,
+    "pct_no_visto_mes_acumulado": 28
+  },
+  {
+    "fecha": "2026-04-05",
+    "espectadores_totales": 26934000,
+    "alcance_pct": 56.6,
+    "consumo_minutos": 158,
+    "pct_no_visto_mes_acumulado": 24
+  },
+  {
+    "fecha": "2026-04-06",
+    "espectadores_totales": 27482000,
+    "alcance_pct": 4.9,
+    "consumo_minutos": 162,
+    "pct_no_visto_mes_acumulado": null
+  },
+  {
+    "fecha": "2026-04-07",
+    "espectadores_totales": 27383000,
+    "alcance_pct": 57.6,
+    "consumo_minutos": 160,
+    "pct_no_visto_mes_acumulado": 20
+  },
+  {
+    "fecha": "2026-04-08",
+    "espectadores_totales": 27008000,
+    "alcance_pct": 56.8,
+    "consumo_minutos": 154,
+    "pct_no_visto_mes_acumulado": 19
+  },
+  {
+    "fecha": "2026-04-11",
+    "espectadores_totales": 28121000,
+    "alcance_pct": 59.1,
+    "consumo_minutos": 177,
+    "pct_no_visto_mes_acumulado": 16
+  },
+  {
+    "fecha": "2026-04-12",
+    "espectadores_totales": 27597000,
+    "alcance_pct": 58.0,
+    "consumo_minutos": 163,
+    "pct_no_visto_mes_acumulado": null
+  },
+  {
+    "fecha": "2026-04-13",
+    "espectadores_totales": 27611000,
+    "alcance_pct": 58.1,
+    "consumo_minutos": 159,
+    "pct_no_visto_mes_acumulado": 15
+  },
+  {
+    "fecha": "2026-04-14",
+    "espectadores_totales": 27564000,
+    "alcance_pct": 58.0,
+    "consumo_minutos": 158,
+    "pct_no_visto_mes_acumulado": 14
+  },
+  {
+    "fecha": "2026-04-15",
+    "espectadores_totales": 27015000,
+    "alcance_pct": 56.8,
+    "consumo_minutos": 151,
+    "pct_no_visto_mes_acumulado": 14
+  },
+  {
+    "fecha": "2026-04-18",
+    "espectadores_totales": 27773000,
+    "alcance_pct": 58.4,
+    "consumo_minutos": 165,
+    "pct_no_visto_mes_acumulado": 12
+  },
+  {
+    "fecha": "2026-04-19",
+    "espectadores_totales": 27440000,
+    "alcance_pct": 57.7,
+    "consumo_minutos": 159,
+    "pct_no_visto_mes_acumulado": 12
+  },
+  {
+    "fecha": "2026-04-20",
+    "espectadores_totales": 27138000,
+    "alcance_pct": 57.1,
+    "consumo_minutos": 158,
+    "pct_no_visto_mes_acumulado": 11
+  },
+  {
+    "fecha": "2026-04-21",
+    "espectadores_totales": 27405000,
+    "alcance_pct": 57.6,
+    "consumo_minutos": 155,
+    "pct_no_visto_mes_acumulado": 11
+  },
+  {
+    "fecha": "2026-04-22",
+    "espectadores_totales": 26729000,
+    "alcance_pct": 56.2,
+    "consumo_minutos": 154,
+    "pct_no_visto_mes_acumulado": 11
+  },
+  {
+    "fecha": "2026-04-25",
+    "espectadores_totales": 27491000,
+    "alcance_pct": 57.8,
+    "consumo_minutos": 168,
+    "pct_no_visto_mes_acumulado": 10
+  },
+  {
+    "fecha": "2026-04-27",
+    "espectadores_totales": 27650000,
+    "alcance_pct": 58.1,
+    "consumo_minutos": 160,
+    "pct_no_visto_mes_acumulado": 10
+  },
+  {
+    "fecha": "2026-04-28",
+    "espectadores_totales": 27465000,
+    "alcance_pct": 57.7,
+    "consumo_minutos": 159,
+    "pct_no_visto_mes_acumulado": 9
+  },
+  {
+    "fecha": "2026-05-02",
+    "espectadores_totales": 27303000,
+    "alcance_pct": 57.4,
+    "consumo_minutos": 162,
+    "pct_no_visto_mes_acumulado": 30
+  },
+  {
+    "fecha": "2026-05-04",
+    "espectadores_totales": 27666000,
+    "alcance_pct": 58.2,
+    "consumo_minutos": 159,
+    "pct_no_visto_mes_acumulado": 23
+  },
+  {
+    "fecha": "2026-05-05",
+    "espectadores_totales": 27617000,
+    "alcance_pct": 58.1,
+    "consumo_minutos": 156,
+    "pct_no_visto_mes_acumulado": 21
+  },
+  {
+    "fecha": "2026-05-06",
+    "espectadores_totales": 27571000,
+    "alcance_pct": 58.0,
+    "consumo_minutos": 157,
+    "pct_no_visto_mes_acumulado": 20
+  },
+  {
+    "fecha": "2026-05-07",
+    "espectadores_totales": 26713000,
+    "alcance_pct": 56.2,
+    "consumo_minutos": 153,
+    "pct_no_visto_mes_acumulado": 19
+  },
+  {
+    "fecha": "2026-05-09",
+    "espectadores_totales": 28299000,
+    "alcance_pct": 59.5,
+    "consumo_minutos": 181,
+    "pct_no_visto_mes_acumulado": 16
+  },
+  {
+    "fecha": "2026-05-10",
+    "espectadores_totales": 27874000,
+    "alcance_pct": 4.3,
+    "consumo_minutos": 162,
+    "pct_no_visto_mes_acumulado": null
+  },
+  {
+    "fecha": "2026-05-11",
+    "espectadores_totales": 27880000,
+    "alcance_pct": 58.6,
+    "consumo_minutos": 161,
+    "pct_no_visto_mes_acumulado": 14
+  },
+  {
+    "fecha": "2026-05-12",
+    "espectadores_totales": 27878000,
+    "alcance_pct": 58.6,
+    "consumo_minutos": 159,
+    "pct_no_visto_mes_acumulado": 14
+  },
+  {
+    "fecha": "2026-05-16",
+    "espectadores_totales": 28342000,
+    "alcance_pct": 59.6,
+    "consumo_minutos": 176,
+    "pct_no_visto_mes_acumulado": 12
+  },
+  {
+    "fecha": "2026-05-17",
+    "espectadores_totales": 27662000,
+    "alcance_pct": 58.2,
+    "consumo_minutos": 158,
+    "pct_no_visto_mes_acumulado": 11
+  },
+  {
+    "fecha": "2026-05-18",
+    "espectadores_totales": 27871000,
+    "alcance_pct": 58.6,
+    "consumo_minutos": 158,
+    "pct_no_visto_mes_acumulado": 11
+  },
+  {
+    "fecha": "2026-05-19",
+    "espectadores_totales": 27422000,
+    "alcance_pct": 57.7,
+    "consumo_minutos": 154,
+    "pct_no_visto_mes_acumulado": 11
+  },
+  {
+    "fecha": "2026-05-20",
+    "espectadores_totales": 27100000,
+    "alcance_pct": 57.0,
+    "consumo_minutos": 151,
+    "pct_no_visto_mes_acumulado": 10
+  },
+  {
+    "fecha": "2026-05-22",
+    "espectadores_totales": 25410000,
+    "alcance_pct": 53.4,
+    "consumo_minutos": 151,
+    "pct_no_visto_mes_acumulado": 10
+  },
+  {
+    "fecha": "2026-05-23",
+    "espectadores_totales": 27213000,
+    "alcance_pct": 57.2,
+    "consumo_minutos": 164,
+    "pct_no_visto_mes_acumulado": 9
+  },
+  {
+    "fecha": "2026-05-24",
+    "espectadores_totales": 27691000,
+    "alcance_pct": 5.0,
+    "consumo_minutos": 159,
+    "pct_no_visto_mes_acumulado": 9
+  },
+  {
+    "fecha": "2026-05-25",
+    "espectadores_totales": 27020000,
+    "alcance_pct": 5.2,
+    "consumo_minutos": 154,
+    "pct_no_visto_mes_acumulado": null
+  },
+  {
+    "fecha": "2026-05-26",
+    "espectadores_totales": 27531000,
+    "alcance_pct": 5.2,
+    "consumo_minutos": 155,
+    "pct_no_visto_mes_acumulado": null
+  },
+  {
+    "fecha": "2026-05-27",
+    "espectadores_totales": 26779000,
+    "alcance_pct": 56.3,
+    "consumo_minutos": 150,
+    "pct_no_visto_mes_acumulado": 9
+  },
+  {
+    "fecha": "2026-05-28",
+    "espectadores_totales": 25964000,
+    "alcance_pct": 54.6,
+    "consumo_minutos": 144,
+    "pct_no_visto_mes_acumulado": 8
+  },
+  {
+    "fecha": "2026-05-29",
+    "espectadores_totales": 25772000,
+    "alcance_pct": 54.2,
+    "consumo_minutos": 156,
+    "pct_no_visto_mes_acumulado": 8
+  },
+  {
+    "fecha": "2026-05-30",
+    "espectadores_totales": 26672000,
+    "alcance_pct": 5.0,
+    "consumo_minutos": 161,
+    "pct_no_visto_mes_acumulado": null
+  },
+  {
+    "fecha": "2026-06-05",
+    "espectadores_totales": 25361000,
+    "alcance_pct": 53.3,
+    "consumo_minutos": 148,
+    "pct_no_visto_mes_acumulado": 22
+  },
+  {
+    "fecha": "2026-06-06",
+    "espectadores_totales": 27432000,
+    "alcance_pct": 57.7,
+    "consumo_minutos": 169,
+    "pct_no_visto_mes_acumulado": 20
+  },
+  {
+    "fecha": "2026-06-09",
+    "espectadores_totales": 27548000,
+    "alcance_pct": 57.9,
+    "consumo_minutos": 156,
+    "pct_no_visto_mes_acumulado": 17
+  },
+  {
+    "fecha": "2026-06-10",
+    "espectadores_totales": 27861000,
+    "alcance_pct": 58.6,
+    "consumo_minutos": 158,
+    "pct_no_visto_mes_acumulado": 16
+  },
+  {
+    "fecha": "2026-06-12",
+    "espectadores_totales": 25778000,
+    "alcance_pct": 54.2,
+    "consumo_minutos": 154,
+    "pct_no_visto_mes_acumulado": 14
+  },
+  {
+    "fecha": "2026-06-13",
+    "espectadores_totales": 27824000,
+    "alcance_pct": 58.5,
+    "consumo_minutos": 168,
+    "pct_no_visto_mes_acumulado": 14
+  },
+  {
+    "fecha": "2026-06-14",
+    "espectadores_totales": 28984000,
+    "alcance_pct": 60.9,
+    "consumo_minutos": 174,
+    "pct_no_visto_mes_acumulado": 13
+  },
+  {
+    "fecha": "2026-06-15",
+    "espectadores_totales": 27904000,
+    "alcance_pct": 58.7,
+    "consumo_minutos": 158,
+    "pct_no_visto_mes_acumulado": 12
+  },
+  {
+    "fecha": "2026-06-16",
+    "espectadores_totales": 27784000,
+    "alcance_pct": 58.4,
+    "consumo_minutos": 158,
+    "pct_no_visto_mes_acumulado": 12
+  },
+  {
+    "fecha": "2026-06-17",
+    "espectadores_totales": 27063000,
+    "alcance_pct": 56.9,
+    "consumo_minutos": 155,
+    "pct_no_visto_mes_acumulado": 12
+  },
+  {
+    "fecha": "2026-06-18",
+    "espectadores_totales": 26256000,
+    "alcance_pct": 55.2,
+    "consumo_minutos": 150,
+    "pct_no_visto_mes_acumulado": 11
+  },
+  {
+    "fecha": "2026-06-19",
+    "espectadores_totales": 24984000,
+    "alcance_pct": 52.5,
+    "consumo_minutos": 149,
+    "pct_no_visto_mes_acumulado": 11
+  },
+  {
+    "fecha": "2026-06-20",
+    "espectadores_totales": 28361000,
+    "alcance_pct": 3.8,
+    "consumo_minutos": 183,
+    "pct_no_visto_mes_acumulado": null
+  },
+  {
+    "fecha": "2026-06-21",
+    "espectadores_totales": 27480000,
+    "alcance_pct": 3.7,
+    "consumo_minutos": 164,
+    "pct_no_visto_mes_acumulado": null
+  },
+  {
+    "fecha": "2026-06-22",
+    "espectadores_totales": 26239000,
+    "alcance_pct": 55.2,
+    "consumo_minutos": 154,
+    "pct_no_visto_mes_acumulado": 10
+  },
+  {
+    "fecha": "2026-06-23",
+    "espectadores_totales": 26755000,
+    "alcance_pct": 56.3,
+    "consumo_minutos": 160,
+    "pct_no_visto_mes_acumulado": 9
+  },
+  {
+    "fecha": "2026-06-24",
+    "espectadores_totales": 26667000,
+    "alcance_pct": 56.1,
+    "consumo_minutos": 153,
+    "pct_no_visto_mes_acumulado": 9
+  },
+  {
+    "fecha": "2026-06-27",
+    "espectadores_totales": 26222000,
+    "alcance_pct": 55.1,
+    "consumo_minutos": 161,
+    "pct_no_visto_mes_acumulado": 8
+  },
+  {
+    "fecha": "2026-06-28",
+    "espectadores_totales": 26851000,
+    "alcance_pct": 4.3,
+    "consumo_minutos": 161,
+    "pct_no_visto_mes_acumulado": null
+  },
+  {
+    "fecha": "2026-06-29",
+    "espectadores_totales": 26598000,
+    "alcance_pct": 55.9,
+    "consumo_minutos": 156,
+    "pct_no_visto_mes_acumulado": 8
+  },
+  {
+    "fecha": "2026-07-04",
+    "espectadores_totales": 26226000,
+    "alcance_pct": 55.1,
+    "consumo_minutos": 163,
+    "pct_no_visto_mes_acumulado": 23
+  },
+  {
+    "fecha": "2026-07-05",
+    "espectadores_totales": 28665000,
+    "alcance_pct": 3.4,
+    "consumo_minutos": 179,
+    "pct_no_visto_mes_acumulado": null
+  },
+  {
+    "fecha": "2026-07-06",
+    "espectadores_totales": 27096000,
+    "alcance_pct": 57.0,
+    "consumo_minutos": 165,
+    "pct_no_visto_mes_acumulado": 19
+  },
+  {
+    "fecha": "2026-07-07",
+    "espectadores_totales": 25523000,
+    "alcance_pct": 53.7,
+    "consumo_minutos": 147,
+    "pct_no_visto_mes_acumulado": 18
+  },
+  {
+    "fecha": "2026-07-08",
+    "espectadores_totales": 26924000,
+    "alcance_pct": 56.6,
+    "consumo_minutos": 157,
+    "pct_no_visto_mes_acumulado": 17
+  },
+  {
+    "fecha": "2026-07-11",
+    "espectadores_totales": 24994000,
+    "alcance_pct": 52.5,
+    "consumo_minutos": 153,
+    "pct_no_visto_mes_acumulado": 14
+  },
+  {
+    "fecha": "2026-07-12",
+    "espectadores_totales": 25294000,
+    "alcance_pct": 53.2,
+    "consumo_minutos": 149,
+    "pct_no_visto_mes_acumulado": 14
+  },
+  {
+    "fecha": "2026-07-13",
+    "espectadores_totales": 28820000,
+    "alcance_pct": 60.6,
+    "consumo_minutos": 180,
+    "pct_no_visto_mes_acumulado": 13
+  },
+  {
+    "fecha": "2026-07-14",
+    "espectadores_totales": 27297000,
+    "alcance_pct": 57.4,
+    "consumo_minutos": 162,
+    "pct_no_visto_mes_acumulado": 12
+  },
+  {
+    "fecha": "2026-07-15",
+    "espectadores_totales": 24633000,
+    "alcance_pct": 4.2,
+    "consumo_minutos": 143,
+    "pct_no_visto_mes_acumulado": null
+  },
+  {
+    "fecha": "2026-07-19",
+    "espectadores_totales": 26476000,
+    "alcance_pct": 55.7,
+    "consumo_minutos": 165,
+    "pct_no_visto_mes_acumulado": 10
+  },
+  {
+    "fecha": "2026-07-20",
+    "espectadores_totales": 24999000,
+    "alcance_pct": 52.6,
+    "consumo_minutos": 146,
+    "pct_no_visto_mes_acumulado": 10
+  },
+  {
+    "fecha": "2026-07-21",
+    "espectadores_totales": 24479000,
+    "alcance_pct": 51.5,
+    "consumo_minutos": 143,
+    "pct_no_visto_mes_acumulado": 9
+  },
+  {
+    "fecha": "2026-07-22",
+    "espectadores_totales": 24110000,
+    "alcance_pct": 50.7,
+    "consumo_minutos": 140,
+    "pct_no_visto_mes_acumulado": 9
+  },
+  {
+    "fecha": "2026-07-23",
+    "espectadores_totales": 24067000,
+    "alcance_pct": 50.6,
+    "consumo_minutos": 140,
+    "pct_no_visto_mes_acumulado": 9
+  },
+  {
+    "fecha": "2026-07-24",
+    "espectadores_totales": 22752000,
+    "alcance_pct": 47.8,
+    "consumo_minutos": 140,
+    "pct_no_visto_mes_acumulado": 9
+  },
+  {
+    "fecha": "2026-07-25",
+    "espectadores_totales": 23490000,
+    "alcance_pct": 49.4,
+    "consumo_minutos": 145,
+    "pct_no_visto_mes_acumulado": 9
+  },
+  {
+    "fecha": "2026-07-30",
+    "espectadores_totales": 23574000,
+    "alcance_pct": 49.6,
+    "consumo_minutos": 138,
+    "pct_no_visto_mes_acumulado": 8
+  },
+  {
+    "fecha": "2026-08-01",
+    "espectadores_totales": 23433000,
+    "alcance_pct": 49.3,
+    "consumo_minutos": 141,
+    "pct_no_visto_mes_acumulado": 43
+  },
+  {
+    "fecha": "2026-08-02",
+    "espectadores_totales": 23460000,
+    "alcance_pct": 49.3,
+    "consumo_minutos": 138,
+    "pct_no_visto_mes_acumulado": 37
+  },
+  {
+    "fecha": "2026-08-03",
+    "espectadores_totales": 22951000,
+    "alcance_pct": 48.3,
+    "consumo_minutos": 134,
+    "pct_no_visto_mes_acumulado": 34
+  },
+  {
+    "fecha": "2026-08-04",
+    "espectadores_totales": 22918000,
+    "alcance_pct": 48.2,
+    "consumo_minutos": 135,
+    "pct_no_visto_mes_acumulado": 32
+  },
+  {
+    "fecha": "2026-08-05",
+    "espectadores_totales": 22763000,
+    "alcance_pct": 4.4,
+    "consumo_minutos": 135,
+    "pct_no_visto_mes_acumulado": null
+  },
+  {
+    "fecha": "2026-08-06",
+    "espectadores_totales": 22354000,
+    "alcance_pct": 47.0,
+    "consumo_minutos": 128,
+    "pct_no_visto_mes_acumulado": 29
+  },
+  {
+    "fecha": "2026-08-07",
+    "espectadores_totales": 21006000,
+    "alcance_pct": 44.2,
+    "consumo_minutos": 129,
+    "pct_no_visto_mes_acumulado": 28
+  },
+  {
+    "fecha": "2026-08-08",
+    "espectadores_totales": 22522000,
+    "alcance_pct": 47.4,
+    "consumo_minutos": 139,
+    "pct_no_visto_mes_acumulado": 26
+  },
+  {
+    "fecha": "2026-08-09",
+    "espectadores_totales": 23117000,
+    "alcance_pct": 48.6,
+    "consumo_minutos": 138,
+    "pct_no_visto_mes_acumulado": 25
+  },
+  {
+    "fecha": "2026-08-10",
+    "espectadores_totales": 22458000,
+    "alcance_pct": 47.2,
+    "consumo_minutos": 136,
+    "pct_no_visto_mes_acumulado": 24
+  },
+  {
+    "fecha": "2026-08-11",
+    "espectadores_totales": 22487000,
+    "alcance_pct": 47.3,
+    "consumo_minutos": 135,
+    "pct_no_visto_mes_acumulado": 23
+  },
+  {
+    "fecha": "2026-08-12",
+    "espectadores_totales": 22193000,
+    "alcance_pct": 46.7,
+    "consumo_minutos": 134,
+    "pct_no_visto_mes_acumulado": 22
+  },
+  {
+    "fecha": "2026-08-13",
+    "espectadores_totales": 21810000,
+    "alcance_pct": 45.9,
+    "consumo_minutos": 132,
+    "pct_no_visto_mes_acumulado": 21
+  },
+  {
+    "fecha": "2026-08-14",
+    "espectadores_totales": 21325000,
+    "alcance_pct": 44.8,
+    "consumo_minutos": 132,
+    "pct_no_visto_mes_acumulado": 21
+  },
+  {
+    "fecha": "2026-08-15",
+    "espectadores_totales": 22498000,
+    "alcance_pct": 47.3,
+    "consumo_minutos": 143,
+    "pct_no_visto_mes_acumulado": 19
+  },
+  {
+    "fecha": "2026-08-16",
+    "espectadores_totales": 22697000,
+    "alcance_pct": 47.7,
+    "consumo_minutos": 137,
+    "pct_no_visto_mes_acumulado": 19
+  },
+  {
+    "fecha": "2026-08-17",
+    "espectadores_totales": 22177000,
+    "alcance_pct": 46.6,
+    "consumo_minutos": 134,
+    "pct_no_visto_mes_acumulado": 18
+  },
+  {
+    "fecha": "2026-08-18",
+    "espectadores_totales": 22407000,
+    "alcance_pct": 47.1,
+    "consumo_minutos": 136,
+    "pct_no_visto_mes_acumulado": 18
+  },
+  {
+    "fecha": "2026-08-19",
+    "espectadores_totales": 22729000,
+    "alcance_pct": 47.8,
+    "consumo_minutos": 137,
+    "pct_no_visto_mes_acumulado": 17
+  },
+  {
+    "fecha": "2026-08-20",
+    "espectadores_totales": 21770000,
+    "alcance_pct": 3.9,
+    "consumo_minutos": 129,
+    "pct_no_visto_mes_acumulado": null
+  },
+  {
+    "fecha": "2026-08-21",
+    "espectadores_totales": 21477000,
+    "alcance_pct": 45.2,
+    "consumo_minutos": 130,
+    "pct_no_visto_mes_acumulado": 16
+  },
+  {
+    "fecha": "2026-08-22",
+    "espectadores_totales": 22785000,
+    "alcance_pct": 47.9,
+    "consumo_minutos": 142,
+    "pct_no_visto_mes_acumulado": 16
+  },
+  {
+    "fecha": "2026-08-23",
+    "espectadores_totales": 23603000,
+    "alcance_pct": 49.6,
+    "consumo_minutos": 145,
+    "pct_no_visto_mes_acumulado": 15
+  },
+  {
+    "fecha": "2026-08-24",
+    "espectadores_totales": 23647000,
+    "alcance_pct": 49.7,
+    "consumo_minutos": 139,
+    "pct_no_visto_mes_acumulado": 15
+  },
+  {
+    "fecha": "2026-08-25",
+    "espectadores_totales": 23657000,
+    "alcance_pct": 49.7,
+    "consumo_minutos": 142,
+    "pct_no_visto_mes_acumulado": 14
+  },
+  {
+    "fecha": "2026-08-26",
+    "espectadores_totales": 23603000,
+    "alcance_pct": 49.6,
+    "consumo_minutos": 142,
+    "pct_no_visto_mes_acumulado": 14
+  },
+  {
+    "fecha": "2026-08-27",
+    "espectadores_totales": 23151000,
+    "alcance_pct": 48.7,
+    "consumo_minutos": 136,
+    "pct_no_visto_mes_acumulado": 13
+  },
+  {
+    "fecha": "2026-08-28",
+    "espectadores_totales": 22181000,
+    "alcance_pct": 46.6,
+    "consumo_minutos": 134,
+    "pct_no_visto_mes_acumulado": 13
+  },
+  {
+    "fecha": "2026-08-29",
+    "espectadores_totales": 24438000,
+    "alcance_pct": 51.4,
+    "consumo_minutos": 149,
+    "pct_no_visto_mes_acumulado": 13
+  },
+  {
+    "fecha": "2026-08-30",
+    "espectadores_totales": 25267000,
+    "alcance_pct": 53.1,
+    "consumo_minutos": 149,
+    "pct_no_visto_mes_acumulado": 12
+  },
+  {
+    "fecha": "2026-08-31",
+    "espectadores_totales": 25394000,
+    "alcance_pct": 53.4,
+    "consumo_minutos": 146,
+    "pct_no_visto_mes_acumulado": null
+  },
+  {
+    "fecha": "2026-09-01",
+    "espectadores_totales": 25306000,
+    "alcance_pct": 53.2,
+    "consumo_minutos": 144,
+    "pct_no_visto_mes_acumulado": 38
+  },
+  {
+    "fecha": "2026-09-02",
+    "espectadores_totales": 25106000,
+    "alcance_pct": 52.8,
+    "consumo_minutos": 147,
+    "pct_no_visto_mes_acumulado": 34
+  },
+  {
+    "fecha": "2026-09-03",
+    "espectadores_totales": 24855000,
+    "alcance_pct": 52.3,
+    "consumo_minutos": 144,
+    "pct_no_visto_mes_acumulado": 30
+  },
+  {
+    "fecha": "2026-09-04",
+    "espectadores_totales": 23528000,
+    "alcance_pct": 49.5,
+    "consumo_minutos": 139,
+    "pct_no_visto_mes_acumulado": 27
+  },
+  {
+    "fecha": "2026-09-05",
+    "espectadores_totales": 25299000,
+    "alcance_pct": 53.2,
+    "consumo_minutos": 156,
+    "pct_no_visto_mes_acumulado": 25
+  },
+  {
+    "fecha": "2026-09-06",
+    "espectadores_totales": 25878000,
+    "alcance_pct": 54.4,
+    "consumo_minutos": 151,
+    "pct_no_visto_mes_acumulado": 23
+  },
+  {
+    "fecha": "2026-09-07",
+    "espectadores_totales": 26556000,
+    "alcance_pct": 55.8,
+    "consumo_minutos": 157,
+    "pct_no_visto_mes_acumulado": 21
+  },
+  {
+    "fecha": "2026-09-08",
+    "espectadores_totales": 26368000,
+    "alcance_pct": 55.4,
+    "consumo_minutos": 157,
+    "pct_no_visto_mes_acumulado": 20
+  },
+  {
+    "fecha": "2026-09-09",
+    "espectadores_totales": 25734000,
+    "alcance_pct": 54.1,
+    "consumo_minutos": 148,
+    "pct_no_visto_mes_acumulado": 19
+  },
+  {
+    "fecha": "2026-09-10",
+    "espectadores_totales": 25173000,
+    "alcance_pct": 52.9,
+    "consumo_minutos": 144,
+    "pct_no_visto_mes_acumulado": 18
+  },
+  {
+    "fecha": "2026-09-11",
+    "espectadores_totales": 24360000,
+    "alcance_pct": 51.2,
+    "consumo_minutos": 146,
+    "pct_no_visto_mes_acumulado": 17
+  },
+  {
+    "fecha": "2026-09-12",
+    "espectadores_totales": 26243000,
+    "alcance_pct": 55.2,
+    "consumo_minutos": 158,
+    "pct_no_visto_mes_acumulado": 16
+  },
+  {
+    "fecha": "2026-09-13",
+    "espectadores_totales": 26335000,
+    "alcance_pct": 55.4,
+    "consumo_minutos": 153,
+    "pct_no_visto_mes_acumulado": 15
+  },
+  {
+    "fecha": "2026-09-14",
+    "espectadores_totales": 26544000,
+    "alcance_pct": 55.8,
+    "consumo_minutos": 151,
+    "pct_no_visto_mes_acumulado": 15
+  },
+  {
+    "fecha": "2026-09-15",
+    "espectadores_totales": 26292000,
+    "alcance_pct": 55.3,
+    "consumo_minutos": 150,
+    "pct_no_visto_mes_acumulado": 14
+  },
+  {
+    "fecha": "2026-09-16",
+    "espectadores_totales": 25805000,
+    "alcance_pct": 54.3,
+    "consumo_minutos": 148,
+    "pct_no_visto_mes_acumulado": 14
+  },
+  {
+    "fecha": "2026-09-17",
+    "espectadores_totales": 25662000,
+    "alcance_pct": 54.0,
+    "consumo_minutos": 147,
+    "pct_no_visto_mes_acumulado": 13
+  },
+  {
+    "fecha": "2026-09-18",
+    "espectadores_totales": 24572000,
+    "alcance_pct": 51.7,
+    "consumo_minutos": 141,
+    "pct_no_visto_mes_acumulado": 13
+  },
+  {
+    "fecha": "2026-09-19",
+    "espectadores_totales": 26241000,
+    "alcance_pct": 55.2,
+    "consumo_minutos": 161,
+    "pct_no_visto_mes_acumulado": 13
+  }
+]

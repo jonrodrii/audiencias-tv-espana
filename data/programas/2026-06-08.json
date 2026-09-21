@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-06-08",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1577000,
+      "share": 20.7,
+      "rating": 3.3
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1451000,
+      "share": 12.5,
+      "rating": 3.1
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1400000,
+      "share": 16.4,
+      "rating": 2.9
+    },
+    {
+      "programa": "La Revuelta: Jose Sacristan",
+      "cadena": "La 1",
+      "espectadores": 1371000,
+      "share": 11.9,
+      "rating": 2.9
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1356000,
+      "share": 15.1,
+      "rating": 2.9
+    },
+    {
+      "programa": "Horizonte",
+      "cadena": "Cuatro",
+      "espectadores": 1232000,
+      "share": 10.7,
+      "rating": 2.6
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 1013000,
+      "share": 12.1,
+      "rating": 2.1
+    },
+    {
+      "programa": "Directo al grano",
+      "cadena": "La 1",
+      "espectadores": 945000,
+      "share": 10.8,
+      "rating": 2.0
+    },
+    {
+      "programa": "La isla de las tentaciones",
+      "cadena": "Telecinco icono",
+      "espectadores": 926000,
+      "share": 14.4,
+      "rating": 1.9
+    },
+    {
+      "programa": "First dates",
+      "cadena": "Telecinco icono",
+      "espectadores": 925000,
+      "share": 8.0,
+      "rating": 1.9
+    }
+  ]
+}

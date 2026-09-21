@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-05-02",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1307000,
+      "share": 19.8,
+      "rating": 2.7
+    },
+    {
+      "programa": "Sesión de tarde: En lo profundo del oceano",
+      "cadena": "La 1",
+      "espectadores": 1093000,
+      "share": 12.9,
+      "rating": 2.3
+    },
+    {
+      "programa": "Multicine: La sospecha ( 2024 )",
+      "cadena": "Antena 3",
+      "espectadores": 964000,
+      "share": 11.9,
+      "rating": 2.0
+    },
+    {
+      "programa": "Plan de c1ne: Amor redentor",
+      "cadena": "La 1",
+      "espectadores": 925000,
+      "share": 9.8,
+      "rating": 1.9
+    },
+    {
+      "programa": "Got Talent España",
+      "cadena": "Telecinco icono",
+      "espectadores": 874000,
+      "share": 11.8,
+      "rating": 1.8
+    },
+    {
+      "programa": "Informe semanal",
+      "cadena": "La 1",
+      "espectadores": 843000,
+      "share": 8.7,
+      "rating": 1.8
+    },
+    {
+      "programa": "Sesión de tarde 2: Hasta que la ley nos separe",
+      "cadena": "La 1",
+      "espectadores": 808000,
+      "share": 10.1,
+      "rating": 1.7
+    },
+    {
+      "programa": "Cine de barrio: Vente a alemania, pepe",
+      "cadena": "La 1",
+      "espectadores": 772000,
+      "share": 10.0,
+      "rating": 1.6
+    },
+    {
+      "programa": "Cine de barrio presentación: Vente a alemania, pepe",
+      "cadena": "La 1",
+      "espectadores": 752000,
+      "share": 9.8,
+      "rating": 1.6
+    },
+    {
+      "programa": "Multicine 2: Absolucion fatal",
+      "cadena": "Antena 3",
+      "espectadores": 745000,
+      "share": 9.5,
+      "rating": 1.6
+    }
+  ]
+}

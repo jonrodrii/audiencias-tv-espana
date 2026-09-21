@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-06-12",
+  "programas": [
+    {
+      "programa": "Futbol: Copa mundial: Canada-bosnia y herzegovina: Previa",
+      "cadena": "La 1",
+      "espectadores": 2149000,
+      "share": 22.5,
+      "rating": 4.5
+    },
+    {
+      "programa": "Fifa world cup 2026",
+      "cadena": "La 1",
+      "espectadores": 1871000,
+      "share": 20.7,
+      "rating": 3.9
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1358000,
+      "share": 19.1,
+      "rating": 2.9
+    },
+    {
+      "programa": "Tu cara me suena",
+      "cadena": "Antena 3",
+      "espectadores": 1297000,
+      "share": 19.1,
+      "rating": 2.7
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1253000,
+      "share": 18.1,
+      "rating": 2.6
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1195000,
+      "share": 13.8,
+      "rating": 2.5
+    },
+    {
+      "programa": "Tu cara me suena: Calentando motores",
+      "cadena": "Antena 3",
+      "espectadores": 1175000,
+      "share": 11.7,
+      "rating": 2.5
+    },
+    {
+      "programa": "Directo al grano",
+      "cadena": "La 1",
+      "espectadores": 888000,
+      "share": 12.2,
+      "rating": 1.9
+    },
+    {
+      "programa": "El papa leon xiv, en españa",
+      "cadena": "La 1",
+      "espectadores": 861000,
+      "share": 10.0,
+      "rating": 1.8
+    },
+    {
+      "programa": "La Promesa",
+      "cadena": "La 1",
+      "espectadores": 854000,
+      "share": 13.0,
+      "rating": 1.8
+    }
+  ]
+}

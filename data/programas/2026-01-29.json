@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-01-29",
+  "programas": [
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 2476000,
+      "share": 22.7,
+      "rating": 5.2
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1919000,
+      "share": 15.0,
+      "rating": 4.0
+    },
+    {
+      "programa": "La revuelta: Celtas cortos-vanesa romero",
+      "cadena": "La 1",
+      "espectadores": 1740000,
+      "share": 13.7,
+      "rating": 3.7
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1731000,
+      "share": 22.4,
+      "rating": 3.6
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1513000,
+      "share": 13.7,
+      "rating": 3.2
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1343000,
+      "share": 14.8,
+      "rating": 2.8
+    },
+    {
+      "programa": "Malas lenguas",
+      "cadena": "La 1",
+      "espectadores": 1146000,
+      "share": 11.2,
+      "rating": 2.4
+    },
+    {
+      "programa": "GH Dúo",
+      "cadena": "Telecinco icono",
+      "espectadores": 1029000,
+      "share": 8.0,
+      "rating": 2.2
+    },
+    {
+      "programa": "Crossobar",
+      "cadena": "La 1",
+      "espectadores": 976000,
+      "share": 12.4,
+      "rating": 2.1
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 946000,
+      "share": 11.1,
+      "rating": 2.0
+    }
+  ]
+}

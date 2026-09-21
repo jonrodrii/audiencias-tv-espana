@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-02-22",
+  "programas": [
+    {
+      "programa": "Anatomia de un instante: Un falangista de provincias",
+      "cadena": "La 1",
+      "espectadores": 1643000,
+      "share": 13.2,
+      "rating": 3.5
+    },
+    {
+      "programa": "Anatomia de un instante: Un revolucionario frente al golpe",
+      "cadena": "La 1",
+      "espectadores": 1582000,
+      "share": 14.9,
+      "rating": 3.3
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1388000,
+      "share": 12.8,
+      "rating": 2.9
+    },
+    {
+      "programa": "Anatomia de un instante: Un golpista frente al golpe",
+      "cadena": "La 1",
+      "espectadores": 1249000,
+      "share": 16.0,
+      "rating": 2.6
+    },
+    {
+      "programa": "Antena 3 presenta: Una vida nueva",
+      "cadena": "Antena 3",
+      "espectadores": 1066000,
+      "share": 8.4,
+      "rating": 2.2
+    },
+    {
+      "programa": "Sesión de tarde: Tomates verdes fritos",
+      "cadena": "La 1",
+      "espectadores": 1066000,
+      "share": 11.9,
+      "rating": 2.2
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1058000,
+      "share": 15.9,
+      "rating": 2.2
+    },
+    {
+      "programa": "Sesión de tarde 2: Mensaje en una botella",
+      "cadena": "La 1",
+      "espectadores": 970000,
+      "share": 10.8,
+      "rating": 2.0
+    },
+    {
+      "programa": "Anatomia de un instante: Todos los golpes del golpe",
+      "cadena": "La 1",
+      "espectadores": 966000,
+      "share": 17.6,
+      "rating": 2.0
+    },
+    {
+      "programa": "Una nueva vida",
+      "cadena": "Antena 3",
+      "espectadores": 939000,
+      "share": 10.4,
+      "rating": 2.0
+    }
+  ]
+}

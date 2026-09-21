@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-04-05",
+  "programas": [
+    {
+      "programa": "Película de la semana: Uno de nosotros",
+      "cadena": "La 1",
+      "espectadores": 1174000,
+      "share": 10.8,
+      "rating": 2.5
+    },
+    {
+      "programa": "Supervivientes: Conexión Honduras",
+      "cadena": "Telecinco icono",
+      "espectadores": 1087000,
+      "share": 13.7,
+      "rating": 2.3
+    },
+    {
+      "programa": "Sesión de tarde: El velo pintado(the painted veil)",
+      "cadena": "La 1",
+      "espectadores": 1009000,
+      "share": 12.5,
+      "rating": 2.1
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1001000,
+      "share": 16.8,
+      "rating": 2.1
+    },
+    {
+      "programa": "Una nueva vida",
+      "cadena": "Antena 3",
+      "espectadores": 898000,
+      "share": 9.3,
+      "rating": 1.9
+    },
+    {
+      "programa": "Multicine: Casada con un extraño",
+      "cadena": "Antena 3",
+      "espectadores": 855000,
+      "share": 10.6,
+      "rating": 1.8
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 803000,
+      "share": 8.8,
+      "rating": 1.7
+    },
+    {
+      "programa": "Multicine 2: El sacrificio",
+      "cadena": "Antena 3",
+      "espectadores": 798000,
+      "share": 10.2,
+      "rating": 1.7
+    },
+    {
+      "programa": "Multicine 3: La asesina de sueños",
+      "cadena": "Antena 3",
+      "espectadores": 704000,
+      "share": 8.2,
+      "rating": 1.5
+    },
+    {
+      "programa": "Fiesta",
+      "cadena": "Telecinco icono",
+      "espectadores": 699000,
+      "share": 8.6,
+      "rating": 1.5
+    }
+  ]
+}

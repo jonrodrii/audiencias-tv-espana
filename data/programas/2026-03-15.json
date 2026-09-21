@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-03-15",
+  "programas": [
+    {
+      "programa": "Especial informativo: Elecciones castilla y leon",
+      "cadena": "Antena 3",
+      "espectadores": 1333000,
+      "share": 10.4,
+      "rating": 2.8
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1263000,
+      "share": 17.2,
+      "rating": 2.7
+    },
+    {
+      "programa": "Multicine: Viaje sin retorno",
+      "cadena": "Antena 3",
+      "espectadores": 1206000,
+      "share": 12.8,
+      "rating": 2.5
+    },
+    {
+      "programa": "15m castilla y leon decide: Resultados",
+      "cadena": "La 1",
+      "espectadores": 1037000,
+      "share": 8.2,
+      "rating": 2.2
+    },
+    {
+      "programa": "Arv: Elecciones castilla y leon: El año decisivo",
+      "cadena": "laSexta",
+      "espectadores": 1017000,
+      "share": 8.0,
+      "rating": 2.1
+    },
+    {
+      "programa": "Multicine 2: Irresistible",
+      "cadena": "Antena 3",
+      "espectadores": 1001000,
+      "share": 11.4,
+      "rating": 2.1
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 964000,
+      "share": 8.9,
+      "rating": 2.0
+    },
+    {
+      "programa": "¡Allá tú!",
+      "cadena": "Telecinco icono",
+      "espectadores": 938000,
+      "share": 8.8,
+      "rating": 2.0
+    },
+    {
+      "programa": "Supervivientes: Conexión Honduras",
+      "cadena": "Telecinco icono",
+      "espectadores": 921000,
+      "share": 11.9,
+      "rating": 1.9
+    },
+    {
+      "programa": "Oscarizados: El discurso del rey",
+      "cadena": "La 1",
+      "espectadores": 899000,
+      "share": 9.6,
+      "rating": 1.9
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-02-18",
+  "programas": [
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 2025000,
+      "share": 15.8,
+      "rating": 4.3
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1890000,
+      "share": 18.3,
+      "rating": 4.0
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1633000,
+      "share": 21.1,
+      "rating": 3.4
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1356000,
+      "share": 12.9,
+      "rating": 2.9
+    },
+    {
+      "programa": "La Revuelta: Juan Davila-tony Grox & Lucycalys",
+      "cadena": "La 1",
+      "espectadores": 1336000,
+      "share": 10.4,
+      "rating": 2.8
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1275000,
+      "share": 14.2,
+      "rating": 2.7
+    },
+    {
+      "programa": "First dates",
+      "cadena": "Telecinco icono",
+      "espectadores": 1044000,
+      "share": 8.2,
+      "rating": 2.2
+    },
+    {
+      "programa": "Malas lenguas",
+      "cadena": "La 1",
+      "espectadores": 1009000,
+      "share": 11.1,
+      "rating": 2.1
+    },
+    {
+      "programa": "La Promesa",
+      "cadena": "La 1",
+      "espectadores": 1000000,
+      "share": 12.4,
+      "rating": 2.1
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 988000,
+      "share": 11.8,
+      "rating": 2.1
+    }
+  ]
+}

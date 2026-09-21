@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-05-09",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1475000,
+      "share": 19.8,
+      "rating": 3.1
+    },
+    {
+      "programa": "La voz kids: Audiciones",
+      "cadena": "Antena 3",
+      "espectadores": 1328000,
+      "share": 14.6,
+      "rating": 2.8
+    },
+    {
+      "programa": "La voz kids: A punto de empezar",
+      "cadena": "Antena 3",
+      "espectadores": 1105000,
+      "share": 10.3,
+      "rating": 2.3
+    },
+    {
+      "programa": "Multicine: Mi hermana secreta",
+      "cadena": "Antena 3",
+      "espectadores": 1057000,
+      "share": 11.7,
+      "rating": 2.2
+    },
+    {
+      "programa": "Sesión de tarde: Planes de boda",
+      "cadena": "La 1",
+      "espectadores": 971000,
+      "share": 10.7,
+      "rating": 2.0
+    },
+    {
+      "programa": "Hay una cosa que te quiero decir",
+      "cadena": "Telecinco icono",
+      "espectadores": 956000,
+      "share": 10.6,
+      "rating": 2.0
+    },
+    {
+      "programa": "Multicine 2: Secretos que matan",
+      "cadena": "Antena 3",
+      "espectadores": 806000,
+      "share": 9.7,
+      "rating": 1.7
+    },
+    {
+      "programa": "Informe semanal",
+      "cadena": "La 1",
+      "espectadores": 804000,
+      "share": 7.8,
+      "rating": 1.7
+    },
+    {
+      "programa": "Plan de c1ne: Toda la verdad ( 2016 )",
+      "cadena": "La 1",
+      "espectadores": 800000,
+      "share": 7.5,
+      "rating": 1.7
+    },
+    {
+      "programa": "Home cinema: Ladrones de elite",
+      "cadena": "Cuatro",
+      "espectadores": 797000,
+      "share": 8.7,
+      "rating": 1.7
+    }
+  ]
+}

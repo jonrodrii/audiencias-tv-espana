@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-05-01",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1398000,
+      "share": 20.0,
+      "rating": 2.9
+    },
+    {
+      "programa": "Superestrellas: Clint eastwood: Gran torino",
+      "cadena": "La 1",
+      "espectadores": 1033000,
+      "share": 10.4,
+      "rating": 2.2
+    },
+    {
+      "programa": "Multicine: Pequeños detalles",
+      "cadena": "Antena 3",
+      "espectadores": 1025000,
+      "share": 12.4,
+      "rating": 2.2
+    },
+    {
+      "programa": "Tu cara me suena",
+      "cadena": "Antena 3",
+      "espectadores": 1020000,
+      "share": 11.9,
+      "rating": 2.1
+    },
+    {
+      "programa": "Sesión de tarde: Casate conmigo(2022)",
+      "cadena": "La 1",
+      "espectadores": 962000,
+      "share": 11.3,
+      "rating": 2.0
+    },
+    {
+      "programa": "¡De viernes!",
+      "cadena": "Telecinco icono",
+      "espectadores": 786000,
+      "share": 10.5,
+      "rating": 1.7
+    },
+    {
+      "programa": "Cocina abierta de Karlos Arguiñano",
+      "cadena": "Antena 3",
+      "espectadores": 760000,
+      "share": 16.0,
+      "rating": 1.6
+    },
+    {
+      "programa": "Multicine 2: Deep water",
+      "cadena": "Antena 3",
+      "espectadores": 722000,
+      "share": 9.7,
+      "rating": 1.5
+    },
+    {
+      "programa": "Sesión de tarde 3: Doce fuera de casa",
+      "cadena": "La 1",
+      "espectadores": 720000,
+      "share": 9.5,
+      "rating": 1.5
+    },
+    {
+      "programa": "¡Allá tú!",
+      "cadena": "Telecinco icono",
+      "espectadores": 709000,
+      "share": 9.2,
+      "rating": 1.5
+    }
+  ]
+}

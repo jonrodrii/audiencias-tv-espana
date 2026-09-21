@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-03-05",
+  "programas": [
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1899000,
+      "share": 15.0,
+      "rating": 4.0
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1886000,
+      "share": 18.1,
+      "rating": 4.0
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1616000,
+      "share": 20.8,
+      "rating": 3.4
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1447000,
+      "share": 13.5,
+      "rating": 3.0
+    },
+    {
+      "programa": "Supervivientes exprés",
+      "cadena": "Telecinco icono",
+      "espectadores": 1375000,
+      "share": 10.8,
+      "rating": 2.9
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1243000,
+      "share": 13.5,
+      "rating": 2.6
+    },
+    {
+      "programa": "Supervivientes",
+      "cadena": "Telecinco icono",
+      "espectadores": 1227000,
+      "share": 21.2,
+      "rating": 2.6
+    },
+    {
+      "programa": "La Revuelta: Christophe Lacampagne-chambao",
+      "cadena": "La 1",
+      "espectadores": 1215000,
+      "share": 9.7,
+      "rating": 2.6
+    },
+    {
+      "programa": "Horizonte: Avance",
+      "cadena": "Cuatro",
+      "espectadores": 1163000,
+      "share": 9.1,
+      "rating": 2.4
+    },
+    {
+      "programa": "Malas lenguas",
+      "cadena": "La 1",
+      "espectadores": 1108000,
+      "share": 12.1,
+      "rating": 2.3
+    }
+  ]
+}

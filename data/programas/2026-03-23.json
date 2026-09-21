@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-03-23",
+  "programas": [
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1827000,
+      "share": 18.4,
+      "rating": 3.8
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1717000,
+      "share": 14.0,
+      "rating": 3.6
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1602000,
+      "share": 21.3,
+      "rating": 3.4
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1408000,
+      "share": 13.9,
+      "rating": 3.0
+    },
+    {
+      "programa": "La Revuelta: Eva & Belen",
+      "cadena": "La 1",
+      "espectadores": 1319000,
+      "share": 11.0,
+      "rating": 2.8
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1277000,
+      "share": 14.3,
+      "rating": 2.7
+    },
+    {
+      "programa": "First dates",
+      "cadena": "Telecinco icono",
+      "espectadores": 1138000,
+      "share": 9.3,
+      "rating": 2.4
+    },
+    {
+      "programa": "Malas lenguas",
+      "cadena": "La 1",
+      "espectadores": 1054000,
+      "share": 12.2,
+      "rating": 2.2
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 975000,
+      "share": 11.7,
+      "rating": 2.1
+    },
+    {
+      "programa": "La Promesa",
+      "cadena": "La 1",
+      "espectadores": 966000,
+      "share": 13.1,
+      "rating": 2.0
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-03-29",
+  "programas": [
+    {
+      "programa": "Película de la semana: Indiana jones y el reino de la calavera de cristal",
+      "cadena": "La 1",
+      "espectadores": 1345000,
+      "share": 12.3,
+      "rating": 2.8
+    },
+    {
+      "programa": "Sesión de tarde: El juez(2014)",
+      "cadena": "La 1",
+      "espectadores": 1134000,
+      "share": 12.6,
+      "rating": 2.4
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1096000,
+      "share": 11.5,
+      "rating": 2.3
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1094000,
+      "share": 17.0,
+      "rating": 2.3
+    },
+    {
+      "programa": "Multicine: La desaparicion de hortense",
+      "cadena": "Antena 3",
+      "espectadores": 1053000,
+      "share": 11.7,
+      "rating": 2.2
+    },
+    {
+      "programa": "Supervivientes: Conexión Honduras",
+      "cadena": "Telecinco icono",
+      "espectadores": 969000,
+      "share": 12.2,
+      "rating": 2.0
+    },
+    {
+      "programa": "Una nueva vida",
+      "cadena": "Antena 3",
+      "espectadores": 966000,
+      "share": 9.9,
+      "rating": 2.0
+    },
+    {
+      "programa": "Sesión de tarde 2: El jurado",
+      "cadena": "La 1",
+      "espectadores": 945000,
+      "share": 10.8,
+      "rating": 2.0
+    },
+    {
+      "programa": "¡Allá tú!",
+      "cadena": "Telecinco icono",
+      "espectadores": 901000,
+      "share": 9.6,
+      "rating": 1.9
+    },
+    {
+      "programa": "Multicine 2: Enamorada de un extraño",
+      "cadena": "Antena 3",
+      "espectadores": 840000,
+      "share": 9.6,
+      "rating": 1.8
+    }
+  ]
+}

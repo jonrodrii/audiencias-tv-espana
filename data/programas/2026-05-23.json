@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-05-23",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1330000,
+      "share": 19.7,
+      "rating": 2.8
+    },
+    {
+      "programa": "Futbol: Uefa womens champions league: Barcelona-ol lyonnes",
+      "cadena": "La 1",
+      "espectadores": 1157000,
+      "share": 14.9,
+      "rating": 2.4
+    },
+    {
+      "programa": "Uefa women's champion league: Barcelona-ol lyonnes",
+      "cadena": "La 1",
+      "espectadores": 1078000,
+      "share": 14.1,
+      "rating": 2.3
+    },
+    {
+      "programa": "Post futbol: Uefa womens champions league: Barcelona-ol lyonnes",
+      "cadena": "La 1",
+      "espectadores": 1037000,
+      "share": 14.3,
+      "rating": 2.2
+    },
+    {
+      "programa": "Multicine: Planes de venganza",
+      "cadena": "Antena 3",
+      "espectadores": 1027000,
+      "share": 12.5,
+      "rating": 2.2
+    },
+    {
+      "programa": "Sesión de tarde: Un buen año",
+      "cadena": "La 1",
+      "espectadores": 988000,
+      "share": 11.9,
+      "rating": 2.1
+    },
+    {
+      "programa": "La voz kids: Audiciones",
+      "cadena": "Antena 3",
+      "espectadores": 959000,
+      "share": 11.7,
+      "rating": 2.0
+    },
+    {
+      "programa": "La voz kids: A punto de empezar",
+      "cadena": "Antena 3",
+      "espectadores": 834000,
+      "share": 8.7,
+      "rating": 1.8
+    },
+    {
+      "programa": "Plan de c1ne: Un mar de enredos",
+      "cadena": "La 1",
+      "espectadores": 808000,
+      "share": 8.6,
+      "rating": 1.7
+    },
+    {
+      "programa": "Hay una cosa que te quiero decir",
+      "cadena": "Telecinco icono",
+      "espectadores": 768000,
+      "share": 10.0,
+      "rating": 1.6
+    }
+  ]
+}

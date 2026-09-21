@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-01-09",
+  "programas": [
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 2042000,
+      "share": 20.0,
+      "rating": 4.3
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1594000,
+      "share": 23.3,
+      "rating": 3.4
+    },
+    {
+      "programa": "El Desafío",
+      "cadena": "Antena 3",
+      "espectadores": 1578000,
+      "share": 17.0,
+      "rating": 3.4
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1377000,
+      "share": 13.4,
+      "rating": 2.9
+    },
+    {
+      "programa": "El Desafío",
+      "cadena": "Antena 3",
+      "espectadores": 1346000,
+      "share": 11.5,
+      "rating": 2.9
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1178000,
+      "share": 13.2,
+      "rating": 2.5
+    },
+    {
+      "programa": "Malas lenguas",
+      "cadena": "La 1",
+      "espectadores": 1130000,
+      "share": 12.3,
+      "rating": 2.4
+    },
+    {
+      "programa": "La Promesa",
+      "cadena": "La 1",
+      "espectadores": 1075000,
+      "share": 12.5,
+      "rating": 2.3
+    },
+    {
+      "programa": "Directo al grano",
+      "cadena": "La 1",
+      "espectadores": 956000,
+      "share": 11.0,
+      "rating": 2.0
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 905000,
+      "share": 12.1,
+      "rating": 1.9
+    }
+  ]
+}

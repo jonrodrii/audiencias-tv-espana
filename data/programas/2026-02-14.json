@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-02-14",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1455000,
+      "share": 19.3,
+      "rating": 3.1
+    },
+    {
+      "programa": "Benidorm fest 2026: Gran final",
+      "cadena": "La 1",
+      "espectadores": 1085000,
+      "share": 12.1,
+      "rating": 2.3
+    },
+    {
+      "programa": "Informe semanal",
+      "cadena": "La 1",
+      "espectadores": 1055000,
+      "share": 9.5,
+      "rating": 2.2
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1055000,
+      "share": 11.7,
+      "rating": 2.2
+    },
+    {
+      "programa": "Atrapa un millón",
+      "cadena": "Antena 3",
+      "espectadores": 988000,
+      "share": 9.4,
+      "rating": 2.1
+    },
+    {
+      "programa": "Amor, dulce amor: Mas alla del amor",
+      "cadena": "La 1",
+      "espectadores": 972000,
+      "share": 10.8,
+      "rating": 2.0
+    },
+    {
+      "programa": "Multicine: Cartas a julieta",
+      "cadena": "Antena 3",
+      "espectadores": 902000,
+      "share": 10.1,
+      "rating": 1.9
+    },
+    {
+      "programa": "Got Talent España",
+      "cadena": "Telecinco icono",
+      "espectadores": 848000,
+      "share": 8.8,
+      "rating": 1.8
+    },
+    {
+      "programa": "Home cinema: El protector ( the marksman )",
+      "cadena": "Cuatro",
+      "espectadores": 816000,
+      "share": 9.0,
+      "rating": 1.7
+    },
+    {
+      "programa": "Fiesta",
+      "cadena": "Telecinco icono",
+      "espectadores": 770000,
+      "share": 8.8,
+      "rating": 1.6
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-06-24",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1562000,
+      "share": 20.2,
+      "rating": 3.3
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1503000,
+      "share": 13.8,
+      "rating": 3.2
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1416000,
+      "share": 17.3,
+      "rating": 3.0
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1235000,
+      "share": 13.5,
+      "rating": 2.6
+    },
+    {
+      "programa": "Futbol: Copa mundial: Escocia-brasil: Previa",
+      "cadena": "La 1",
+      "espectadores": 1105000,
+      "share": 22.2,
+      "rating": 2.3
+    },
+    {
+      "programa": "Teledeporte: Directo al mundial",
+      "cadena": "La 1",
+      "espectadores": 1045000,
+      "share": 11.0,
+      "rating": 2.2
+    },
+    {
+      "programa": "Horizonte",
+      "cadena": "Cuatro",
+      "espectadores": 1023000,
+      "share": 9.4,
+      "rating": 2.2
+    },
+    {
+      "programa": "Directo al grano",
+      "cadena": "La 1",
+      "espectadores": 978000,
+      "share": 11.0,
+      "rating": 2.1
+    },
+    {
+      "programa": "La Promesa",
+      "cadena": "La 1",
+      "espectadores": 948000,
+      "share": 12.1,
+      "rating": 2.0
+    },
+    {
+      "programa": "Fifa world cup 2026",
+      "cadena": "La 1",
+      "espectadores": 945000,
+      "share": 19.6,
+      "rating": 2.0
+    }
+  ]
+}

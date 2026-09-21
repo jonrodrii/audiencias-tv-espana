@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-04-19",
+  "programas": [
+    {
+      "programa": "Barrio esperanza: Esperanza",
+      "cadena": "La 1",
+      "espectadores": 1611000,
+      "share": 15.3,
+      "rating": 3.4
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1135000,
+      "share": 17.2,
+      "rating": 2.4
+    },
+    {
+      "programa": "Multicine: Robada en mis sueños",
+      "cadena": "Antena 3",
+      "espectadores": 1047000,
+      "share": 11.9,
+      "rating": 2.2
+    },
+    {
+      "programa": "Sesión de tarde: Sabrina(y sus amores)",
+      "cadena": "La 1",
+      "espectadores": 1018000,
+      "share": 11.6,
+      "rating": 2.1
+    },
+    {
+      "programa": "Una nueva vida",
+      "cadena": "Antena 3",
+      "espectadores": 954000,
+      "share": 9.8,
+      "rating": 2.0
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 932000,
+      "share": 10.8,
+      "rating": 2.0
+    },
+    {
+      "programa": "Supervivientes: Conexión Honduras",
+      "cadena": "Telecinco icono",
+      "espectadores": 924000,
+      "share": 11.6,
+      "rating": 1.9
+    },
+    {
+      "programa": "Sesión de tarde 2: El presidente y miss wade",
+      "cadena": "La 1",
+      "espectadores": 849000,
+      "share": 10.3,
+      "rating": 1.8
+    },
+    {
+      "programa": "Lo de Évole",
+      "cadena": "laSexta",
+      "espectadores": 798000,
+      "share": 6.4,
+      "rating": 1.7
+    },
+    {
+      "programa": "Cuarto milenio",
+      "cadena": "Cuatro",
+      "espectadores": 779000,
+      "share": 7.2,
+      "rating": 1.6
+    }
+  ]
+}

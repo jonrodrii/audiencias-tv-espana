@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-06-22",
+  "programas": [
+    {
+      "programa": "Futbol: Copa mundial: Argentina-austria: Previa",
+      "cadena": "La 1",
+      "espectadores": 2953000,
+      "share": 31.1,
+      "rating": 6.2
+    },
+    {
+      "programa": "Fifa world cup 2026",
+      "cadena": "La 1",
+      "espectadores": 2761000,
+      "share": 29.6,
+      "rating": 5.8
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1588000,
+      "share": 21.1,
+      "rating": 3.3
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1519000,
+      "share": 15.1,
+      "rating": 3.2
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1496000,
+      "share": 12.9,
+      "rating": 3.1
+    },
+    {
+      "programa": "Horizonte",
+      "cadena": "Cuatro",
+      "espectadores": 1338000,
+      "share": 11.6,
+      "rating": 2.8
+    },
+    {
+      "programa": "La Revuelta: Kira Miro",
+      "cadena": "La 1",
+      "espectadores": 1292000,
+      "share": 11.0,
+      "rating": 2.7
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1263000,
+      "share": 13.6,
+      "rating": 2.7
+    },
+    {
+      "programa": "Teledeporte: Directo al mundial",
+      "cadena": "La 1",
+      "espectadores": 1125000,
+      "share": 11.6,
+      "rating": 2.4
+    },
+    {
+      "programa": "Directo al grano",
+      "cadena": "La 1",
+      "espectadores": 932000,
+      "share": 10.7,
+      "rating": 2.0
+    }
+  ]
+}

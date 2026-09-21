@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-03-21",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1293000,
+      "share": 18.0,
+      "rating": 2.7
+    },
+    {
+      "programa": "Atrapa un millón",
+      "cadena": "Antena 3",
+      "espectadores": 1095000,
+      "share": 11.2,
+      "rating": 2.3
+    },
+    {
+      "programa": "Multicine: Ella lo sabe",
+      "cadena": "Antena 3",
+      "espectadores": 1041000,
+      "share": 12.1,
+      "rating": 2.2
+    },
+    {
+      "programa": "Informe semanal",
+      "cadena": "La 1",
+      "espectadores": 966000,
+      "share": 9.2,
+      "rating": 2.0
+    },
+    {
+      "programa": "Sesión de tarde: Una rubia muy legal",
+      "cadena": "La 1",
+      "espectadores": 944000,
+      "share": 10.9,
+      "rating": 2.0
+    },
+    {
+      "programa": "¡Allá tú!",
+      "cadena": "Telecinco icono",
+      "espectadores": 839000,
+      "share": 9.3,
+      "rating": 1.8
+    },
+    {
+      "programa": "Got Talent España",
+      "cadena": "Telecinco icono",
+      "espectadores": 819000,
+      "share": 9.3,
+      "rating": 1.7
+    },
+    {
+      "programa": "Plan de c1ne: La promesa de irene",
+      "cadena": "La 1",
+      "espectadores": 760000,
+      "share": 7.8,
+      "rating": 1.6
+    },
+    {
+      "programa": "Fiesta",
+      "cadena": "Telecinco icono",
+      "espectadores": 754000,
+      "share": 9.0,
+      "rating": 1.6
+    },
+    {
+      "programa": "El Blockbuster: Guardianes de la galaxia vol.2",
+      "cadena": "Cuatro",
+      "espectadores": 748000,
+      "share": 8.5,
+      "rating": 1.6
+    }
+  ]
+}

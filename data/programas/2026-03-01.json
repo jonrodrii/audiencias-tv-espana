@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-03-01",
+  "programas": [
+    {
+      "programa": "Lo de Évole",
+      "cadena": "laSexta",
+      "espectadores": 1438000,
+      "share": 11.4,
+      "rating": 3.0
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1388000,
+      "share": 11.9,
+      "rating": 2.9
+    },
+    {
+      "programa": "Película de la semana: Hunter killer",
+      "cadena": "La 1",
+      "espectadores": 1262000,
+      "share": 11.7,
+      "rating": 2.7
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1165000,
+      "share": 16.6,
+      "rating": 2.4
+    },
+    {
+      "programa": "Sesión de tarde: Siete dias y una vida",
+      "cadena": "La 1",
+      "espectadores": 964000,
+      "share": 10.8,
+      "rating": 2.0
+    },
+    {
+      "programa": "¡Allá tú!",
+      "cadena": "Telecinco icono",
+      "espectadores": 952000,
+      "share": 8.6,
+      "rating": 2.0
+    },
+    {
+      "programa": "Una nueva vida",
+      "cadena": "Antena 3",
+      "espectadores": 898000,
+      "share": 10.0,
+      "rating": 1.9
+    },
+    {
+      "programa": "Sesión de tarde 3: Flashdance",
+      "cadena": "La 1",
+      "espectadores": 866000,
+      "share": 8.5,
+      "rating": 1.8
+    },
+    {
+      "programa": "Home cinema: Código abierto",
+      "cadena": "Cuatro",
+      "espectadores": 863000,
+      "share": 9.6,
+      "rating": 1.8
+    },
+    {
+      "programa": "Multicine: La salvacion de sixtine",
+      "cadena": "Antena 3",
+      "espectadores": 841000,
+      "share": 9.4,
+      "rating": 1.8
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-05-10",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1285000,
+      "share": 16.4,
+      "rating": 2.7
+    },
+    {
+      "programa": "Sesión de tarde: Quedate a mi lado",
+      "cadena": "La 1",
+      "espectadores": 1186000,
+      "share": 12.6,
+      "rating": 2.5
+    },
+    {
+      "programa": "Película de la semana: Cuestion de sangre",
+      "cadena": "La 1",
+      "espectadores": 985000,
+      "share": 8.7,
+      "rating": 2.1
+    },
+    {
+      "programa": "Multicine: Sentimientos equivocados",
+      "cadena": "Antena 3",
+      "espectadores": 950000,
+      "share": 10.1,
+      "rating": 2.0
+    },
+    {
+      "programa": "Supervivientes: Conexión Honduras Exprés",
+      "cadena": "Telecinco icono",
+      "espectadores": 939000,
+      "share": 7.3,
+      "rating": 2.0
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 928000,
+      "share": 9.5,
+      "rating": 2.0
+    },
+    {
+      "programa": "Supervivientes: Conexión Honduras",
+      "cadena": "Telecinco icono",
+      "espectadores": 897000,
+      "share": 12.8,
+      "rating": 1.9
+    },
+    {
+      "programa": "Una nueva vida",
+      "cadena": "Antena 3",
+      "espectadores": 876000,
+      "share": 9.3,
+      "rating": 1.8
+    },
+    {
+      "programa": "Fiesta",
+      "cadena": "Telecinco icono",
+      "espectadores": 832000,
+      "share": 9.0,
+      "rating": 1.7
+    },
+    {
+      "programa": "Sesión de tarde 2: Posdata:te quiero",
+      "cadena": "La 1",
+      "espectadores": 803000,
+      "share": 9.2,
+      "rating": 1.7
+    }
+  ]
+}

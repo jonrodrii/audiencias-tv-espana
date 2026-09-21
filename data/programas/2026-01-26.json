@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-01-26",
+  "programas": [
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 2195000,
+      "share": 20.5,
+      "rating": 4.6
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 2014000,
+      "share": 15.5,
+      "rating": 4.2
+    },
+    {
+      "programa": "La revuelta: Paco leon-melani olivares-pepa rus-eduardo casanova-canco rodriguez-secun de la rosa-miren ibarguren-carmen machi",
+      "cadena": "La 1",
+      "espectadores": 1786000,
+      "share": 13.6,
+      "rating": 3.8
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1742000,
+      "share": 21.6,
+      "rating": 3.7
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1429000,
+      "share": 13.1,
+      "rating": 3.0
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1342000,
+      "share": 14.2,
+      "rating": 2.8
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 1099000,
+      "share": 12.4,
+      "rating": 2.3
+    },
+    {
+      "programa": "Malas lenguas",
+      "cadena": "La 1",
+      "espectadores": 1092000,
+      "share": 11.5,
+      "rating": 2.3
+    },
+    {
+      "programa": "First dates",
+      "cadena": "Telecinco icono",
+      "espectadores": 1076000,
+      "share": 8.3,
+      "rating": 2.3
+    },
+    {
+      "programa": "Directo al grano",
+      "cadena": "La 1",
+      "espectadores": 1003000,
+      "share": 11.1,
+      "rating": 2.1
+    }
+  ]
+}

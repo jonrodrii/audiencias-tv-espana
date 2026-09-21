@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-01-19",
+  "programas": [
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 2292000,
+      "share": 20.5,
+      "rating": 4.8
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1602000,
+      "share": 19.2,
+      "rating": 3.4
+    },
+    {
+      "programa": "Especial informativo: Tragedia ferroviaria en adamuz",
+      "cadena": "La 1",
+      "espectadores": 1544000,
+      "share": 16.8,
+      "rating": 3.2
+    },
+    {
+      "programa": "Avance informativo: Tragedia ferroviaria en adamuz",
+      "cadena": "La 1",
+      "espectadores": 1420000,
+      "share": 12.4,
+      "rating": 3.0
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1349000,
+      "share": 13.9,
+      "rating": 2.8
+    },
+    {
+      "programa": "El debate de las tentaciones",
+      "cadena": "Telecinco icono",
+      "espectadores": 1268000,
+      "share": 10.1,
+      "rating": 2.7
+    },
+    {
+      "programa": "Especial informativo: Tragedia ferroviaria",
+      "cadena": "Antena 3",
+      "espectadores": 1257000,
+      "share": 11.5,
+      "rating": 2.6
+    },
+    {
+      "programa": "Directo al grano",
+      "cadena": "La 1",
+      "espectadores": 1146000,
+      "share": 12.4,
+      "rating": 2.4
+    },
+    {
+      "programa": "Malas lenguas",
+      "cadena": "La 1",
+      "espectadores": 1090000,
+      "share": 11.1,
+      "rating": 2.3
+    },
+    {
+      "programa": "La Promesa",
+      "cadena": "La 1",
+      "espectadores": 1082000,
+      "share": 12.5,
+      "rating": 2.3
+    }
+  ]
+}

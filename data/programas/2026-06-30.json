@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-06-30",
+  "programas": [
+    {
+      "programa": "Futbol: Copa mundial: Francia-Suecia: 1: 16",
+      "cadena": "La 1",
+      "espectadores": 2513000,
+      "share": 28.1,
+      "rating": 5.3
+    },
+    {
+      "programa": "Fifa world cup 2026",
+      "cadena": "La 1",
+      "espectadores": 2395000,
+      "share": 26.2,
+      "rating": 5.0
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1543000,
+      "share": 20.9,
+      "rating": 3.2
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1472000,
+      "share": 13.0,
+      "rating": 3.1
+    },
+    {
+      "programa": "Teledeporte: Directo al mundial",
+      "cadena": "La 1",
+      "espectadores": 1420000,
+      "share": 15.2,
+      "rating": 3.0
+    },
+    {
+      "programa": "La Revuelta: Alex De La Iglesia",
+      "cadena": "La 1",
+      "espectadores": 1393000,
+      "share": 12.5,
+      "rating": 2.9
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1363000,
+      "share": 17.4,
+      "rating": 2.9
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1232000,
+      "share": 14.0,
+      "rating": 2.6
+    },
+    {
+      "programa": "Directo al grano",
+      "cadena": "La 1",
+      "espectadores": 987000,
+      "share": 11.7,
+      "rating": 2.1
+    },
+    {
+      "programa": "Horizonte",
+      "cadena": "Cuatro",
+      "espectadores": 952000,
+      "share": 8.5,
+      "rating": 2.0
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-01-10",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1398000,
+      "share": 19.9,
+      "rating": 3.0
+    },
+    {
+      "programa": "Sesión de tarde: Bajo el sol de la toscana",
+      "cadena": "La 1",
+      "espectadores": 1234000,
+      "share": 13.1,
+      "rating": 2.6
+    },
+    {
+      "programa": "Multicine: Esta no es mi hija",
+      "cadena": "Antena 3",
+      "espectadores": 1127000,
+      "share": 12.0,
+      "rating": 2.4
+    },
+    {
+      "programa": "Informe semanal",
+      "cadena": "La 1",
+      "espectadores": 1089000,
+      "share": 9.8,
+      "rating": 2.3
+    },
+    {
+      "programa": "Cine: Tentacion en manhattan",
+      "cadena": "La 1",
+      "espectadores": 1076000,
+      "share": 11.9,
+      "rating": 2.3
+    },
+    {
+      "programa": "La ruleta de la suerte noche",
+      "cadena": "Antena 3",
+      "espectadores": 1042000,
+      "share": 9.7,
+      "rating": 2.2
+    },
+    {
+      "programa": "Cine de barrio: La guerra de papa",
+      "cadena": "La 1",
+      "espectadores": 967000,
+      "share": 10.2,
+      "rating": 2.1
+    },
+    {
+      "programa": "Cine de barrio presentación: La guerra de papa",
+      "cadena": "La 1",
+      "espectadores": 947000,
+      "share": 10.1,
+      "rating": 2.0
+    },
+    {
+      "programa": "Got Talent España",
+      "cadena": "Telecinco icono",
+      "espectadores": 903000,
+      "share": 9.6,
+      "rating": 1.9
+    },
+    {
+      "programa": "Multicine 2: Yo contra el mundo",
+      "cadena": "Antena 3",
+      "espectadores": 884000,
+      "share": 9.8,
+      "rating": 1.9
+    }
+  ]
+}

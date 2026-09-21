@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-01-27",
+  "programas": [
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 2263000,
+      "share": 21.0,
+      "rating": 4.8
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1958000,
+      "share": 15.3,
+      "rating": 4.1
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1775000,
+      "share": 22.2,
+      "rating": 3.7
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1644000,
+      "share": 14.8,
+      "rating": 3.5
+    },
+    {
+      "programa": "La Revuelta: Javier Ambrossi",
+      "cadena": "La 1",
+      "espectadores": 1627000,
+      "share": 12.8,
+      "rating": 3.4
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1401000,
+      "share": 15.4,
+      "rating": 2.9
+    },
+    {
+      "programa": "First dates",
+      "cadena": "Telecinco icono",
+      "espectadores": 1192000,
+      "share": 9.3,
+      "rating": 2.5
+    },
+    {
+      "programa": "Malas lenguas",
+      "cadena": "La 1",
+      "espectadores": 1148000,
+      "share": 12.2,
+      "rating": 2.4
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 1086000,
+      "share": 12.4,
+      "rating": 2.3
+    },
+    {
+      "programa": "La Promesa",
+      "cadena": "La 1",
+      "espectadores": 1068000,
+      "share": 12.7,
+      "rating": 2.2
+    }
+  ]
+}

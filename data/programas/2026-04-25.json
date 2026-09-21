@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-04-25",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1336000,
+      "share": 20.3,
+      "rating": 2.8
+    },
+    {
+      "programa": "Una fiesta de muerte: Muerte en el museo",
+      "cadena": "Antena 3",
+      "espectadores": 1272000,
+      "share": 12.8,
+      "rating": 2.7
+    },
+    {
+      "programa": "Multicine: Cartas de amor de un asesino",
+      "cadena": "Antena 3",
+      "espectadores": 921000,
+      "share": 10.8,
+      "rating": 1.9
+    },
+    {
+      "programa": "Superestrellas: Sandra bullock: La proposicion ( 2009 )",
+      "cadena": "La 1",
+      "espectadores": 888000,
+      "share": 9.0,
+      "rating": 1.9
+    },
+    {
+      "programa": "Informe semanal",
+      "cadena": "La 1",
+      "espectadores": 881000,
+      "share": 9.2,
+      "rating": 1.9
+    },
+    {
+      "programa": "Ellas pisan fuerte: Si de verdad quieres...",
+      "cadena": "La 1",
+      "espectadores": 858000,
+      "share": 10.0,
+      "rating": 1.8
+    },
+    {
+      "programa": "Got Talent España",
+      "cadena": "Telecinco icono",
+      "espectadores": 855000,
+      "share": 10.0,
+      "rating": 1.8
+    },
+    {
+      "programa": "Cine de barrio: La ciudad no es para mi",
+      "cadena": "La 1",
+      "espectadores": 781000,
+      "share": 10.3,
+      "rating": 1.6
+    },
+    {
+      "programa": "Cine de barrio presentación: La ciudad no es para mi",
+      "cadena": "La 1",
+      "espectadores": 759000,
+      "share": 10.0,
+      "rating": 1.6
+    },
+    {
+      "programa": "Multicine 2: Asesinato encubierto ( 2021 )",
+      "cadena": "Antena 3",
+      "espectadores": 708000,
+      "share": 9.3,
+      "rating": 1.5
+    }
+  ]
+}

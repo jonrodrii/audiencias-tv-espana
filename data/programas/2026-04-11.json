@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-04-11",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1311000,
+      "share": 19.6,
+      "rating": 2.8
+    },
+    {
+      "programa": "Sesión de tarde: Solo la verdad(saint judy)",
+      "cadena": "La 1",
+      "espectadores": 1141000,
+      "share": 12.8,
+      "rating": 2.4
+    },
+    {
+      "programa": "Atrapa un millón",
+      "cadena": "Antena 3",
+      "espectadores": 1024000,
+      "share": 10.1,
+      "rating": 2.2
+    },
+    {
+      "programa": "El Blockbuster: The equalizer 2",
+      "cadena": "Cuatro",
+      "espectadores": 963000,
+      "share": 10.0,
+      "rating": 2.0
+    },
+    {
+      "programa": "Multicine: Mis dos maridos",
+      "cadena": "Antena 3",
+      "espectadores": 946000,
+      "share": 10.6,
+      "rating": 2.0
+    },
+    {
+      "programa": "Informe semanal",
+      "cadena": "La 1",
+      "espectadores": 896000,
+      "share": 8.9,
+      "rating": 1.9
+    },
+    {
+      "programa": "Cine de barrio: Relaciones casi publicas",
+      "cadena": "La 1",
+      "espectadores": 849000,
+      "share": 10.1,
+      "rating": 1.8
+    },
+    {
+      "programa": "Sesión de tarde 2: Mi mayor deseo",
+      "cadena": "La 1",
+      "espectadores": 847000,
+      "share": 10.4,
+      "rating": 1.8
+    },
+    {
+      "programa": "Finde imposible: Mision imposible.fallout",
+      "cadena": "La 1",
+      "espectadores": 807000,
+      "share": 8.3,
+      "rating": 1.7
+    },
+    {
+      "programa": "Cine de barrio presentación: Relaciones casi publicas",
+      "cadena": "La 1",
+      "espectadores": 806000,
+      "share": 9.7,
+      "rating": 1.7
+    }
+  ]
+}

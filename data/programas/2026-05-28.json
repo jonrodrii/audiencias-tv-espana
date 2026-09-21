@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-05-28",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1553000,
+      "share": 21.2,
+      "rating": 3.3
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1487000,
+      "share": 19.9,
+      "rating": 3.1
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1483000,
+      "share": 13.2,
+      "rating": 3.1
+    },
+    {
+      "programa": "La Revuelta: Belen Rueda",
+      "cadena": "La 1",
+      "espectadores": 1260000,
+      "share": 11.4,
+      "rating": 2.6
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1248000,
+      "share": 14.7,
+      "rating": 2.6
+    },
+    {
+      "programa": "Horizonte: Avance",
+      "cadena": "Cuatro",
+      "espectadores": 1100000,
+      "share": 9.9,
+      "rating": 2.3
+    },
+    {
+      "programa": "Supervivientes exprés",
+      "cadena": "Telecinco icono",
+      "espectadores": 1005000,
+      "share": 9.0,
+      "rating": 2.1
+    },
+    {
+      "programa": "Supervivientes",
+      "cadena": "Telecinco icono",
+      "espectadores": 979000,
+      "share": 17.0,
+      "rating": 2.1
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 958000,
+      "share": 11.9,
+      "rating": 2.0
+    },
+    {
+      "programa": "Horizonte",
+      "cadena": "Cuatro",
+      "espectadores": 948000,
+      "share": 12.8,
+      "rating": 2.0
+    }
+  ]
+}

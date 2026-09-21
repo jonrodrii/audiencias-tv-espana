@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-03-16",
+  "programas": [
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 2025000,
+      "share": 15.9,
+      "rating": 4.3
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1839000,
+      "share": 18.1,
+      "rating": 3.9
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1660000,
+      "share": 22.2,
+      "rating": 3.5
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1453000,
+      "share": 13.8,
+      "rating": 3.1
+    },
+    {
+      "programa": "La Revuelta: Luis Zahera-m-clan",
+      "cadena": "La 1",
+      "espectadores": 1424000,
+      "share": 11.4,
+      "rating": 3.0
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1224000,
+      "share": 14.6,
+      "rating": 2.6
+    },
+    {
+      "programa": "First dates: Cine",
+      "cadena": "Telecinco icono",
+      "espectadores": 1117000,
+      "share": 8.7,
+      "rating": 2.3
+    },
+    {
+      "programa": "Malas lenguas",
+      "cadena": "La 1",
+      "espectadores": 1016000,
+      "share": 11.7,
+      "rating": 2.1
+    },
+    {
+      "programa": "¡Allá tú!",
+      "cadena": "Telecinco icono",
+      "espectadores": 1003000,
+      "share": 10.0,
+      "rating": 2.1
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 957000,
+      "share": 11.6,
+      "rating": 2.0
+    }
+  ]
+}

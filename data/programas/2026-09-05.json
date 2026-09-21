@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-05",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1279000,
+      "share": 19.7,
+      "rating": 2.7
+    },
+    {
+      "programa": "La vuelta: Jaen-Sierra de la Pandera",
+      "cadena": "La 1",
+      "espectadores": 1154000,
+      "share": 13.2,
+      "rating": 2.4
+    },
+    {
+      "programa": "La vuelta: Programa: Jaen-Sierra de la Pandera",
+      "cadena": "La 1",
+      "espectadores": 1153000,
+      "share": 13.2,
+      "rating": 2.4
+    },
+    {
+      "programa": "Multicine: Sin una palabra",
+      "cadena": "Antena 3",
+      "espectadores": 1111000,
+      "share": 13.6,
+      "rating": 2.3
+    },
+    {
+      "programa": "Cine 5 estrellas: Odio el verano",
+      "cadena": "Telecinco icono",
+      "espectadores": 757000,
+      "share": 9.8,
+      "rating": 1.6
+    },
+    {
+      "programa": "Home cinema: Reacción en cadena",
+      "cadena": "Cuatro",
+      "espectadores": 728000,
+      "share": 8.4,
+      "rating": 1.5
+    },
+    {
+      "programa": "Una fiesta de muerte: Asesinato en canfranc",
+      "cadena": "Antena 3",
+      "espectadores": 662000,
+      "share": 8.5,
+      "rating": 1.4
+    },
+    {
+      "programa": "La amiga estupenda: El nuevo apellido",
+      "cadena": "La 1",
+      "espectadores": 653000,
+      "share": 11.7,
+      "rating": 1.4
+    },
+    {
+      "programa": "Fiesta",
+      "cadena": "Telecinco icono",
+      "espectadores": 631000,
+      "share": 8.2,
+      "rating": 1.3
+    },
+    {
+      "programa": "La amiga estupenda: La promesa",
+      "cadena": "La 1",
+      "espectadores": 611000,
+      "share": 8.2,
+      "rating": 1.3
+    }
+  ]
+}

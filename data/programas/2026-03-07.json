@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-03-07",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1320000,
+      "share": 18.3,
+      "rating": 2.8
+    },
+    {
+      "programa": "Atrapa un millón",
+      "cadena": "Antena 3",
+      "espectadores": 1105000,
+      "share": 10.8,
+      "rating": 2.3
+    },
+    {
+      "programa": "Sesión de tarde: Una cuestion de genero",
+      "cadena": "La 1",
+      "espectadores": 1052000,
+      "share": 11.8,
+      "rating": 2.2
+    },
+    {
+      "programa": "Multicine: El cuco",
+      "cadena": "Antena 3",
+      "espectadores": 1013000,
+      "share": 11.7,
+      "rating": 2.1
+    },
+    {
+      "programa": "8m mujeres que inspiran: Soy nevenka",
+      "cadena": "La 1",
+      "espectadores": 975000,
+      "share": 9.5,
+      "rating": 2.1
+    },
+    {
+      "programa": "Informe semanal",
+      "cadena": "La 1",
+      "espectadores": 974000,
+      "share": 9.1,
+      "rating": 2.0
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 861000,
+      "share": 9.7,
+      "rating": 1.8
+    },
+    {
+      "programa": "¡Allá tú!",
+      "cadena": "Telecinco icono",
+      "espectadores": 826000,
+      "share": 9.2,
+      "rating": 1.7
+    },
+    {
+      "programa": "Multicine 2: La cara de la muerte",
+      "cadena": "Antena 3",
+      "espectadores": 793000,
+      "share": 9.1,
+      "rating": 1.7
+    },
+    {
+      "programa": "El Blockbuster: El reino del planeta de los simios",
+      "cadena": "Cuatro",
+      "espectadores": 789000,
+      "share": 8.5,
+      "rating": 1.7
+    }
+  ]
+}

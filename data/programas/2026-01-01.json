@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-01-01",
+  "programas": [
+    {
+      "programa": "Concierto de año nuevo",
+      "cadena": "La 1",
+      "espectadores": 1933000,
+      "share": 31.9,
+      "rating": 4.1
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1401000,
+      "share": 19.1,
+      "rating": 3.0
+    },
+    {
+      "programa": "Viaje al centro de la tele",
+      "cadena": "La 1",
+      "espectadores": 1386000,
+      "share": 11.8,
+      "rating": 2.9
+    },
+    {
+      "programa": "Sesion de navidad: Encanto",
+      "cadena": "La 1",
+      "espectadores": 1307000,
+      "share": 14.8,
+      "rating": 2.8
+    },
+    {
+      "programa": "Multicine: The upside",
+      "cadena": "Antena 3",
+      "espectadores": 1219000,
+      "share": 13.6,
+      "rating": 2.6
+    },
+    {
+      "programa": "Increible 2025",
+      "cadena": "La 1",
+      "espectadores": 1219000,
+      "share": 16.7,
+      "rating": 2.6
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1124000,
+      "share": 9.8,
+      "rating": 2.4
+    },
+    {
+      "programa": "Multicine 2: Ghost ( mas alla del amor )",
+      "cadena": "Antena 3",
+      "espectadores": 1117000,
+      "share": 11.0,
+      "rating": 2.4
+    },
+    {
+      "programa": "Sesion de navidad 3: Grease",
+      "cadena": "La 1",
+      "espectadores": 1091000,
+      "share": 10.5,
+      "rating": 2.3
+    },
+    {
+      "programa": "Sesion de navidad 2: El principe y yo",
+      "cadena": "La 1",
+      "espectadores": 1090000,
+      "share": 11.6,
+      "rating": 2.3
+    }
+  ]
+}

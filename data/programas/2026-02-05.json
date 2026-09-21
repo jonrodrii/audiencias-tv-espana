@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-02-05",
+  "programas": [
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 3696000,
+      "share": 36.8,
+      "rating": 7.8
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 3239000,
+      "share": 23.5,
+      "rating": 6.8
+    },
+    {
+      "programa": "Pasapalabra.rosa y manu: Un duelo de records",
+      "cadena": "Antena 3",
+      "espectadores": 2672000,
+      "share": 23.6,
+      "rating": 5.6
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1692000,
+      "share": 20.2,
+      "rating": 3.6
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1549000,
+      "share": 15.8,
+      "rating": 3.3
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1531000,
+      "share": 13.1,
+      "rating": 3.2
+    },
+    {
+      "programa": "La Revuelta: Isabel Coixet",
+      "cadena": "La 1",
+      "espectadores": 1506000,
+      "share": 11.0,
+      "rating": 3.2
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 1324000,
+      "share": 14.5,
+      "rating": 2.8
+    },
+    {
+      "programa": "Malas lenguas",
+      "cadena": "La 1",
+      "espectadores": 1272000,
+      "share": 12.8,
+      "rating": 2.7
+    },
+    {
+      "programa": "La Promesa",
+      "cadena": "La 1",
+      "espectadores": 1207000,
+      "share": 13.5,
+      "rating": 2.5
+    }
+  ]
+}

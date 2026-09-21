@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-01-07",
+  "programas": [
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 2107000,
+      "share": 18.8,
+      "rating": 4.5
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1899000,
+      "share": 14.8,
+      "rating": 4.0
+    },
+    {
+      "programa": "La Revuelta: Pelayo Gayol-cristina Lora",
+      "cadena": "La 1",
+      "espectadores": 1637000,
+      "share": 12.6,
+      "rating": 3.5
+    },
+    {
+      "programa": "La isla de las tentaciones: Express",
+      "cadena": "Telecinco icono",
+      "espectadores": 1544000,
+      "share": 12.0,
+      "rating": 3.3
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1489000,
+      "share": 13.1,
+      "rating": 3.2
+    },
+    {
+      "programa": "La isla de las tentaciones",
+      "cadena": "Telecinco icono",
+      "espectadores": 1485000,
+      "share": 20.1,
+      "rating": 3.2
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1458000,
+      "share": 19.7,
+      "rating": 3.1
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1237000,
+      "share": 13.4,
+      "rating": 2.6
+    },
+    {
+      "programa": "Malas lenguas",
+      "cadena": "La 1",
+      "espectadores": 1134000,
+      "share": 11.4,
+      "rating": 2.4
+    },
+    {
+      "programa": "Nos vamos de madre: Estambul",
+      "cadena": "Antena 3",
+      "espectadores": 1091000,
+      "share": 12.6,
+      "rating": 2.3
+    }
+  ]
+}

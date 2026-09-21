@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-06-15",
+  "programas": [
+    {
+      "programa": "Futbol: Copa mundial: España-cabo verde: Previa",
+      "cadena": "La 1",
+      "espectadores": 7322000,
+      "share": 60.4,
+      "rating": 15.4
+    },
+    {
+      "programa": "Fifa world cup 2026",
+      "cadena": "La 1",
+      "espectadores": 6858000,
+      "share": 57.9,
+      "rating": 14.4
+    },
+    {
+      "programa": "Camino a ny",
+      "cadena": "La 1",
+      "espectadores": 2612000,
+      "share": 25.6,
+      "rating": 5.5
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1659000,
+      "share": 16.3,
+      "rating": 3.5
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1637000,
+      "share": 13.6,
+      "rating": 3.4
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1450000,
+      "share": 19.5,
+      "rating": 3.0
+    },
+    {
+      "programa": "La Revuelta: Carlos Torres",
+      "cadena": "La 1",
+      "espectadores": 1257000,
+      "share": 10.4,
+      "rating": 2.6
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1207000,
+      "share": 13.3,
+      "rating": 2.5
+    },
+    {
+      "programa": "Teledeporte: Directo al mundial",
+      "cadena": "La 1",
+      "espectadores": 1197000,
+      "share": 12.6,
+      "rating": 2.5
+    },
+    {
+      "programa": "Horizonte",
+      "cadena": "Cuatro",
+      "espectadores": 1153000,
+      "share": 9.6,
+      "rating": 2.4
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-01-24",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1491000,
+      "share": 19.6,
+      "rating": 3.1
+    },
+    {
+      "programa": "Atrapa un millón",
+      "cadena": "Antena 3",
+      "espectadores": 1239000,
+      "share": 11.7,
+      "rating": 2.6
+    },
+    {
+      "programa": "Sesión de tarde: Tres mujeres y un plan",
+      "cadena": "La 1",
+      "espectadores": 1136000,
+      "share": 11.9,
+      "rating": 2.4
+    },
+    {
+      "programa": "Multicine: Una invitada peligrosa",
+      "cadena": "Antena 3",
+      "espectadores": 1119000,
+      "share": 11.8,
+      "rating": 2.4
+    },
+    {
+      "programa": "Informe semanal",
+      "cadena": "La 1",
+      "espectadores": 1104000,
+      "share": 9.7,
+      "rating": 2.3
+    },
+    {
+      "programa": "Sesión de tarde 2: Cuando te encuentre",
+      "cadena": "La 1",
+      "espectadores": 948000,
+      "share": 10.3,
+      "rating": 2.0
+    },
+    {
+      "programa": "Cine de barrio: Ha llegado un angel",
+      "cadena": "La 1",
+      "espectadores": 948000,
+      "share": 9.6,
+      "rating": 2.0
+    },
+    {
+      "programa": "Cine de barrio presentación: Ha llegado un angel",
+      "cadena": "La 1",
+      "espectadores": 920000,
+      "share": 9.3,
+      "rating": 1.9
+    },
+    {
+      "programa": "Plan de c1ne: La casa de la esperanza",
+      "cadena": "La 1",
+      "espectadores": 911000,
+      "share": 8.6,
+      "rating": 1.9
+    },
+    {
+      "programa": "Multicine 2: Traicionada por la mentira",
+      "cadena": "Antena 3",
+      "espectadores": 901000,
+      "share": 9.8,
+      "rating": 1.9
+    }
+  ]
+}

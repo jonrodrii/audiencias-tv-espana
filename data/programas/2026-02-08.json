@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-02-08",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1419000,
+      "share": 18.5,
+      "rating": 3.0
+    },
+    {
+      "programa": "Sesión de tarde: El viaje mas largo",
+      "cadena": "La 1",
+      "espectadores": 1271000,
+      "share": 12.7,
+      "rating": 2.7
+    },
+    {
+      "programa": "Multicine: Mami nunca te haria daño",
+      "cadena": "Antena 3",
+      "espectadores": 1230000,
+      "share": 12.3,
+      "rating": 2.6
+    },
+    {
+      "programa": "Aquí la tierra",
+      "cadena": "La 1",
+      "espectadores": 1208000,
+      "share": 10.3,
+      "rating": 2.5
+    },
+    {
+      "programa": "Sesión de tarde 2: Mucho mas que amigos",
+      "cadena": "La 1",
+      "espectadores": 1187000,
+      "share": 11.8,
+      "rating": 2.5
+    },
+    {
+      "programa": "8f aragon decide",
+      "cadena": "La 1",
+      "espectadores": 1034000,
+      "share": 9.1,
+      "rating": 2.2
+    },
+    {
+      "programa": "Especial noticias: Elecciones en aragon",
+      "cadena": "Antena 3",
+      "espectadores": 1032000,
+      "share": 9.3,
+      "rating": 2.2
+    },
+    {
+      "programa": "8f aragon decide: Resultados",
+      "cadena": "La 1",
+      "espectadores": 1004000,
+      "share": 7.7,
+      "rating": 2.1
+    },
+    {
+      "programa": "Multicine 2: Paso decisivo ( 2015 )",
+      "cadena": "Antena 3",
+      "espectadores": 995000,
+      "share": 10.0,
+      "rating": 2.1
+    },
+    {
+      "programa": "Una nueva vida",
+      "cadena": "Antena 3",
+      "espectadores": 968000,
+      "share": 10.4,
+      "rating": 2.0
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-02-01",
+  "programas": [
+    {
+      "programa": "Lo de Évole",
+      "cadena": "laSexta",
+      "espectadores": 1455000,
+      "share": 10.8,
+      "rating": 3.1
+    },
+    {
+      "programa": "Lo de Évole",
+      "cadena": "laSexta",
+      "espectadores": 1388000,
+      "share": 12.6,
+      "rating": 2.9
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1357000,
+      "share": 11.6,
+      "rating": 2.9
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1290000,
+      "share": 16.0,
+      "rating": 2.7
+    },
+    {
+      "programa": "Película de la semana: Juego de ladrones.el atraco perfecto",
+      "cadena": "La 1",
+      "espectadores": 1287000,
+      "share": 11.8,
+      "rating": 2.7
+    },
+    {
+      "programa": "Multicine: Una nueva oportunidad ( 2024 )",
+      "cadena": "Antena 3",
+      "espectadores": 1203000,
+      "share": 11.8,
+      "rating": 2.5
+    },
+    {
+      "programa": "Sesión de tarde: Morning glory(2010)",
+      "cadena": "La 1",
+      "espectadores": 1020000,
+      "share": 9.9,
+      "rating": 2.1
+    },
+    {
+      "programa": "Sesión de tarde 2: El hombre perfecto",
+      "cadena": "La 1",
+      "espectadores": 959000,
+      "share": 9.6,
+      "rating": 2.0
+    },
+    {
+      "programa": "Home cinema: Way down",
+      "cadena": "Cuatro",
+      "espectadores": 939000,
+      "share": 9.1,
+      "rating": 2.0
+    },
+    {
+      "programa": "Fiesta",
+      "cadena": "Telecinco icono",
+      "espectadores": 910000,
+      "share": 8.8,
+      "rating": 1.9
+    }
+  ]
+}

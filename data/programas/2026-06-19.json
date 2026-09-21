@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-06-19",
+  "programas": [
+    {
+      "programa": "Futbol: Copa mundial: Estados unidos-australia: Previa",
+      "cadena": "La 1",
+      "espectadores": 1939000,
+      "share": 20.9,
+      "rating": 4.1
+    },
+    {
+      "programa": "Fifa world cup 2026",
+      "cadena": "La 1",
+      "espectadores": 1782000,
+      "share": 19.7,
+      "rating": 3.7
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1597000,
+      "share": 21.9,
+      "rating": 3.4
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1476000,
+      "share": 20.5,
+      "rating": 3.1
+    },
+    {
+      "programa": "Tu cara me suena",
+      "cadena": "Antena 3",
+      "espectadores": 1304000,
+      "share": 19.5,
+      "rating": 2.7
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1231000,
+      "share": 13.8,
+      "rating": 2.6
+    },
+    {
+      "programa": "Tu cara me suena: Calentando motores",
+      "cadena": "Antena 3",
+      "espectadores": 1187000,
+      "share": 12.2,
+      "rating": 2.5
+    },
+    {
+      "programa": "Teledeporte: Directo al mundial",
+      "cadena": "La 1",
+      "espectadores": 1125000,
+      "share": 12.2,
+      "rating": 2.4
+    },
+    {
+      "programa": "Directo al grano",
+      "cadena": "La 1",
+      "espectadores": 914000,
+      "share": 10.6,
+      "rating": 1.9
+    },
+    {
+      "programa": "La Promesa",
+      "cadena": "La 1",
+      "espectadores": 910000,
+      "share": 12.9,
+      "rating": 1.9
+    }
+  ]
+}

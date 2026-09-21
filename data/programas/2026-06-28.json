@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-06-28",
+  "programas": [
+    {
+      "programa": "Futbol: Copa mundial: Sudafrica-Canada: 1: 16",
+      "cadena": "La 1",
+      "espectadores": 2612000,
+      "share": 24.9,
+      "rating": 5.5
+    },
+    {
+      "programa": "Fifa world cup 2026",
+      "cadena": "La 1",
+      "espectadores": 2403000,
+      "share": 23.6,
+      "rating": 5.1
+    },
+    {
+      "programa": "Teledeporte: Directo al mundial",
+      "cadena": "La 1",
+      "espectadores": 1187000,
+      "share": 13.1,
+      "rating": 2.5
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1173000,
+      "share": 16.2,
+      "rating": 2.5
+    },
+    {
+      "programa": "Película de la semana: Cowboys & aliens",
+      "cadena": "La 1",
+      "espectadores": 1093000,
+      "share": 14.8,
+      "rating": 2.3
+    },
+    {
+      "programa": "Futbol: Copa mundial: Colombia-Portugal: Previa",
+      "cadena": "La 1",
+      "espectadores": 945000,
+      "share": 39.9,
+      "rating": 2.0
+    },
+    {
+      "programa": "Sesión de tarde: Coco chanel",
+      "cadena": "La 1",
+      "espectadores": 911000,
+      "share": 10.5,
+      "rating": 1.9
+    },
+    {
+      "programa": "Multicine: La desaparicion de raven",
+      "cadena": "Antena 3",
+      "espectadores": 899000,
+      "share": 10.1,
+      "rating": 1.9
+    },
+    {
+      "programa": "Home cinema: Sahara",
+      "cadena": "Cuatro",
+      "espectadores": 822000,
+      "share": 9.3,
+      "rating": 1.7
+    },
+    {
+      "programa": "Cine 5 estrellas: Los descendientes ( 2010 )",
+      "cadena": "Telecinco icono",
+      "espectadores": 777000,
+      "share": 8.1,
+      "rating": 1.6
+    }
+  ]
+}

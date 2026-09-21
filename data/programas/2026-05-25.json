@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-05-25",
+  "programas": [
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1639000,
+      "share": 13.3,
+      "rating": 3.4
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1586000,
+      "share": 21.1,
+      "rating": 3.3
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1475000,
+      "share": 18.1,
+      "rating": 3.1
+    },
+    {
+      "programa": "La Revuelta: Ana,macarena,laura & Victoria",
+      "cadena": "La 1",
+      "espectadores": 1337000,
+      "share": 10.9,
+      "rating": 2.8
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1272000,
+      "share": 14.3,
+      "rating": 2.7
+    },
+    {
+      "programa": "Horizonte: Avance",
+      "cadena": "Cuatro",
+      "espectadores": 1258000,
+      "share": 10.4,
+      "rating": 2.6
+    },
+    {
+      "programa": "First dates: Folklore",
+      "cadena": "Telecinco icono",
+      "espectadores": 1116000,
+      "share": 9.1,
+      "rating": 2.3
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 975000,
+      "share": 11.7,
+      "rating": 2.1
+    },
+    {
+      "programa": "La isla de las tentaciones",
+      "cadena": "Telecinco icono",
+      "espectadores": 973000,
+      "share": 14.5,
+      "rating": 2.0
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 968000,
+      "share": 11.6,
+      "rating": 2.0
+    }
+  ]
+}

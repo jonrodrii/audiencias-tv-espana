@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-03-27",
+  "programas": [
+    {
+      "programa": "Futbol: Amistoso: España-serbia",
+      "cadena": "La 1",
+      "espectadores": 2759000,
+      "share": 25.0,
+      "rating": 5.8
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1723000,
+      "share": 19.9,
+      "rating": 3.6
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1448000,
+      "share": 21.2,
+      "rating": 3.0
+    },
+    {
+      "programa": "El Desafío",
+      "cadena": "Antena 3",
+      "espectadores": 1244000,
+      "share": 15.4,
+      "rating": 2.6
+    },
+    {
+      "programa": "Previo futbol: Amistoso: España-serbia",
+      "cadena": "La 1",
+      "espectadores": 1180000,
+      "share": 12.6,
+      "rating": 2.5
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1141000,
+      "share": 13.6,
+      "rating": 2.4
+    },
+    {
+      "programa": "Aventura jones: Indiana jones y la última cruzada",
+      "cadena": "La 1",
+      "espectadores": 1090000,
+      "share": 13.1,
+      "rating": 2.3
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1020000,
+      "share": 12.1,
+      "rating": 2.1
+    },
+    {
+      "programa": "El Desafío",
+      "cadena": "Antena 3",
+      "espectadores": 1014000,
+      "share": 8.9,
+      "rating": 2.1
+    },
+    {
+      "programa": "¡Allá tú!",
+      "cadena": "Telecinco icono",
+      "espectadores": 878000,
+      "share": 10.3,
+      "rating": 1.8
+    }
+  ]
+}

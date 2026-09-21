@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-06-27",
+  "programas": [
+    {
+      "programa": "Futbol: Copa mundial: Uruguay-España: Previa",
+      "cadena": "La 1",
+      "espectadores": 3707000,
+      "share": 69.9,
+      "rating": 7.8
+    },
+    {
+      "programa": "Fifa world cup 2026",
+      "cadena": "La 1",
+      "espectadores": 3674000,
+      "share": 70.0,
+      "rating": 7.7
+    },
+    {
+      "programa": "Teledeporte: Directo al mundial",
+      "cadena": "La 1",
+      "espectadores": 1408000,
+      "share": 16.1,
+      "rating": 3.0
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1290000,
+      "share": 19.2,
+      "rating": 2.7
+    },
+    {
+      "programa": "Camino a ny",
+      "cadena": "La 1",
+      "espectadores": 1231000,
+      "share": 61.1,
+      "rating": 2.6
+    },
+    {
+      "programa": "Sesión de tarde: Una vida por delante(2005)",
+      "cadena": "La 1",
+      "espectadores": 1186000,
+      "share": 14.3,
+      "rating": 2.5
+    },
+    {
+      "programa": "Futbol: Copa mundial: Colombia-Portugal: Previa",
+      "cadena": "La 1",
+      "espectadores": 1123000,
+      "share": 31.3,
+      "rating": 2.4
+    },
+    {
+      "programa": "Multicine: Muerte en el altar",
+      "cadena": "Antena 3",
+      "espectadores": 982000,
+      "share": 11.9,
+      "rating": 2.1
+    },
+    {
+      "programa": "La voz kids: Asaltos",
+      "cadena": "Antena 3",
+      "espectadores": 828000,
+      "share": 11.8,
+      "rating": 1.7
+    },
+    {
+      "programa": "Sesión de tarde 2: Un verano en italia",
+      "cadena": "La 1",
+      "espectadores": 778000,
+      "share": 10.7,
+      "rating": 1.6
+    }
+  ]
+}

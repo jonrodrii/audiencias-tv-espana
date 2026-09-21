@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-05-31",
+  "programas": [
+    {
+      "programa": "Multicine: Una vida secreta",
+      "cadena": "Antena 3",
+      "espectadores": 1196000,
+      "share": 13.6,
+      "rating": 2.5
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1039000,
+      "share": 14.9,
+      "rating": 2.2
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1018000,
+      "share": 11.1,
+      "rating": 2.1
+    },
+    {
+      "programa": "Supervivientes: Conexión Honduras",
+      "cadena": "Telecinco icono",
+      "espectadores": 979000,
+      "share": 13.1,
+      "rating": 2.1
+    },
+    {
+      "programa": "Película de la semana: El especialista ( 2023 )",
+      "cadena": "La 1",
+      "espectadores": 976000,
+      "share": 9.6,
+      "rating": 2.1
+    },
+    {
+      "programa": "Sesión de tarde: El marido de mi hermana",
+      "cadena": "La 1",
+      "espectadores": 957000,
+      "share": 10.8,
+      "rating": 2.0
+    },
+    {
+      "programa": "Sesión de tarde 2: Novio de alquiler",
+      "cadena": "La 1",
+      "espectadores": 856000,
+      "share": 10.2,
+      "rating": 1.8
+    },
+    {
+      "programa": "Multicine 2: Deseo ardiente",
+      "cadena": "Antena 3",
+      "espectadores": 805000,
+      "share": 9.6,
+      "rating": 1.7
+    },
+    {
+      "programa": "Una nueva vida",
+      "cadena": "Antena 3",
+      "espectadores": 795000,
+      "share": 9.5,
+      "rating": 1.7
+    },
+    {
+      "programa": "Anatomía de...: La Peseta De Lola",
+      "cadena": "laSexta",
+      "espectadores": 768000,
+      "share": 6.9,
+      "rating": 1.6
+    }
+  ]
+}

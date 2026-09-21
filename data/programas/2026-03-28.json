@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-03-28",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1338000,
+      "share": 20.4,
+      "rating": 2.8
+    },
+    {
+      "programa": "Sesión de tarde: Ocean's 8",
+      "cadena": "La 1",
+      "espectadores": 1089000,
+      "share": 13.0,
+      "rating": 2.3
+    },
+    {
+      "programa": "Atrapa un millón",
+      "cadena": "Antena 3",
+      "espectadores": 1077000,
+      "share": 11.2,
+      "rating": 2.3
+    },
+    {
+      "programa": "Cine de barrio: Abuelo made in spain",
+      "cadena": "La 1",
+      "espectadores": 1047000,
+      "share": 12.7,
+      "rating": 2.2
+    },
+    {
+      "programa": "Informe semanal",
+      "cadena": "La 1",
+      "espectadores": 1029000,
+      "share": 10.0,
+      "rating": 2.2
+    },
+    {
+      "programa": "Multicine: Secretos en la mansion",
+      "cadena": "Antena 3",
+      "espectadores": 995000,
+      "share": 11.9,
+      "rating": 2.1
+    },
+    {
+      "programa": "Cine de barrio presentación: Abuelo made in spain",
+      "cadena": "La 1",
+      "espectadores": 986000,
+      "share": 12.1,
+      "rating": 2.1
+    },
+    {
+      "programa": "Plan de c1ne: Romper el circulo",
+      "cadena": "La 1",
+      "espectadores": 936000,
+      "share": 9.9,
+      "rating": 2.0
+    },
+    {
+      "programa": "Got Talent España",
+      "cadena": "Telecinco icono",
+      "espectadores": 857000,
+      "share": 9.8,
+      "rating": 1.8
+    },
+    {
+      "programa": "Sesión de tarde 2: Plan de vuelo:desaparecida",
+      "cadena": "La 1",
+      "espectadores": 803000,
+      "share": 10.4,
+      "rating": 1.7
+    }
+  ]
+}

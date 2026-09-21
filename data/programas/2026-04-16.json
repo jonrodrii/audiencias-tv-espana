@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-04-16",
+  "programas": [
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1598000,
+      "share": 13.6,
+      "rating": 3.4
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1565000,
+      "share": 19.0,
+      "rating": 3.3
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1475000,
+      "share": 21.4,
+      "rating": 3.1
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1296000,
+      "share": 15.5,
+      "rating": 2.7
+    },
+    {
+      "programa": "La Revuelta: Ca7riel Y Paco Amoroso",
+      "cadena": "La 1",
+      "espectadores": 1190000,
+      "share": 10.2,
+      "rating": 2.5
+    },
+    {
+      "programa": "20 años",
+      "cadena": "laSexta",
+      "espectadores": 1128000,
+      "share": 10.2,
+      "rating": 2.4
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1105000,
+      "share": 12.9,
+      "rating": 2.3
+    },
+    {
+      "programa": "Supervivientes exprés",
+      "cadena": "Telecinco icono",
+      "espectadores": 1013000,
+      "share": 8.6,
+      "rating": 2.1
+    },
+    {
+      "programa": "Supervivientes",
+      "cadena": "Telecinco icono",
+      "espectadores": 970000,
+      "share": 16.6,
+      "rating": 2.0
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 932000,
+      "share": 12.2,
+      "rating": 2.0
+    }
+  ]
+}

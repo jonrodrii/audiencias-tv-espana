@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-01-06",
+  "programas": [
+    {
+      "programa": "Sorteo extraordinario de el niño 2026",
+      "cadena": "La 1",
+      "espectadores": 1833000,
+      "share": 36.3,
+      "rating": 3.9
+    },
+    {
+      "programa": "Diario 24 horas",
+      "cadena": "La 1",
+      "espectadores": 1336000,
+      "share": 26.3,
+      "rating": 2.8
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1278000,
+      "share": 18.4,
+      "rating": 2.7
+    },
+    {
+      "programa": "La isla de las tentaciones: Express",
+      "cadena": "Telecinco icono",
+      "espectadores": 1262000,
+      "share": 10.1,
+      "rating": 2.7
+    },
+    {
+      "programa": "Cine: Last holiday, las últimas vacaciones",
+      "cadena": "La 1",
+      "espectadores": 1184000,
+      "share": 11.3,
+      "rating": 2.5
+    },
+    {
+      "programa": "La isla de las tentaciones",
+      "cadena": "Telecinco icono",
+      "espectadores": 1183000,
+      "share": 12.5,
+      "rating": 2.5
+    },
+    {
+      "programa": "Multicine: Diario de una niñera",
+      "cadena": "Antena 3",
+      "espectadores": 1177000,
+      "share": 13.6,
+      "rating": 2.5
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1155000,
+      "share": 9.3,
+      "rating": 2.5
+    },
+    {
+      "programa": "Viaje al centro de la tele",
+      "cadena": "La 1",
+      "espectadores": 1149000,
+      "share": 9.1,
+      "rating": 2.4
+    },
+    {
+      "programa": "Superestrellas: Jennifer lopez: El plan b",
+      "cadena": "La 1",
+      "espectadores": 1070000,
+      "share": 12.4,
+      "rating": 2.3
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-06-06",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1174000,
+      "share": 16.9,
+      "rating": 2.5
+    },
+    {
+      "programa": "Multicine: El peor error de mi marido",
+      "cadena": "Antena 3",
+      "espectadores": 1075000,
+      "share": 13.0,
+      "rating": 2.3
+    },
+    {
+      "programa": "La voz kids: Audiciones",
+      "cadena": "Antena 3",
+      "espectadores": 1023000,
+      "share": 13.1,
+      "rating": 2.2
+    },
+    {
+      "programa": "El papa leon xiv, en españa: Vigilia con los jovenes",
+      "cadena": "La 1",
+      "espectadores": 997000,
+      "share": 12.1,
+      "rating": 2.1
+    },
+    {
+      "programa": "D Corazón",
+      "cadena": "La 1",
+      "espectadores": 843000,
+      "share": 11.7,
+      "rating": 1.8
+    },
+    {
+      "programa": "Multicine 2: Secretos en la nieve",
+      "cadena": "Antena 3",
+      "espectadores": 825000,
+      "share": 11.1,
+      "rating": 1.7
+    },
+    {
+      "programa": "El papa leon xiv, en españa: Llegada a madrid y visita al palacio real",
+      "cadena": "La 1",
+      "espectadores": 804000,
+      "share": 22.6,
+      "rating": 1.7
+    },
+    {
+      "programa": "Sesión de tarde: Siempre a mi lado",
+      "cadena": "La 1",
+      "espectadores": 795000,
+      "share": 9.5,
+      "rating": 1.7
+    },
+    {
+      "programa": "Home cinema: Tomb raider",
+      "cadena": "Cuatro",
+      "espectadores": 761000,
+      "share": 9.1,
+      "rating": 1.6
+    },
+    {
+      "programa": "La voz kids: A punto de empezar",
+      "cadena": "Antena 3",
+      "espectadores": 733000,
+      "share": 8.1,
+      "rating": 1.5
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-06-20",
+  "programas": [
+    {
+      "programa": "Futbol: Copa mundial: Paises bajos-suecia: Previa",
+      "cadena": "La 1",
+      "espectadores": 1466000,
+      "share": 19.4,
+      "rating": 3.1
+    },
+    {
+      "programa": "Fifa world cup 2026",
+      "cadena": "La 1",
+      "espectadores": 1401000,
+      "share": 18.6,
+      "rating": 2.9
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1347000,
+      "share": 19.6,
+      "rating": 2.8
+    },
+    {
+      "programa": "Multicine: Una herencia para matar",
+      "cadena": "Antena 3",
+      "espectadores": 1232000,
+      "share": 14.8,
+      "rating": 2.6
+    },
+    {
+      "programa": "Teledeporte: Directo al mundial",
+      "cadena": "La 1",
+      "espectadores": 984000,
+      "share": 11.4,
+      "rating": 2.1
+    },
+    {
+      "programa": "Multicine 2: Viviendo con un desconocido",
+      "cadena": "Antena 3",
+      "espectadores": 943000,
+      "share": 12.3,
+      "rating": 2.0
+    },
+    {
+      "programa": "Informe semanal",
+      "cadena": "La 1",
+      "espectadores": 911000,
+      "share": 10.6,
+      "rating": 1.9
+    },
+    {
+      "programa": "La voz kids: Batallas",
+      "cadena": "Antena 3",
+      "espectadores": 902000,
+      "share": 12.9,
+      "rating": 1.9
+    },
+    {
+      "programa": "Sesión de tarde: El informe pelicano",
+      "cadena": "La 1",
+      "espectadores": 842000,
+      "share": 10.2,
+      "rating": 1.8
+    },
+    {
+      "programa": "La voz kids: A punto de empezar",
+      "cadena": "Antena 3",
+      "espectadores": 817000,
+      "share": 8.9,
+      "rating": 1.7
+    }
+  ]
+}

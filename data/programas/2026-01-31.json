@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-01-31",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1422000,
+      "share": 19.8,
+      "rating": 3.0
+    },
+    {
+      "programa": "Multicine: Falso diagnostico",
+      "cadena": "Antena 3",
+      "espectadores": 1216000,
+      "share": 13.9,
+      "rating": 2.6
+    },
+    {
+      "programa": "Atrapa un millón",
+      "cadena": "Antena 3",
+      "espectadores": 1154000,
+      "share": 11.1,
+      "rating": 2.4
+    },
+    {
+      "programa": "Sesión de tarde: Sigueme el rollo",
+      "cadena": "La 1",
+      "espectadores": 1112000,
+      "share": 12.7,
+      "rating": 2.3
+    },
+    {
+      "programa": "Plan de c1ne: Suite francesa",
+      "cadena": "La 1",
+      "espectadores": 1009000,
+      "share": 9.5,
+      "rating": 2.1
+    },
+    {
+      "programa": "Informe semanal",
+      "cadena": "La 1",
+      "espectadores": 996000,
+      "share": 9.0,
+      "rating": 2.1
+    },
+    {
+      "programa": "Sesión de tarde 2: La gran boda",
+      "cadena": "La 1",
+      "espectadores": 982000,
+      "share": 11.7,
+      "rating": 2.1
+    },
+    {
+      "programa": "Cine de barrio: El abuelo tiene un plan",
+      "cadena": "La 1",
+      "espectadores": 978000,
+      "share": 10.4,
+      "rating": 2.1
+    },
+    {
+      "programa": "Multicine 2: Intercambio mortal ( 2021 )",
+      "cadena": "Antena 3",
+      "espectadores": 943000,
+      "share": 11.2,
+      "rating": 2.0
+    },
+    {
+      "programa": "Cine de barrio presentación: El abuelo tiene un plan",
+      "cadena": "La 1",
+      "espectadores": 922000,
+      "share": 10.0,
+      "rating": 1.9
+    }
+  ]
+}

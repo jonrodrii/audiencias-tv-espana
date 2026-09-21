@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-05-06",
+  "programas": [
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1789000,
+      "share": 14.3,
+      "rating": 3.8
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1541000,
+      "share": 17.9,
+      "rating": 3.2
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1468000,
+      "share": 20.5,
+      "rating": 3.1
+    },
+    {
+      "programa": "La Revuelta: Sofia & Maribel",
+      "cadena": "La 1",
+      "espectadores": 1201000,
+      "share": 9.7,
+      "rating": 2.5
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1166000,
+      "share": 13.9,
+      "rating": 2.5
+    },
+    {
+      "programa": "La isla de las tentaciones",
+      "cadena": "Telecinco icono",
+      "espectadores": 1108000,
+      "share": 8.9,
+      "rating": 2.3
+    },
+    {
+      "programa": "Horizonte",
+      "cadena": "Cuatro",
+      "espectadores": 1010000,
+      "share": 8.1,
+      "rating": 2.1
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 999000,
+      "share": 11.2,
+      "rating": 2.1
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 926000,
+      "share": 11.6,
+      "rating": 1.9
+    },
+    {
+      "programa": "¡Allá tú!",
+      "cadena": "Telecinco icono",
+      "espectadores": 895000,
+      "share": 10.6,
+      "rating": 1.9
+    }
+  ]
+}

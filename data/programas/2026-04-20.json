@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-04-20",
+  "programas": [
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1734000,
+      "share": 19.2,
+      "rating": 3.6
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1712000,
+      "share": 13.8,
+      "rating": 3.6
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1579000,
+      "share": 21.5,
+      "rating": 3.3
+    },
+    {
+      "programa": "La Revuelta: Diego Armando Maradona Jr.-miguel Poveda",
+      "cadena": "La 1",
+      "espectadores": 1310000,
+      "share": 10.5,
+      "rating": 2.8
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1279000,
+      "share": 14.9,
+      "rating": 2.7
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1250000,
+      "share": 13.6,
+      "rating": 2.6
+    },
+    {
+      "programa": "La isla de las tentaciones: Express",
+      "cadena": "Telecinco icono",
+      "espectadores": 1249000,
+      "share": 10.1,
+      "rating": 2.6
+    },
+    {
+      "programa": "La isla de las tentaciones",
+      "cadena": "Telecinco icono",
+      "espectadores": 1063000,
+      "share": 14.0,
+      "rating": 2.2
+    },
+    {
+      "programa": "La Promesa",
+      "cadena": "La 1",
+      "espectadores": 977000,
+      "share": 13.7,
+      "rating": 2.1
+    },
+    {
+      "programa": "El Intermedio",
+      "cadena": "laSexta",
+      "espectadores": 910000,
+      "share": 7.3,
+      "rating": 1.9
+    }
+  ]
+}

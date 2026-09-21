@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-06-17",
+  "programas": [
+    {
+      "programa": "Futbol: Copa mundial: Inglaterra-croacia: Previa",
+      "cadena": "La 1",
+      "espectadores": 3151000,
+      "share": 27.2,
+      "rating": 6.6
+    },
+    {
+      "programa": "Fifa world cup 2026",
+      "cadena": "La 1",
+      "espectadores": 2956000,
+      "share": 25.8,
+      "rating": 6.2
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1630000,
+      "share": 13.1,
+      "rating": 3.4
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1550000,
+      "share": 20.2,
+      "rating": 3.3
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1453000,
+      "share": 18.0,
+      "rating": 3.1
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1230000,
+      "share": 14.0,
+      "rating": 2.6
+    },
+    {
+      "programa": "Teledeporte: Directo al mundial",
+      "cadena": "La 1",
+      "espectadores": 1183000,
+      "share": 12.7,
+      "rating": 2.5
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 959000,
+      "share": 11.7,
+      "rating": 2.0
+    },
+    {
+      "programa": "La Promesa",
+      "cadena": "La 1",
+      "espectadores": 912000,
+      "share": 12.7,
+      "rating": 1.9
+    },
+    {
+      "programa": "Directo al grano",
+      "cadena": "La 1",
+      "espectadores": 909000,
+      "share": 10.8,
+      "rating": 1.9
+    }
+  ]
+}

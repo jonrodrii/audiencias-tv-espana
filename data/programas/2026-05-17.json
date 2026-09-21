@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-05-17",
+  "programas": [
+    {
+      "programa": "A3 especial elecciones: Elecciones en andalucia",
+      "cadena": "Antena 3",
+      "espectadores": 1617000,
+      "share": 12.0,
+      "rating": 3.4
+    },
+    {
+      "programa": "E 17m: Andalucia decide: Resultados",
+      "cadena": "La 1",
+      "espectadores": 1395000,
+      "share": 10.6,
+      "rating": 2.9
+    },
+    {
+      "programa": "Arv: Especial elecciones: El año decisivo",
+      "cadena": "laSexta",
+      "espectadores": 1198000,
+      "share": 9.0,
+      "rating": 2.5
+    },
+    {
+      "programa": "Multicine: Ella no es tu hija",
+      "cadena": "Antena 3",
+      "espectadores": 1139000,
+      "share": 12.5,
+      "rating": 2.4
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1124000,
+      "share": 15.5,
+      "rating": 2.4
+    },
+    {
+      "programa": "E 17m: Andalucia decide: Analisis",
+      "cadena": "La 1",
+      "espectadores": 1091000,
+      "share": 10.2,
+      "rating": 2.3
+    },
+    {
+      "programa": "Motociclismo: Mundial: Motogp: G.p.catalunya",
+      "cadena": "Telecinco icono",
+      "espectadores": 963000,
+      "share": 11.8,
+      "rating": 2.0
+    },
+    {
+      "programa": "Home cinema: La busqueda: El diario secreto",
+      "cadena": "Cuatro",
+      "espectadores": 962000,
+      "share": 10.6,
+      "rating": 2.0
+    },
+    {
+      "programa": "Star wars que la 1 te acompañe: El retorno del jedi",
+      "cadena": "La 1",
+      "espectadores": 932000,
+      "share": 10.3,
+      "rating": 2.0
+    },
+    {
+      "programa": "Supervivientes: Conexión Honduras",
+      "cadena": "Telecinco icono",
+      "espectadores": 891000,
+      "share": 10.5,
+      "rating": 1.9
+    }
+  ]
+}

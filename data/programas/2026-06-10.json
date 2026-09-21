@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-06-10",
+  "programas": [
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1504000,
+      "share": 12.7,
+      "rating": 3.2
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1447000,
+      "share": 19.8,
+      "rating": 3.0
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1366000,
+      "share": 16.2,
+      "rating": 2.9
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1219000,
+      "share": 14.2,
+      "rating": 2.6
+    },
+    {
+      "programa": "La Revuelta: Ana Mena",
+      "cadena": "La 1",
+      "espectadores": 1179000,
+      "share": 10.3,
+      "rating": 2.5
+    },
+    {
+      "programa": "El papa leon xiv, en españa: Inauguracion y misa en la sagrada familia",
+      "cadena": "La 1",
+      "espectadores": 1044000,
+      "share": 12.1,
+      "rating": 2.2
+    },
+    {
+      "programa": "First dates",
+      "cadena": "Telecinco icono",
+      "espectadores": 1015000,
+      "share": 8.6,
+      "rating": 2.1
+    },
+    {
+      "programa": "Horizonte",
+      "cadena": "Cuatro",
+      "espectadores": 1010000,
+      "share": 8.5,
+      "rating": 2.1
+    },
+    {
+      "programa": "La isla de las tentaciones",
+      "cadena": "Telecinco icono",
+      "espectadores": 977000,
+      "share": 16.3,
+      "rating": 2.1
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 917000,
+      "share": 11.4,
+      "rating": 1.9
+    }
+  ]
+}

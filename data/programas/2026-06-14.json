@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-06-14",
+  "programas": [
+    {
+      "programa": "Futbol: Copa mundial: Alemania-curazao: Previa",
+      "cadena": "La 1",
+      "espectadores": 2307000,
+      "share": 25.5,
+      "rating": 4.9
+    },
+    {
+      "programa": "Fifa world cup 2026",
+      "cadena": "La 1",
+      "espectadores": 2143000,
+      "share": 23.9,
+      "rating": 4.5
+    },
+    {
+      "programa": "Teledeporte 1",
+      "cadena": "La 1",
+      "espectadores": 1275000,
+      "share": 13.6,
+      "rating": 2.7
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1148000,
+      "share": 15.9,
+      "rating": 2.4
+    },
+    {
+      "programa": "Sesión de tarde: Ana y el rey",
+      "cadena": "La 1",
+      "espectadores": 1073000,
+      "share": 12.0,
+      "rating": 2.3
+    },
+    {
+      "programa": "Multicine: Menos mal que nos tenemos",
+      "cadena": "Antena 3",
+      "espectadores": 1015000,
+      "share": 11.2,
+      "rating": 2.1
+    },
+    {
+      "programa": "Denominacion de origen: La forja de un sueño",
+      "cadena": "La 1",
+      "espectadores": 975000,
+      "share": 9.1,
+      "rating": 2.1
+    },
+    {
+      "programa": "Formula 1: G.p.españa",
+      "cadena": "Telecinco icono",
+      "espectadores": 946000,
+      "share": 10.1,
+      "rating": 2.0
+    },
+    {
+      "programa": "Camino a ny",
+      "cadena": "La 1",
+      "espectadores": 813000,
+      "share": 9.8,
+      "rating": 1.7
+    },
+    {
+      "programa": "Una nueva vida",
+      "cadena": "Antena 3",
+      "espectadores": 808000,
+      "share": 9.7,
+      "rating": 1.7
+    }
+  ]
+}

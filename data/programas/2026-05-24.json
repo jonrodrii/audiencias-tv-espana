@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-05-24",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1185000,
+      "share": 17.0,
+      "rating": 2.5
+    },
+    {
+      "programa": "Sesión de tarde: Alli me encontraras",
+      "cadena": "La 1",
+      "espectadores": 980000,
+      "share": 11.4,
+      "rating": 2.1
+    },
+    {
+      "programa": "Multicine: Recuerdos robados",
+      "cadena": "Antena 3",
+      "espectadores": 968000,
+      "share": 11.3,
+      "rating": 2.0
+    },
+    {
+      "programa": "Supervivientes: Conexión Honduras",
+      "cadena": "Telecinco icono",
+      "espectadores": 913000,
+      "share": 11.7,
+      "rating": 1.9
+    },
+    {
+      "programa": "Barrio esperanza: La esperanza es lo ultimo que se pierde",
+      "cadena": "La 1",
+      "espectadores": 816000,
+      "share": 8.3,
+      "rating": 1.7
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 813000,
+      "share": 9.4,
+      "rating": 1.7
+    },
+    {
+      "programa": "Una nueva vida",
+      "cadena": "Antena 3",
+      "espectadores": 795000,
+      "share": 9.5,
+      "rating": 1.7
+    },
+    {
+      "programa": "Multicine 2: La hija no deseada",
+      "cadena": "Antena 3",
+      "espectadores": 752000,
+      "share": 9.2,
+      "rating": 1.6
+    },
+    {
+      "programa": "Anatomía de...: La Amenaza De Gil",
+      "cadena": "laSexta",
+      "espectadores": 728000,
+      "share": 6.3,
+      "rating": 1.5
+    },
+    {
+      "programa": "Sesión de tarde 2: Cosas que importan",
+      "cadena": "La 1",
+      "espectadores": 717000,
+      "share": 8.8,
+      "rating": 1.5
+    }
+  ]
+}

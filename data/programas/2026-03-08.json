@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-03-08",
+  "programas": [
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1249000,
+      "share": 10.9,
+      "rating": 2.6
+    },
+    {
+      "programa": "8m mujeres que inspiran: En tierra de hombres",
+      "cadena": "La 1",
+      "espectadores": 1139000,
+      "share": 12.0,
+      "rating": 2.4
+    },
+    {
+      "programa": "Lo de Évole",
+      "cadena": "laSexta",
+      "espectadores": 1125000,
+      "share": 8.6,
+      "rating": 2.4
+    },
+    {
+      "programa": "Supervivientes: Conexión Honduras",
+      "cadena": "Telecinco icono",
+      "espectadores": 1120000,
+      "share": 14.2,
+      "rating": 2.4
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1097000,
+      "share": 14.7,
+      "rating": 2.3
+    },
+    {
+      "programa": "Multicine: Amor sin tiempo",
+      "cadena": "Antena 3",
+      "espectadores": 1030000,
+      "share": 10.8,
+      "rating": 2.2
+    },
+    {
+      "programa": "Una nueva vida",
+      "cadena": "Antena 3",
+      "espectadores": 961000,
+      "share": 10.1,
+      "rating": 2.0
+    },
+    {
+      "programa": "¡Allá tú!",
+      "cadena": "Telecinco icono",
+      "espectadores": 939000,
+      "share": 8.3,
+      "rating": 2.0
+    },
+    {
+      "programa": "Multicine 3: Amor, romance y chocolate",
+      "cadena": "Antena 3",
+      "espectadores": 939000,
+      "share": 8.6,
+      "rating": 2.0
+    },
+    {
+      "programa": "Lo de Évole",
+      "cadena": "laSexta",
+      "espectadores": 938000,
+      "share": 8.3,
+      "rating": 2.0
+    }
+  ]
+}

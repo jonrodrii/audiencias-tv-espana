@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-05-18",
+  "programas": [
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1757000,
+      "share": 14.4,
+      "rating": 3.7
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1642000,
+      "share": 18.8,
+      "rating": 3.5
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1592000,
+      "share": 21.2,
+      "rating": 3.3
+    },
+    {
+      "programa": "La Revuelta: Ronald Araujo",
+      "cadena": "La 1",
+      "espectadores": 1318000,
+      "share": 10.8,
+      "rating": 2.8
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1297000,
+      "share": 15.0,
+      "rating": 2.7
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1205000,
+      "share": 13.4,
+      "rating": 2.5
+    },
+    {
+      "programa": "First dates",
+      "cadena": "Telecinco icono",
+      "espectadores": 1176000,
+      "share": 9.6,
+      "rating": 2.5
+    },
+    {
+      "programa": "Horizonte",
+      "cadena": "Cuatro",
+      "espectadores": 954000,
+      "share": 7.8,
+      "rating": 2.0
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 945000,
+      "share": 11.4,
+      "rating": 2.0
+    },
+    {
+      "programa": "La isla de las tentaciones",
+      "cadena": "Telecinco icono",
+      "espectadores": 890000,
+      "share": 14.8,
+      "rating": 1.9
+    }
+  ]
+}

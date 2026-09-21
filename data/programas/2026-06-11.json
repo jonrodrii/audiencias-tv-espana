@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-06-11",
+  "programas": [
+    {
+      "programa": "Futbol: Copa mundial: Mexico-sudafrica: Previa",
+      "cadena": "La 1",
+      "espectadores": 3351000,
+      "share": 28.0,
+      "rating": 7.0
+    },
+    {
+      "programa": "Camino a ny",
+      "cadena": "La 1",
+      "espectadores": 2455000,
+      "share": 24.1,
+      "rating": 5.2
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1485000,
+      "share": 20.5,
+      "rating": 3.1
+    },
+    {
+      "programa": "El perro andaluz by manu sanchez: Manuel carrasco-miguel angel revilla",
+      "cadena": "La 1",
+      "espectadores": 1282000,
+      "share": 15.1,
+      "rating": 2.7
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1276000,
+      "share": 14.8,
+      "rating": 2.7
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1233000,
+      "share": 9.9,
+      "rating": 2.6
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1203000,
+      "share": 14.3,
+      "rating": 2.5
+    },
+    {
+      "programa": "Supervivientes",
+      "cadena": "Telecinco icono",
+      "espectadores": 1139000,
+      "share": 18.3,
+      "rating": 2.4
+    },
+    {
+      "programa": "Supervivientes exprés",
+      "cadena": "Telecinco icono",
+      "espectadores": 1079000,
+      "share": 8.6,
+      "rating": 2.3
+    },
+    {
+      "programa": "Directo al grano",
+      "cadena": "La 1",
+      "espectadores": 896000,
+      "share": 11.4,
+      "rating": 1.9
+    }
+  ]
+}

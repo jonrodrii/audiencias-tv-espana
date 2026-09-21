@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-04-15",
+  "programas": [
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1661000,
+      "share": 18.8,
+      "rating": 3.5
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1522000,
+      "share": 21.9,
+      "rating": 3.2
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1511000,
+      "share": 11.9,
+      "rating": 3.2
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1209000,
+      "share": 14.1,
+      "rating": 2.5
+    },
+    {
+      "programa": "La isla de las tentaciones",
+      "cadena": "Telecinco icono",
+      "espectadores": 1131000,
+      "share": 9.0,
+      "rating": 2.4
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1117000,
+      "share": 12.4,
+      "rating": 2.3
+    },
+    {
+      "programa": "La Revuelta: Antonio Carmona",
+      "cadena": "La 1",
+      "espectadores": 1017000,
+      "share": 8.0,
+      "rating": 2.1
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 997000,
+      "share": 12.8,
+      "rating": 2.1
+    },
+    {
+      "programa": "El Intermedio",
+      "cadena": "laSexta",
+      "espectadores": 865000,
+      "share": 6.8,
+      "rating": 1.8
+    },
+    {
+      "programa": "Directo al grano",
+      "cadena": "La 1",
+      "espectadores": 859000,
+      "share": 10.6,
+      "rating": 1.8
+    }
+  ]
+}

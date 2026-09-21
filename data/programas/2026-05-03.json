@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-05-03",
+  "programas": [
+    {
+      "programa": "Película de la semana: Aquellos que desean mi muerte",
+      "cadena": "La 1",
+      "espectadores": 1258000,
+      "share": 11.0,
+      "rating": 2.6
+    },
+    {
+      "programa": "Lo de Évole",
+      "cadena": "laSexta",
+      "espectadores": 1195000,
+      "share": 9.8,
+      "rating": 2.5
+    },
+    {
+      "programa": "Lo de Évole",
+      "cadena": "laSexta",
+      "espectadores": 1059000,
+      "share": 9.7,
+      "rating": 2.2
+    },
+    {
+      "programa": "Multicine: El día de la madre",
+      "cadena": "Antena 3",
+      "espectadores": 1029000,
+      "share": 12.1,
+      "rating": 2.2
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 953000,
+      "share": 15.5,
+      "rating": 2.0
+    },
+    {
+      "programa": "Multicine 2: Vacaciones con mama",
+      "cadena": "Antena 3",
+      "espectadores": 883000,
+      "share": 10.6,
+      "rating": 1.9
+    },
+    {
+      "programa": "Supervivientes: Conexión Honduras",
+      "cadena": "Telecinco icono",
+      "espectadores": 870000,
+      "share": 11.2,
+      "rating": 1.8
+    },
+    {
+      "programa": "Sesión de tarde: Y entonces llego ella",
+      "cadena": "La 1",
+      "espectadores": 838000,
+      "share": 10.0,
+      "rating": 1.8
+    },
+    {
+      "programa": "Una nueva vida",
+      "cadena": "Antena 3",
+      "espectadores": 812000,
+      "share": 9.1,
+      "rating": 1.7
+    },
+    {
+      "programa": "Multicine 3: El verano de mi vida",
+      "cadena": "Antena 3",
+      "espectadores": 758000,
+      "share": 8.3,
+      "rating": 1.6
+    }
+  ]
+}
