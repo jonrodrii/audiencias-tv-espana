@@ -188,6 +188,61 @@ def save_top_programs(day: date, programas: list[dict]) -> None:
     path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
+BARLOVENTO_URL = "https://barloventocomunicacion.es/audiencias-diarias/audiencias-{dd}-de-{mes}-{yyyy}/"
+
+MESES = {
+    1: "enero", 2: "febrero", 3: "marzo", 4: "abril", 5: "mayo", 6: "junio",
+    7: "julio", 8: "agosto", 9: "septiembre", 10: "octubre", 11: "noviembre", 12: "diciembre",
+}
+
+TOTAL_RE = re.compile(
+    r"<b>([\d.]+)\s*españoles vieron al menos un minuto de televisión</b>.*?representa el ([\d,]+)%",
+    re.DOTALL,
+)
+NOT_WATCHED_RE = re.compile(r"<b>el (\d+)% de los españoles no ha visto la televisión en \w+</b>")
+CONSUMPTION_RE = re.compile(r"<b>(\d+) minutos por individuo</b>")
+
+
+def fetch_total_audience(url_day: date) -> dict | None:
+    """Descarga audiencia total y consumo desde Barlovento.
+
+    IMPORTANTE: la página fechada 'url_day' publica los datos de AYER
+    (url_day - 1 día), así que para conseguir el dato del día X hay que
+    pedir la página fechada X+1. La fecha real del dato calculada aquí
+    ya tiene ese desfase corregido.
+    """
+    mes = MESES[url_day.month]
+    url = BARLOVENTO_URL.format(dd=f"{url_day.day:02d}", mes=mes, yyyy=url_day.year)
+    resp = requests.get(url, headers=HEADERS, timeout=15)
+    resp.raise_for_status()
+    html_text = resp.text
+
+    m_total = TOTAL_RE.search(html_text)
+    if not m_total:
+        return None
+
+    m_notwatched = NOT_WATCHED_RE.search(html_text)
+    m_consumo = CONSUMPTION_RE.search(html_text)
+
+    actual_date = url_day - timedelta(days=1)
+    return {
+        "fecha": actual_date.isoformat(),
+        "espectadores_totales": int(m_total.group(1).replace(".", "")),
+        "alcance_pct": float(m_total.group(2).replace(",", ".")),
+        "consumo_minutos": int(m_consumo.group(1)) if m_consumo else None,
+        "pct_no_visto_mes_acumulado": int(m_notwatched.group(1)) if m_notwatched else None,
+    }
+
+
+def save_total_audience(data: dict) -> None:
+    if not data:
+        return
+    dir_path = DATA_DIR / "audiencia-total"
+    dir_path.mkdir(parents=True, exist_ok=True)
+    path = dir_path / f"{data['fecha']}.json"
+    path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
 def save_day(day: date, data: list[dict]) -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     path = DATA_DIR / f"{day.isoformat()}.json"
@@ -233,6 +288,19 @@ def rebuild_history() -> None:
         )
         print(f"history-programas.json reconstruido con {len(programa_days)} días")
 
+    total_dir = DATA_DIR / "audiencia-total"
+    if total_dir.exists():
+        total_days = []
+        for f in sorted(total_dir.glob("????-??-??.json")):
+            try:
+                total_days.append(json.loads(f.read_text(encoding="utf-8")))
+            except Exception:
+                continue
+        (DATA_DIR / "history-audiencia-total.json").write_text(
+            json.dumps(total_days, ensure_ascii=False, indent=2), encoding="utf-8"
+        )
+        print(f"history-audiencia-total.json reconstruido con {len(total_days)} días")
+
 
 def backfill(start: date, end: date) -> None:
     d = start
@@ -270,6 +338,20 @@ def backfill(start: date, end: date) -> None:
                 print(f"{d}: sin datos de programas")
         except Exception as e:
             print(f"{d}: error (programas) -> {e}")
+
+        time.sleep(1)
+
+        try:
+            # Barlovento publica el dato de "ayer" en la página fechada "hoy",
+            # así que para conseguir el dato del día d hay que pedir d+1.
+            total = fetch_total_audience(d + timedelta(days=1))
+            if total:
+                save_total_audience(total)
+                print(f"{d}: audiencia total guardada ({total['espectadores_totales']} espectadores)")
+            else:
+                print(f"{d}: sin datos de audiencia total")
+        except Exception as e:
+            print(f"{d}: error (audiencia total) -> {e}")
 
         time.sleep(1.5)
         d += timedelta(days=1)
