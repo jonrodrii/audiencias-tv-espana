@@ -19648,5 +19648,80 @@
         "rating": 1.4
       }
     ]
+  },
+  {
+    "fecha": "2026-09-20",
+    "programas": [
+      {
+        "programa": "Futbol: Liga española: At.madrid-R.Madrid",
+        "cadena": "Otros (deporte u otros)",
+        "espectadores": 1501000,
+        "share": 16.1,
+        "rating": 3.2
+      },
+      {
+        "programa": "Película de la semana: San andres",
+        "cadena": "La 1",
+        "espectadores": 1144000,
+        "share": 11.4,
+        "rating": 2.4
+      },
+      {
+        "programa": "La ruleta de la suerte",
+        "cadena": "Antena 3",
+        "espectadores": 1143000,
+        "share": 16.1,
+        "rating": 2.4
+      },
+      {
+        "programa": "Multicine: El hijo soñado",
+        "cadena": "Antena 3",
+        "espectadores": 941000,
+        "share": 10.1,
+        "rating": 2.0
+      },
+      {
+        "programa": "El secreto",
+        "cadena": "Antena 3",
+        "espectadores": 889000,
+        "share": 11.0,
+        "rating": 1.9
+      },
+      {
+        "programa": "Aquí la Tierra",
+        "cadena": "La 1",
+        "espectadores": 878000,
+        "share": 10.4,
+        "rating": 1.8
+      },
+      {
+        "programa": "25 años enamorados de bridget jones: Bridget jones: Loca por el",
+        "cadena": "La 1",
+        "espectadores": 819000,
+        "share": 8.8,
+        "rating": 1.7
+      },
+      {
+        "programa": "Supervivientes all stars: Conexion honduras",
+        "cadena": "Telecinco icono",
+        "espectadores": 790000,
+        "share": 11.2,
+        "rating": 1.7
+      },
+      {
+        "programa": "Cuarto milenio",
+        "cadena": "Cuatro",
+        "espectadores": 718000,
+        "share": 7.2,
+        "rating": 1.5
+      },
+      {
+        "programa": "Home cinema: Ultimatum a la tierra",
+        "cadena": "Cuatro",
+        "espectadores": 671000,
+        "share": 7.2,
+        "rating": 1.4
+      }
+    ]
   }
 ]
