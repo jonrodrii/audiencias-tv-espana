@@ -19723,5 +19723,80 @@
         "rating": 1.4
       }
     ]
+  },
+  {
+    "fecha": "2026-09-21",
+    "programas": [
+      {
+        "programa": "El Hormiguero",
+        "cadena": "Antena 3",
+        "espectadores": 1773000,
+        "share": 15.2,
+        "rating": 3.7
+      },
+      {
+        "programa": "La ruleta de la suerte",
+        "cadena": "Antena 3",
+        "espectadores": 1585000,
+        "share": 21.7,
+        "rating": 3.3
+      },
+      {
+        "programa": "Pasapalabra",
+        "cadena": "Antena 3",
+        "espectadores": 1422000,
+        "share": 17.1,
+        "rating": 3.0
+      },
+      {
+        "programa": "La Revuelta: Jose Mota-Ralph Echemendia",
+        "cadena": "La 1",
+        "espectadores": 1291000,
+        "share": 10.9,
+        "rating": 2.7
+      },
+      {
+        "programa": "Sueños de libertad",
+        "cadena": "Antena 3",
+        "espectadores": 1285000,
+        "share": 14.9,
+        "rating": 2.7
+      },
+      {
+        "programa": "Horizonte",
+        "cadena": "Cuatro",
+        "espectadores": 1125000,
+        "share": 9.6,
+        "rating": 2.4
+      },
+      {
+        "programa": "Aquí la Tierra",
+        "cadena": "La 1",
+        "espectadores": 1082000,
+        "share": 12.3,
+        "rating": 2.3
+      },
+      {
+        "programa": "First dates",
+        "cadena": "Telecinco icono",
+        "espectadores": 1032000,
+        "share": 8.7,
+        "rating": 2.2
+      },
+      {
+        "programa": "Mañaneros 360",
+        "cadena": "La 1",
+        "espectadores": 868000,
+        "share": 10.8,
+        "rating": 1.8
+      },
+      {
+        "programa": "La Promesa",
+        "cadena": "La 1",
+        "espectadores": 856000,
+        "share": 12.7,
+        "rating": 1.8
+      }
+    ]
   }
 ]
