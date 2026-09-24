@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-23",
+  "programas": [
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1617000,
+      "share": 14.4,
+      "rating": 3.4
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1592000,
+      "share": 22.6,
+      "rating": 3.3
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1518000,
+      "share": 18.6,
+      "rating": 3.2
+    },
+    {
+      "programa": "La Revuelta: Pedro Alonso",
+      "cadena": "La 1",
+      "espectadores": 1224000,
+      "share": 10.8,
+      "rating": 2.6
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1141000,
+      "share": 13.2,
+      "rating": 2.4
+    },
+    {
+      "programa": "El Intermedio",
+      "cadena": "laSexta",
+      "espectadores": 992000,
+      "share": 8.7,
+      "rating": 2.1
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 958000,
+      "share": 11.4,
+      "rating": 2.0
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 874000,
+      "share": 11.5,
+      "rating": 1.8
+    },
+    {
+      "programa": "Directo al grano",
+      "cadena": "La 1",
+      "espectadores": 873000,
+      "share": 10.7,
+      "rating": 1.8
+    },
+    {
+      "programa": "Malas lenguas",
+      "cadena": "La 1",
+      "espectadores": 860000,
+      "share": 11.9,
+      "rating": 1.8
+    }
+  ]
+}
