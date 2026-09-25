@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-24",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1620000,
+      "share": 23.0,
+      "rating": 3.4
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1590000,
+      "share": 19.5,
+      "rating": 3.3
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1568000,
+      "share": 14.1,
+      "rating": 3.3
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1229000,
+      "share": 14.4,
+      "rating": 2.6
+    },
+    {
+      "programa": "Horizonte: Avance",
+      "cadena": "Cuatro",
+      "espectadores": 1159000,
+      "share": 10.3,
+      "rating": 2.4
+    },
+    {
+      "programa": "Supervivientes all stars express",
+      "cadena": "Telecinco icono",
+      "espectadores": 1125000,
+      "share": 10.1,
+      "rating": 2.4
+    },
+    {
+      "programa": "Futbol: Uefa nations league: Paises Bajos-Alemania",
+      "cadena": "La 1",
+      "espectadores": 1081000,
+      "share": 10.0,
+      "rating": 2.3
+    },
+    {
+      "programa": "Mañaneros 360",
+      "cadena": "La 1",
+      "espectadores": 871000,
+      "share": 11.3,
+      "rating": 1.8
+    },
+    {
+      "programa": "La Revuelta: Borja Iglesias",
+      "cadena": "La 1",
+      "espectadores": 866000,
+      "share": 8.7,
+      "rating": 1.8
+    },
+    {
+      "programa": "Supervivientes all stars",
+      "cadena": "Telecinco icono",
+      "espectadores": 843000,
+      "share": 15.7,
+      "rating": 1.8
+    }
+  ]
+}
