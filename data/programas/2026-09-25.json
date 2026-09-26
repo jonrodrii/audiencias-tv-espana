@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-09-25",
+  "programas": [
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1507000,
+      "share": 22.5,
+      "rating": 3.2
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1267000,
+      "share": 17.2,
+      "rating": 2.7
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1214000,
+      "share": 14.2,
+      "rating": 2.6
+    },
+    {
+      "programa": "De Viernes",
+      "cadena": "Telecinco icono",
+      "espectadores": 1130000,
+      "share": 18.7,
+      "rating": 2.4
+    },
+    {
+      "programa": "First dates",
+      "cadena": "Telecinco icono",
+      "espectadores": 1033000,
+      "share": 10.8,
+      "rating": 2.2
+    },
+    {
+      "programa": "La Voz: Audiciones",
+      "cadena": "Antena 3",
+      "espectadores": 987000,
+      "share": 12.4,
+      "rating": 2.1
+    },
+    {
+      "programa": "Los archivos secretos del nodo",
+      "cadena": "La 1",
+      "espectadores": 951000,
+      "share": 9.9,
+      "rating": 2.0
+    },
+    {
+      "programa": "Directo al grano",
+      "cadena": "La 1",
+      "espectadores": 853000,
+      "share": 10.5,
+      "rating": 1.8
+    },
+    {
+      "programa": "Allá tú",
+      "cadena": "Telecinco icono",
+      "espectadores": 851000,
+      "share": 11.7,
+      "rating": 1.8
+    },
+    {
+      "programa": "La Promesa",
+      "cadena": "La 1",
+      "espectadores": 826000,
+      "share": 12.7,
+      "rating": 1.7
+    }
+  ]
+}
