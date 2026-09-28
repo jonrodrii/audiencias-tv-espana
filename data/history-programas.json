@@ -20098,5 +20098,80 @@
         "rating": 1.7
       }
     ]
+  },
+  {
+    "fecha": "2026-09-27",
+    "programas": [
+      {
+        "programa": "Futbol: Uefa nations league: Noruega-Portugal",
+        "cadena": "La 1",
+        "espectadores": 1664000,
+        "share": 14.4,
+        "rating": 3.5
+      },
+      {
+        "programa": "La ruleta de la suerte",
+        "cadena": "Antena 3",
+        "espectadores": 1217000,
+        "share": 17.5,
+        "rating": 2.6
+      },
+      {
+        "programa": "Película de la semana: Gladiator ii",
+        "cadena": "La 1",
+        "espectadores": 1164000,
+        "share": 15.5,
+        "rating": 2.4
+      },
+      {
+        "programa": "Salvados: Rufian ante el espejo",
+        "cadena": "laSexta",
+        "espectadores": 1138000,
+        "share": 9.6,
+        "rating": 2.4
+      },
+      {
+        "programa": "Cine: Gladiator",
+        "cadena": "La 1",
+        "espectadores": 1019000,
+        "share": 11.5,
+        "rating": 2.1
+      },
+      {
+        "programa": "Multicine: Bajo secuestro",
+        "cadena": "Antena 3",
+        "espectadores": 1013000,
+        "share": 11.4,
+        "rating": 2.1
+      },
+      {
+        "programa": "Supervivientes all stars: Conexion honduras",
+        "cadena": "Telecinco icono",
+        "espectadores": 872000,
+        "share": 12.0,
+        "rating": 1.8
+      },
+      {
+        "programa": "El secreto",
+        "cadena": "Antena 3",
+        "espectadores": 854000,
+        "share": 10.3,
+        "rating": 1.8
+      },
+      {
+        "programa": "Multicine 2: Custodia",
+        "cadena": "Antena 3",
+        "espectadores": 833000,
+        "share": 9.7,
+        "rating": 1.8
+      },
+      {
+        "programa": "Multicine 3: Despues de aquella noche",
+        "cadena": "Antena 3",
+        "espectadores": 756000,
+        "share": 8.3,
+        "rating": 1.6
+      }
+    ]
   }
 ]
