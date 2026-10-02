@@ -20398,5 +20398,80 @@
         "rating": 2.1
       }
     ]
+  },
+  {
+    "fecha": "2026-10-01",
+    "programas": [
+      {
+        "programa": "Entrevista: Isabel Diaz Ayuso",
+        "cadena": "Cuatro",
+        "espectadores": 1885000,
+        "share": 15.5,
+        "rating": 4.0
+      },
+      {
+        "programa": "Horizonte: Avance",
+        "cadena": "Cuatro",
+        "espectadores": 1630000,
+        "share": 13.8,
+        "rating": 3.4
+      },
+      {
+        "programa": "Pasapalabra",
+        "cadena": "Antena 3",
+        "espectadores": 1622000,
+        "share": 18.4,
+        "rating": 3.4
+      },
+      {
+        "programa": "La ruleta de la suerte",
+        "cadena": "Antena 3",
+        "espectadores": 1584000,
+        "share": 22.3,
+        "rating": 3.3
+      },
+      {
+        "programa": "La Revuelta: Mariano Benitez De Lugo",
+        "cadena": "La 1",
+        "espectadores": 1411000,
+        "share": 12.0,
+        "rating": 3.0
+      },
+      {
+        "programa": "El Hormiguero",
+        "cadena": "Antena 3",
+        "espectadores": 1395000,
+        "share": 11.8,
+        "rating": 2.9
+      },
+      {
+        "programa": "Sueños de libertad",
+        "cadena": "Antena 3",
+        "espectadores": 1287000,
+        "share": 15.2,
+        "rating": 2.7
+      },
+      {
+        "programa": "Aquí la Tierra",
+        "cadena": "La 1",
+        "espectadores": 1221000,
+        "share": 13.2,
+        "rating": 2.6
+      },
+      {
+        "programa": "Mañaneros 360",
+        "cadena": "La 1",
+        "espectadores": 991000,
+        "share": 12.7,
+        "rating": 2.1
+      },
+      {
+        "programa": "Directo al grano",
+        "cadena": "La 1",
+        "espectadores": 962000,
+        "share": 11.9,
+        "rating": 2.0
+      }
+    ]
   }
 ]
