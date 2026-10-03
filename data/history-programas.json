@@ -20473,5 +20473,80 @@
         "rating": 2.0
       }
     ]
+  },
+  {
+    "fecha": "2026-10-02",
+    "programas": [
+      {
+        "programa": "La ruleta de la suerte",
+        "cadena": "Antena 3",
+        "espectadores": 1549000,
+        "share": 20.7,
+        "rating": 3.3
+      },
+      {
+        "programa": "Pasapalabra",
+        "cadena": "Antena 3",
+        "espectadores": 1498000,
+        "share": 17.6,
+        "rating": 3.1
+      },
+      {
+        "programa": "Especial informativo",
+        "cadena": "La 1",
+        "espectadores": 1460000,
+        "share": 14.0,
+        "rating": 3.1
+      },
+      {
+        "programa": "Sueños de libertad",
+        "cadena": "Antena 3",
+        "espectadores": 1276000,
+        "share": 13.9,
+        "rating": 2.7
+      },
+      {
+        "programa": "De Viernes",
+        "cadena": "Telecinco icono",
+        "espectadores": 1228000,
+        "share": 19.7,
+        "rating": 2.6
+      },
+      {
+        "programa": "Directo al grano",
+        "cadena": "La 1",
+        "espectadores": 1146000,
+        "share": 13.5,
+        "rating": 2.4
+      },
+      {
+        "programa": "Especial informativo: Crisis por la vivienda",
+        "cadena": "La 1",
+        "espectadores": 1134000,
+        "share": 15.0,
+        "rating": 2.4
+      },
+      {
+        "programa": "Malas lenguas",
+        "cadena": "La 1",
+        "espectadores": 1099000,
+        "share": 13.5,
+        "rating": 2.3
+      },
+      {
+        "programa": "First dates",
+        "cadena": "Telecinco icono",
+        "espectadores": 1089000,
+        "share": 10.2,
+        "rating": 2.3
+      },
+      {
+        "programa": "Horizonte",
+        "cadena": "Cuatro",
+        "espectadores": 1045000,
+        "share": 9.8,
+        "rating": 2.2
+      }
+    ]
   }
 ]
