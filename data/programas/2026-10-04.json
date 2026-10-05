@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-10-04",
+  "programas": [
+    {
+      "programa": "Futbol: Uefa nations league: Portugal-Noruega",
+      "cadena": "La 1",
+      "espectadores": 1611000,
+      "share": 13.8,
+      "rating": 3.4
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1227000,
+      "share": 16.3,
+      "rating": 2.6
+    },
+    {
+      "programa": "Sesión de tarde: Sigueme el rollo",
+      "cadena": "La 1",
+      "espectadores": 1027000,
+      "share": 11.7,
+      "rating": 2.2
+    },
+    {
+      "programa": "Sesión de tarde 2: Mi segunda vez",
+      "cadena": "La 1",
+      "espectadores": 985000,
+      "share": 11.5,
+      "rating": 2.1
+    },
+    {
+      "programa": "Multicine: El club de las esposas",
+      "cadena": "Antena 3",
+      "espectadores": 971000,
+      "share": 11.1,
+      "rating": 2.0
+    },
+    {
+      "programa": "El secreto",
+      "cadena": "Antena 3",
+      "espectadores": 967000,
+      "share": 11.7,
+      "rating": 2.0
+    },
+    {
+      "programa": "Supervivientes all stars: Conexion honduras",
+      "cadena": "Telecinco icono",
+      "espectadores": 913000,
+      "share": 12.4,
+      "rating": 1.9
+    },
+    {
+      "programa": "Multicine 2: Mentiras perfectas",
+      "cadena": "Antena 3",
+      "espectadores": 843000,
+      "share": 9.9,
+      "rating": 1.8
+    },
+    {
+      "programa": "Multicine 3: Negro como la nieve",
+      "cadena": "Antena 3",
+      "espectadores": 842000,
+      "share": 8.9,
+      "rating": 1.8
+    },
+    {
+      "programa": "Película de la semana: Juego de ladrones: Pantera",
+      "cadena": "La 1",
+      "espectadores": 831000,
+      "share": 10.4,
+      "rating": 1.7
+    }
+  ]
+}
