@@ -20998,5 +20998,80 @@
         "rating": 1.9
       }
     ]
+  },
+  {
+    "fecha": "2026-10-12",
+    "programas": [
+      {
+        "programa": "Especial informativo: Día de la fiesta nacional",
+        "cadena": "La 1",
+        "espectadores": 2097000,
+        "share": 44.2,
+        "rating": 4.4
+      },
+      {
+        "programa": "El Hormiguero",
+        "cadena": "Antena 3",
+        "espectadores": 1475000,
+        "share": 12.6,
+        "rating": 3.1
+      },
+      {
+        "programa": "Horizonte",
+        "cadena": "Cuatro",
+        "espectadores": 1422000,
+        "share": 11.9,
+        "rating": 3.0
+      },
+      {
+        "programa": "Mañaneros 360",
+        "cadena": "La 1",
+        "espectadores": 1399000,
+        "share": 20.9,
+        "rating": 2.9
+      },
+      {
+        "programa": "La ruleta de la suerte",
+        "cadena": "Antena 3",
+        "espectadores": 1339000,
+        "share": 17.4,
+        "rating": 2.8
+      },
+      {
+        "programa": "Multicine: Mañana empieza todo",
+        "cadena": "Antena 3",
+        "espectadores": 1026000,
+        "share": 11.7,
+        "rating": 2.2
+      },
+      {
+        "programa": "First dates",
+        "cadena": "Telecinco icono",
+        "espectadores": 981000,
+        "share": 8.3,
+        "rating": 2.1
+      },
+      {
+        "programa": "Sesión de tarde: Sonrisas y lagrimas",
+        "cadena": "La 1",
+        "espectadores": 901000,
+        "share": 10.4,
+        "rating": 1.9
+      },
+      {
+        "programa": "En tierra lejana",
+        "cadena": "Antena 3",
+        "espectadores": 821000,
+        "share": 12.8,
+        "rating": 1.7
+      },
+      {
+        "programa": "Rueda la letra",
+        "cadena": "Telecinco icono",
+        "espectadores": 810000,
+        "share": 8.1,
+        "rating": 1.7
+      }
+    ]
   }
 ]
