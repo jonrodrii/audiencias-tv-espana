@@ -21073,5 +21073,80 @@
         "rating": 1.7
       }
     ]
+  },
+  {
+    "fecha": "2026-10-13",
+    "programas": [
+      {
+        "programa": "El Hormiguero",
+        "cadena": "Antena 3",
+        "espectadores": 1638000,
+        "share": 13.4,
+        "rating": 3.4
+      },
+      {
+        "programa": "Pasapalabra",
+        "cadena": "Antena 3",
+        "espectadores": 1636000,
+        "share": 17.3,
+        "rating": 3.4
+      },
+      {
+        "programa": "La ruleta de la suerte",
+        "cadena": "Antena 3",
+        "espectadores": 1587000,
+        "share": 21.8,
+        "rating": 3.3
+      },
+      {
+        "programa": "Horizonte",
+        "cadena": "Cuatro",
+        "espectadores": 1381000,
+        "share": 11.2,
+        "rating": 2.9
+      },
+      {
+        "programa": "Sueños de libertad",
+        "cadena": "Antena 3",
+        "espectadores": 1255000,
+        "share": 15.1,
+        "rating": 2.6
+      },
+      {
+        "programa": "La Revuelta: Jordi Molla",
+        "cadena": "La 1",
+        "espectadores": 1149000,
+        "share": 9.4,
+        "rating": 2.4
+      },
+      {
+        "programa": "Aquí la Tierra",
+        "cadena": "La 1",
+        "espectadores": 1109000,
+        "share": 11.1,
+        "rating": 2.3
+      },
+      {
+        "programa": "Mañaneros 360",
+        "cadena": "La 1",
+        "espectadores": 1012000,
+        "share": 12.7,
+        "rating": 2.1
+      },
+      {
+        "programa": "First dates",
+        "cadena": "Telecinco icono",
+        "espectadores": 935000,
+        "share": 7.7,
+        "rating": 2.0
+      },
+      {
+        "programa": "En tierra lejana",
+        "cadena": "Antena 3",
+        "espectadores": 849000,
+        "share": 12.5,
+        "rating": 1.8
+      }
+    ]
   }
 ]
