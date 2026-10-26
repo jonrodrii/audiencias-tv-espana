@@ -21748,5 +21748,80 @@
         "rating": 2.0
       }
     ]
+  },
+  {
+    "fecha": "2026-10-25",
+    "programas": [
+      {
+        "programa": "Futbol: Liga española: Barcelona-R.Madrid",
+        "cadena": "Otros (deporte u otros)",
+        "espectadores": 2759000,
+        "share": 21.8,
+        "rating": 5.8
+      },
+      {
+        "programa": "La ruleta de la suerte",
+        "cadena": "Antena 3",
+        "espectadores": 1121000,
+        "share": 15.9,
+        "rating": 2.4
+      },
+      {
+        "programa": "Aquí la Tierra",
+        "cadena": "La 1",
+        "espectadores": 1113000,
+        "share": 9.9,
+        "rating": 2.3
+      },
+      {
+        "programa": "Superestrellas: Keira knightley: La duquesa ( 2008 )",
+        "cadena": "La 1",
+        "espectadores": 960000,
+        "share": 10.8,
+        "rating": 2.0
+      },
+      {
+        "programa": "Supervivientes all stars: Conexion honduras express",
+        "cadena": "Telecinco icono",
+        "espectadores": 952000,
+        "share": 7.8,
+        "rating": 2.0
+      },
+      {
+        "programa": "Supervivientes all stars: Conexion honduras",
+        "cadena": "Telecinco icono",
+        "espectadores": 939000,
+        "share": 16.4,
+        "rating": 2.0
+      },
+      {
+        "programa": "Home cinema: El ultimo testigo ( 2012 )",
+        "cadena": "Cuatro",
+        "espectadores": 938000,
+        "share": 10.5,
+        "rating": 2.0
+      },
+      {
+        "programa": "El secreto",
+        "cadena": "Antena 3",
+        "espectadores": 834000,
+        "share": 10.2,
+        "rating": 1.8
+      },
+      {
+        "programa": "Multicine: El secuestro de mi hijo",
+        "cadena": "Antena 3",
+        "espectadores": 833000,
+        "share": 9.4,
+        "rating": 1.8
+      },
+      {
+        "programa": "Superestrellas: Keira knightley 2: Orgullo y prejuicio",
+        "cadena": "La 1",
+        "espectadores": 822000,
+        "share": 9.3,
+        "rating": 1.7
+      }
+    ]
   }
 ]

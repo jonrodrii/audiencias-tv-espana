@@ -31520,5 +31520,114 @@
         "cuota": 0.0
       }
     ]
+  },
+  {
+    "fecha": "2026-10-25",
+    "canales": [
+      {
+        "cadena": "La 1",
+        "cuota": 10.3
+      },
+      {
+        "cadena": "Antena 3",
+        "cuota": 9.0
+      },
+      {
+        "cadena": "Telecinco",
+        "cuota": 8.1
+      },
+      {
+        "cadena": "Cuatro",
+        "cuota": 7.0
+      },
+      {
+        "cadena": "laSexta",
+        "cuota": 4.7
+      },
+      {
+        "cadena": "La 2",
+        "cuota": 2.4
+      },
+      {
+        "cadena": "Trece",
+        "cuota": 2.1
+      },
+      {
+        "cadena": "FDF",
+        "cuota": 1.9
+      },
+      {
+        "cadena": "Energy",
+        "cuota": 1.9
+      },
+      {
+        "cadena": "Atreseries",
+        "cuota": 1.7
+      },
+      {
+        "cadena": "Neox",
+        "cuota": 1.6
+      },
+      {
+        "cadena": "DMAX",
+        "cuota": 1.6
+      },
+      {
+        "cadena": "Canal 24 Horas",
+        "cuota": 1.5
+      },
+      {
+        "cadena": "Nova",
+        "cuota": 1.5
+      },
+      {
+        "cadena": "DKiss",
+        "cuota": 1.5
+      },
+      {
+        "cadena": "Boing",
+        "cuota": 1.4
+      },
+      {
+        "cadena": "Teledeporte",
+        "cuota": 1.2
+      },
+      {
+        "cadena": "Veo7",
+        "cuota": 1.2
+      },
+      {
+        "cadena": "Real Madrid TV",
+        "cuota": 1.1
+      },
+      {
+        "cadena": "Divinity",
+        "cuota": 1.1
+      },
+      {
+        "cadena": "BeMad",
+        "cuota": 1.1
+      },
+      {
+        "cadena": "Mega",
+        "cuota": 1.0
+      },
+      {
+        "cadena": "Clan TVE",
+        "cuota": 0.9
+      },
+      {
+        "cadena": "Ten",
+        "cuota": 0.8
+      },
+      {
+        "cadena": "Gol Television",
+        "cuota": 0.0
+      },
+      {
+        "cadena": "Paramount Network",
+        "cuota": 0.0
+      }
+    ]
   }
 ]
