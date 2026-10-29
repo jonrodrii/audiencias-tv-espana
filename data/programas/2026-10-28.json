@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-10-28",
+  "programas": [
+    {
+      "programa": "Rueda de prensa: Oscar puente",
+      "cadena": "La 1",
+      "espectadores": 1989000,
+      "share": 21.0,
+      "rating": 4.2
+    },
+    {
+      "programa": "Horizonte: Avance",
+      "cadena": "Cuatro",
+      "espectadores": 1833000,
+      "share": 15.3,
+      "rating": 3.9
+    },
+    {
+      "programa": "Especial informativo: Choque de dos trenes en toledo",
+      "cadena": "La 1",
+      "espectadores": 1610000,
+      "share": 19.6,
+      "rating": 3.4
+    },
+    {
+      "programa": "Especial informativo: Tragedia ferroviaria",
+      "cadena": "Antena 3",
+      "espectadores": 1449000,
+      "share": 11.8,
+      "rating": 3.0
+    },
+    {
+      "programa": "Directo al grano",
+      "cadena": "La 1",
+      "espectadores": 1241000,
+      "share": 15.8,
+      "rating": 2.6
+    },
+    {
+      "programa": "Especial informativo: Tragedia ferroviaria",
+      "cadena": "La 1",
+      "espectadores": 1177000,
+      "share": 13.2,
+      "rating": 2.5
+    },
+    {
+      "programa": "Y ahora Sonsoles",
+      "cadena": "Antena 3",
+      "espectadores": 1067000,
+      "share": 12.5,
+      "rating": 2.2
+    },
+    {
+      "programa": "Allá tú",
+      "cadena": "Telecinco icono",
+      "espectadores": 1032000,
+      "share": 9.9,
+      "rating": 2.2
+    },
+    {
+      "programa": "Horizonte",
+      "cadena": "Cuatro",
+      "espectadores": 1013000,
+      "share": 16.0,
+      "rating": 2.1
+    },
+    {
+      "programa": "Horizonte: Express",
+      "cadena": "Cuatro",
+      "espectadores": 1000000,
+      "share": 7.9,
+      "rating": 2.1
+    }
+  ]
+}
