@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-11-01",
+  "programas": [
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1180000,
+      "share": 11.1,
+      "rating": 2.5
+    },
+    {
+      "programa": "Película de la semana: Arthur ( 2024 )",
+      "cadena": "La 1",
+      "espectadores": 1127000,
+      "share": 10.7,
+      "rating": 2.4
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1108000,
+      "share": 16.2,
+      "rating": 2.3
+    },
+    {
+      "programa": "Superestrellas: Reese whiterspoon: Sweet home alabama",
+      "cadena": "La 1",
+      "espectadores": 930000,
+      "share": 10.8,
+      "rating": 2.0
+    },
+    {
+      "programa": "Multicine: Niñera, ten cuidado",
+      "cadena": "Antena 3",
+      "espectadores": 912000,
+      "share": 10.6,
+      "rating": 1.9
+    },
+    {
+      "programa": "Supervivientes all stars: Conexion honduras",
+      "cadena": "Telecinco icono",
+      "espectadores": 910000,
+      "share": 12.2,
+      "rating": 1.9
+    },
+    {
+      "programa": "El secreto",
+      "cadena": "Antena 3",
+      "espectadores": 890000,
+      "share": 11.1,
+      "rating": 1.9
+    },
+    {
+      "programa": "Futbol: Liga española: Racing Santander-R.Madrid",
+      "cadena": "Otros (deporte u otros)",
+      "espectadores": 797000,
+      "share": 9.3,
+      "rating": 1.7
+    },
+    {
+      "programa": "Multicine 2: Viviendo en el engaño",
+      "cadena": "Antena 3",
+      "espectadores": 769000,
+      "share": 8.8,
+      "rating": 1.6
+    },
+    {
+      "programa": "Cosas nuestras",
+      "cadena": "La 1",
+      "espectadores": 757000,
+      "share": 7.9,
+      "rating": 1.6
+    }
+  ]
+}
