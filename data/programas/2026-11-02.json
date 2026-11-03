@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-11-02",
+  "programas": [
+    {
+      "programa": "Pasapalabra: Especial halloween",
+      "cadena": "Antena 3",
+      "espectadores": 1766000,
+      "share": 16.3,
+      "rating": 3.7
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1644000,
+      "share": 13.5,
+      "rating": 3.5
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1601000,
+      "share": 21.3,
+      "rating": 3.4
+    },
+    {
+      "programa": "Horizonte",
+      "cadena": "Cuatro",
+      "espectadores": 1501000,
+      "share": 12.2,
+      "rating": 3.2
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1481000,
+      "share": 13.3,
+      "rating": 3.1
+    },
+    {
+      "programa": "El perro andaluz by manu sanchez: Gonzalo Miro-Pasion Vega",
+      "cadena": "La 1",
+      "espectadores": 1411000,
+      "share": 11.9,
+      "rating": 3.0
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1247000,
+      "share": 14.3,
+      "rating": 2.6
+    },
+    {
+      "programa": "Allá tú",
+      "cadena": "Telecinco icono",
+      "espectadores": 1110000,
+      "share": 10.3,
+      "rating": 2.3
+    },
+    {
+      "programa": "Malas lenguas",
+      "cadena": "La 1",
+      "espectadores": 1036000,
+      "share": 10.5,
+      "rating": 2.2
+    },
+    {
+      "programa": "First dates",
+      "cadena": "Telecinco icono",
+      "espectadores": 1013000,
+      "share": 8.3,
+      "rating": 2.1
+    }
+  ]
+}
