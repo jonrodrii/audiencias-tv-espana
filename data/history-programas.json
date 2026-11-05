@@ -22423,5 +22423,80 @@
         "rating": 2.1
       }
     ]
+  },
+  {
+    "fecha": "2026-11-04",
+    "programas": [
+      {
+        "programa": "El Hormiguero",
+        "cadena": "Antena 3",
+        "espectadores": 1771000,
+        "share": 14.8,
+        "rating": 3.7
+      },
+      {
+        "programa": "Pasapalabra",
+        "cadena": "Antena 3",
+        "espectadores": 1673000,
+        "share": 16.1,
+        "rating": 3.5
+      },
+      {
+        "programa": "La ruleta de la suerte",
+        "cadena": "Antena 3",
+        "espectadores": 1570000,
+        "share": 20.9,
+        "rating": 3.3
+      },
+      {
+        "programa": "La Revuelta: Mckenna-Joseph",
+        "cadena": "La 1",
+        "espectadores": 1512000,
+        "share": 12.9,
+        "rating": 3.2
+      },
+      {
+        "programa": "Aquí la Tierra",
+        "cadena": "La 1",
+        "espectadores": 1439000,
+        "share": 13.5,
+        "rating": 3.0
+      },
+      {
+        "programa": "Horizonte: Avance",
+        "cadena": "Cuatro",
+        "espectadores": 1304000,
+        "share": 10.7,
+        "rating": 2.7
+      },
+      {
+        "programa": "Sueños de libertad",
+        "cadena": "Antena 3",
+        "espectadores": 1245000,
+        "share": 14.4,
+        "rating": 2.6
+      },
+      {
+        "programa": "Mañaneros 360",
+        "cadena": "La 1",
+        "espectadores": 1129000,
+        "share": 13.7,
+        "rating": 2.4
+      },
+      {
+        "programa": "Horizonte",
+        "cadena": "Cuatro",
+        "espectadores": 1099000,
+        "share": 12.2,
+        "rating": 2.3
+      },
+      {
+        "programa": "Allá tú",
+        "cadena": "Telecinco icono",
+        "espectadores": 988000,
+        "share": 9.7,
+        "rating": 2.1
+      }
+    ]
   }
 ]
