@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-11-06",
+  "programas": [
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1593000,
+      "share": 17.5,
+      "rating": 3.3
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1367000,
+      "share": 20.9,
+      "rating": 2.9
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1216000,
+      "share": 13.8,
+      "rating": 2.6
+    },
+    {
+      "programa": "Aquí la Tierra",
+      "cadena": "La 1",
+      "espectadores": 1212000,
+      "share": 12.9,
+      "rating": 2.5
+    },
+    {
+      "programa": "First dates",
+      "cadena": "Telecinco icono",
+      "espectadores": 1044000,
+      "share": 9.5,
+      "rating": 2.2
+    },
+    {
+      "programa": "Horizonte",
+      "cadena": "Cuatro",
+      "espectadores": 1034000,
+      "share": 9.4,
+      "rating": 2.2
+    },
+    {
+      "programa": "Cuanta guerra: El güelito salvador y la utopia que no pudo ser",
+      "cadena": "La 1",
+      "espectadores": 986000,
+      "share": 9.0,
+      "rating": 2.1
+    },
+    {
+      "programa": "La Voz: A punto de empezar",
+      "cadena": "Antena 3",
+      "espectadores": 981000,
+      "share": 8.9,
+      "rating": 2.1
+    },
+    {
+      "programa": "La Promesa",
+      "cadena": "La 1",
+      "espectadores": 931000,
+      "share": 11.9,
+      "rating": 2.0
+    },
+    {
+      "programa": "Malas lenguas",
+      "cadena": "La 1",
+      "espectadores": 931000,
+      "share": 11.0,
+      "rating": 2.0
+    }
+  ]
+}
