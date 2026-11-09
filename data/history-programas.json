@@ -22648,5 +22648,80 @@
         "rating": 2.0
       }
     ]
+  },
+  {
+    "fecha": "2026-11-08",
+    "programas": [
+      {
+        "programa": "Futbol: Liga española: At.madrid-Barcelona",
+        "cadena": "Icono Movistar",
+        "espectadores": 1895000,
+        "share": 15.0,
+        "rating": 4.0
+      },
+      {
+        "programa": "Aquí la Tierra",
+        "cadena": "La 1",
+        "espectadores": 1384000,
+        "share": 12.1,
+        "rating": 2.9
+      },
+      {
+        "programa": "La ruleta de la suerte",
+        "cadena": "Antena 3",
+        "espectadores": 1224000,
+        "share": 15.9,
+        "rating": 2.6
+      },
+      {
+        "programa": "Multicine: Los secretos de mi familia",
+        "cadena": "Antena 3",
+        "espectadores": 1107000,
+        "share": 11.3,
+        "rating": 2.3
+      },
+      {
+        "programa": "Sesión de tarde: Una pareja de tres",
+        "cadena": "La 1",
+        "espectadores": 1102000,
+        "share": 11.2,
+        "rating": 2.3
+      },
+      {
+        "programa": "Supervivientes all stars: Semifinal",
+        "cadena": "Telecinco icono",
+        "espectadores": 976000,
+        "share": 12.3,
+        "rating": 2.1
+      },
+      {
+        "programa": "Película de la semana: Guillermo tell",
+        "cadena": "La 1",
+        "espectadores": 968000,
+        "share": 9.0,
+        "rating": 2.0
+      },
+      {
+        "programa": "Sesión de tarde 2: Mi gran boda griega",
+        "cadena": "La 1",
+        "espectadores": 958000,
+        "share": 10.3,
+        "rating": 2.0
+      },
+      {
+        "programa": "El secreto",
+        "cadena": "Antena 3",
+        "espectadores": 920000,
+        "share": 10.7,
+        "rating": 1.9
+      },
+      {
+        "programa": "Cosas nuestras",
+        "cadena": "La 1",
+        "espectadores": 918000,
+        "share": 9.1,
+        "rating": 1.9
+      }
+    ]
   }
 ]
