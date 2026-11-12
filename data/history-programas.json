@@ -22873,5 +22873,80 @@
         "rating": 2.3
       }
     ]
+  },
+  {
+    "fecha": "2026-11-11",
+    "programas": [
+      {
+        "programa": "El Hormiguero",
+        "cadena": "Antena 3",
+        "espectadores": 2455000,
+        "share": 19.0,
+        "rating": 5.2
+      },
+      {
+        "programa": "Pasapalabra",
+        "cadena": "Antena 3",
+        "espectadores": 2073000,
+        "share": 17.4,
+        "rating": 4.4
+      },
+      {
+        "programa": "La ruleta de la suerte",
+        "cadena": "Antena 3",
+        "espectadores": 1913000,
+        "share": 20.7,
+        "rating": 4.0
+      },
+      {
+        "programa": "Horizonte",
+        "cadena": "Cuatro",
+        "espectadores": 1589000,
+        "share": 12.2,
+        "rating": 3.3
+      },
+      {
+        "programa": "Sueños de libertad",
+        "cadena": "Antena 3",
+        "espectadores": 1422000,
+        "share": 13.5,
+        "rating": 3.0
+      },
+      {
+        "programa": "Mañaneros 360",
+        "cadena": "La 1",
+        "espectadores": 1389000,
+        "share": 14.0,
+        "rating": 2.9
+      },
+      {
+        "programa": "Allá tú",
+        "cadena": "Telecinco icono",
+        "espectadores": 1291000,
+        "share": 11.0,
+        "rating": 2.7
+      },
+      {
+        "programa": "First dates",
+        "cadena": "Telecinco icono",
+        "espectadores": 1204000,
+        "share": 9.3,
+        "rating": 2.5
+      },
+      {
+        "programa": "Y ahora Sonsoles",
+        "cadena": "Antena 3",
+        "espectadores": 1069000,
+        "share": 11.2,
+        "rating": 2.2
+      },
+      {
+        "programa": "Noticias 24h",
+        "cadena": "La 1",
+        "espectadores": 1054000,
+        "share": 10.3,
+        "rating": 2.2
+      }
+    ]
   }
 ]
