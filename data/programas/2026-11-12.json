@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-11-12",
+  "programas": [
+    {
+      "programa": "Futbol: Uefa nations league: R.Checa-España",
+      "cadena": "La 1",
+      "espectadores": 4139000,
+      "share": 30.9,
+      "rating": 8.7
+    },
+    {
+      "programa": "El perro andaluz by manu sanchez: Pedro sanchez",
+      "cadena": "La 1",
+      "espectadores": 2852000,
+      "share": 25.7,
+      "rating": 6.0
+    },
+    {
+      "programa": "Entrevista: Pedro Sanchez",
+      "cadena": "La 1",
+      "espectadores": 2849000,
+      "share": 25.8,
+      "rating": 6.0
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1708000,
+      "share": 15.8,
+      "rating": 3.6
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1626000,
+      "share": 21.3,
+      "rating": 3.4
+    },
+    {
+      "programa": "El Hormiguero",
+      "cadena": "Antena 3",
+      "espectadores": 1506000,
+      "share": 11.2,
+      "rating": 3.2
+    },
+    {
+      "programa": "Horizonte: Avance",
+      "cadena": "Cuatro",
+      "espectadores": 1266000,
+      "share": 9.4,
+      "rating": 2.7
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1195000,
+      "share": 13.6,
+      "rating": 2.5
+    },
+    {
+      "programa": "Supervivientes all stars: Final",
+      "cadena": "Telecinco icono",
+      "espectadores": 1113000,
+      "share": 18.2,
+      "rating": 2.3
+    },
+    {
+      "programa": "Supervivientes all stars: Final express",
+      "cadena": "Telecinco icono",
+      "espectadores": 1097000,
+      "share": 8.2,
+      "rating": 2.3
+    }
+  ]
+}
