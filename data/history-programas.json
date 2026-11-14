@@ -23023,5 +23023,80 @@
         "rating": 2.3
       }
     ]
+  },
+  {
+    "fecha": "2026-11-13",
+    "programas": [
+      {
+        "programa": "Pasapalabra",
+        "cadena": "Antena 3",
+        "espectadores": 1584000,
+        "share": 16.8,
+        "rating": 3.3
+      },
+      {
+        "programa": "La ruleta de la suerte",
+        "cadena": "Antena 3",
+        "espectadores": 1547000,
+        "share": 21.8,
+        "rating": 3.3
+      },
+      {
+        "programa": "La sexta debate: Hablamos de lo que importa",
+        "cadena": "laSexta",
+        "espectadores": 1328000,
+        "share": 11.9,
+        "rating": 2.8
+      },
+      {
+        "programa": "Sueños de libertad",
+        "cadena": "Antena 3",
+        "espectadores": 1242000,
+        "share": 13.9,
+        "rating": 2.6
+      },
+      {
+        "programa": "La Voz: A punto de empezar",
+        "cadena": "Antena 3",
+        "espectadores": 1143000,
+        "share": 9.9,
+        "rating": 2.4
+      },
+      {
+        "programa": "Allá tú",
+        "cadena": "Telecinco icono",
+        "espectadores": 1126000,
+        "share": 12.0,
+        "rating": 2.4
+      },
+      {
+        "programa": "First dates",
+        "cadena": "Telecinco icono",
+        "espectadores": 1100000,
+        "share": 9.7,
+        "rating": 2.3
+      },
+      {
+        "programa": "De Viernes",
+        "cadena": "Telecinco icono",
+        "espectadores": 1064000,
+        "share": 15.5,
+        "rating": 2.2
+      },
+      {
+        "programa": "Mañaneros 360",
+        "cadena": "La 1",
+        "espectadores": 966000,
+        "share": 12.5,
+        "rating": 2.0
+      },
+      {
+        "programa": "La voz: Batallas",
+        "cadena": "Antena 3",
+        "espectadores": 944000,
+        "share": 12.5,
+        "rating": 2.0
+      }
+    ]
   }
 ]
