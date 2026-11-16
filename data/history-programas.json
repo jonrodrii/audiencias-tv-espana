@@ -23098,5 +23098,80 @@
         "rating": 2.0
       }
     ]
+  },
+  {
+    "fecha": "2026-11-15",
+    "programas": [
+      {
+        "programa": "Futbol: Uefa nations league: España-Inglaterra",
+        "cadena": "La 1",
+        "espectadores": 6506000,
+        "share": 44.1,
+        "rating": 13.7
+      },
+      {
+        "programa": "Previo futbol: Uefa nations league: España-Inglaterra",
+        "cadena": "La 1",
+        "espectadores": 2842000,
+        "share": 23.0,
+        "rating": 6.0
+      },
+      {
+        "programa": "Película de la semana: El mensajero ( snitch )",
+        "cadena": "La 1",
+        "espectadores": 1432000,
+        "share": 15.7,
+        "rating": 3.0
+      },
+      {
+        "programa": "La ruleta de la suerte",
+        "cadena": "Antena 3",
+        "espectadores": 1211000,
+        "share": 16.2,
+        "rating": 2.5
+      },
+      {
+        "programa": "Cosas nuestras",
+        "cadena": "La 1",
+        "espectadores": 1105000,
+        "share": 10.5,
+        "rating": 2.3
+      },
+      {
+        "programa": "Multicine: El coraje de una esposa",
+        "cadena": "Antena 3",
+        "espectadores": 1073000,
+        "share": 11.1,
+        "rating": 2.3
+      },
+      {
+        "programa": "Supervivientes all stars: Debate final",
+        "cadena": "Telecinco icono",
+        "espectadores": 1013000,
+        "share": 14.5,
+        "rating": 2.1
+      },
+      {
+        "programa": "Sesión de tarde: ¡estais cordialmente invitados!",
+        "cadena": "La 1",
+        "espectadores": 933000,
+        "share": 9.6,
+        "rating": 2.0
+      },
+      {
+        "programa": "Sesión de tarde 2: El hombre perfecto",
+        "cadena": "La 1",
+        "espectadores": 899000,
+        "share": 9.3,
+        "rating": 1.9
+      },
+      {
+        "programa": "El secreto",
+        "cadena": "Antena 3",
+        "espectadores": 890000,
+        "share": 9.3,
+        "rating": 1.9
+      }
+    ]
   }
 ]
