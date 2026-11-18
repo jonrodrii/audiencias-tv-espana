@@ -23248,5 +23248,80 @@
         "rating": 2.2
       }
     ]
+  },
+  {
+    "fecha": "2026-11-17",
+    "programas": [
+      {
+        "programa": "El Hormiguero",
+        "cadena": "Antena 3",
+        "espectadores": 1855000,
+        "share": 15.4,
+        "rating": 3.9
+      },
+      {
+        "programa": "Pasapalabra",
+        "cadena": "Antena 3",
+        "espectadores": 1793000,
+        "share": 17.3,
+        "rating": 3.8
+      },
+      {
+        "programa": "La ruleta de la suerte",
+        "cadena": "Antena 3",
+        "espectadores": 1633000,
+        "share": 21.3,
+        "rating": 3.4
+      },
+      {
+        "programa": "La Revuelta: Emilia Mernes",
+        "cadena": "La 1",
+        "espectadores": 1513000,
+        "share": 12.6,
+        "rating": 3.2
+      },
+      {
+        "programa": "Horizonte",
+        "cadena": "Cuatro",
+        "espectadores": 1394000,
+        "share": 11.3,
+        "rating": 2.9
+      },
+      {
+        "programa": "Aquí la Tierra",
+        "cadena": "La 1",
+        "espectadores": 1341000,
+        "share": 12.5,
+        "rating": 2.8
+      },
+      {
+        "programa": "Sueños de libertad",
+        "cadena": "Antena 3",
+        "espectadores": 1133000,
+        "share": 13.0,
+        "rating": 2.4
+      },
+      {
+        "programa": "La cena de los idiotas: El valor de dinero",
+        "cadena": "La 1",
+        "espectadores": 1127000,
+        "share": 13.9,
+        "rating": 2.4
+      },
+      {
+        "programa": "Allá tú",
+        "cadena": "Telecinco icono",
+        "espectadores": 1069000,
+        "share": 10.4,
+        "rating": 2.2
+      },
+      {
+        "programa": "First dates",
+        "cadena": "Telecinco icono",
+        "espectadores": 1001000,
+        "share": 8.2,
+        "rating": 2.1
+      }
+    ]
   }
 ]
