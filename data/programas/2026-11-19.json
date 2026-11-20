@@ -1,0 +1,75 @@
+{
+  "fecha": "2026-11-19",
+  "programas": [
+    {
+      "programa": "Cara a cara.26",
+      "cadena": "Antena 3",
+      "espectadores": 2461000,
+      "share": 17.1,
+      "rating": 5.2
+    },
+    {
+      "programa": "Especial informativo: El previo: Cara a cara entre sanchez y feijoo",
+      "cadena": "Antena 3",
+      "espectadores": 2176000,
+      "share": 15.5,
+      "rating": 4.6
+    },
+    {
+      "programa": "Pasapalabra",
+      "cadena": "Antena 3",
+      "espectadores": 1882000,
+      "share": 18.3,
+      "rating": 4.0
+    },
+    {
+      "programa": "La ruleta de la suerte",
+      "cadena": "Antena 3",
+      "espectadores": 1626000,
+      "share": 22.2,
+      "rating": 3.4
+    },
+    {
+      "programa": "Especial informativo: El analisis: Cara a cara entre sanchez y feijoo",
+      "cadena": "Antena 3",
+      "espectadores": 1498000,
+      "share": 15.4,
+      "rating": 3.2
+    },
+    {
+      "programa": "Allá tú",
+      "cadena": "Telecinco icono",
+      "espectadores": 1217000,
+      "share": 11.9,
+      "rating": 2.6
+    },
+    {
+      "programa": "Sueños de libertad",
+      "cadena": "Antena 3",
+      "espectadores": 1195000,
+      "share": 14.0,
+      "rating": 2.5
+    },
+    {
+      "programa": "Horizonte especial cara a cara: El analisis",
+      "cadena": "Cuatro",
+      "espectadores": 1171000,
+      "share": 17.9,
+      "rating": 2.5
+    },
+    {
+      "programa": "La gran decision",
+      "cadena": "La 1",
+      "espectadores": 1159000,
+      "share": 11.3,
+      "rating": 2.4
+    },
+    {
+      "programa": "Horizonte especial cara a cara",
+      "cadena": "Cuatro",
+      "espectadores": 1043000,
+      "share": 7.8,
+      "rating": 2.2
+    }
+  ]
+}
