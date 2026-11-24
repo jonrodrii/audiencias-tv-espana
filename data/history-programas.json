@@ -23623,5 +23623,80 @@
         "rating": 1.9
       }
     ]
+  },
+  {
+    "fecha": "2026-11-23",
+    "programas": [
+      {
+        "programa": "E29n: Debate a 8",
+        "cadena": "La 1",
+        "espectadores": 3108000,
+        "share": 24.2,
+        "rating": 6.5
+      },
+      {
+        "programa": "La gran decision",
+        "cadena": "La 1",
+        "espectadores": 2026000,
+        "share": 18.6,
+        "rating": 4.3
+      },
+      {
+        "programa": "El Hormiguero",
+        "cadena": "Antena 3",
+        "espectadores": 1995000,
+        "share": 14.8,
+        "rating": 4.2
+      },
+      {
+        "programa": "Pasapalabra",
+        "cadena": "Antena 3",
+        "espectadores": 1990000,
+        "share": 18.5,
+        "rating": 4.2
+      },
+      {
+        "programa": "E29n: Debate a 8: La cuenta atras",
+        "cadena": "La 1",
+        "espectadores": 1489000,
+        "share": 11.7,
+        "rating": 3.1
+      },
+      {
+        "programa": "La ruleta de la suerte",
+        "cadena": "Antena 3",
+        "espectadores": 1472000,
+        "share": 19.9,
+        "rating": 3.1
+      },
+      {
+        "programa": "Horizonte",
+        "cadena": "Cuatro",
+        "espectadores": 1339000,
+        "share": 10.0,
+        "rating": 2.8
+      },
+      {
+        "programa": "Entrevista: Alberto Nuñez Feijoo",
+        "cadena": "Telecinco icono",
+        "espectadores": 1291000,
+        "share": 10.1,
+        "rating": 2.7
+      },
+      {
+        "programa": "E29n: Debate a 8: El analisis",
+        "cadena": "La 1",
+        "espectadores": 1240000,
+        "share": 18.0,
+        "rating": 2.6
+      },
+      {
+        "programa": "Sueños de libertad",
+        "cadena": "Antena 3",
+        "espectadores": 1142000,
+        "share": 13.2,
+        "rating": 2.4
+      }
+    ]
   }
 ]
