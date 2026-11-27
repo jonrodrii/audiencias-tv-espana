@@ -23848,5 +23848,80 @@
         "rating": 2.0
       }
     ]
+  },
+  {
+    "fecha": "2026-11-26",
+    "programas": [
+      {
+        "programa": "El debate.26",
+        "cadena": "La 1",
+        "espectadores": 3345000,
+        "share": 23.1,
+        "rating": 7.0
+      },
+      {
+        "programa": "Especial informativo: El previo: Debate a cuatro",
+        "cadena": "Antena 3",
+        "espectadores": 2142000,
+        "share": 15.1,
+        "rating": 4.5
+      },
+      {
+        "programa": "La gran decision",
+        "cadena": "La 1",
+        "espectadores": 2017000,
+        "share": 18.6,
+        "rating": 4.2
+      },
+      {
+        "programa": "Pasapalabra",
+        "cadena": "Antena 3",
+        "espectadores": 1715000,
+        "share": 16.8,
+        "rating": 3.6
+      },
+      {
+        "programa": "La ruleta de la suerte",
+        "cadena": "Antena 3",
+        "espectadores": 1613000,
+        "share": 22.2,
+        "rating": 3.4
+      },
+      {
+        "programa": "E29n: Debate a 4: La cuenta atras",
+        "cadena": "La 1",
+        "espectadores": 1491000,
+        "share": 12.5,
+        "rating": 3.1
+      },
+      {
+        "programa": "Sueños de libertad",
+        "cadena": "Antena 3",
+        "espectadores": 1300000,
+        "share": 15.1,
+        "rating": 2.7
+      },
+      {
+        "programa": "E29n: Debate a 4: El analisis",
+        "cadena": "La 1",
+        "espectadores": 1081000,
+        "share": 18.0,
+        "rating": 2.3
+      },
+      {
+        "programa": "Horizonte especial debate a cuatro",
+        "cadena": "Cuatro",
+        "espectadores": 1025000,
+        "share": 7.7,
+        "rating": 2.2
+      },
+      {
+        "programa": "Allá tú",
+        "cadena": "Telecinco icono",
+        "espectadores": 1008000,
+        "share": 10.0,
+        "rating": 2.1
+      }
+    ]
   }
 ]
